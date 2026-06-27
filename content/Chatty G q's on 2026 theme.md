@@ -1,11 +1,9 @@
 ---
-publish: true
-title: Chatty G Q's on 2026 Theme
 created: 2025-12-25 14:09:07
-modified: 2026-01-01 23:17:14
+modified: 2026-06-27 19:58:36
+publish: true
+title: "Chatty G Q's on 2026 Theme"
 ---
-
-
 
 # Chatty G Q's on 2026 Theme
 
@@ -172,6 +170,7 @@ If you want, next time we can:
 - Or turn it into something Quartz-friendly for your site 👀
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
 - [[Theme for 2026]]

@@ -1,6 +1,7 @@
 ---
+tags: [books, projects/doing, todo]
 created: 2026-03-12 17:25:10
-modified: 2026-06-27 13:53:41
+modified: 2026-06-27 19:52:20
 publish: true
 title: Using Dataview
 ---
@@ -31,19 +32,19 @@ Example:
 
 > ***dataview
 > TABLE author, date, rating
-> FROM #books
+> FROM
 > SORT date DESC
 
 ## Tasks!
 
 > ***dataview
-> TASK from #projects/doing
+> TASK from
 > 
 > ***
 
 *** dataview
 
-TASK from #todo
+TASK from
 
 ***
 

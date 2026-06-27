@@ -1,6 +1,7 @@
 ---
+tags: [drinks, booze]
 created: 2025-07-03 23:22:25
-modified: 2026-06-27 13:53:40
+modified: 2026-06-27 19:52:19
 publish: true
 title: Booze
 ---
@@ -11,8 +12,6 @@ title: Booze
 
 [This](http://www.esquire.com/food-drink/drinks/a5884/one-more-drink-0609/) is goddamn genius, so true, and so funny.  
 Via [Gruber](http://daringfireball.net/)
-
-#drinks #booze 
 
 <!-- rhizome:start -->
 

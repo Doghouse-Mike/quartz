@@ -1,10 +1,9 @@
 ---
+created: 2025-10-11 08:06:24
+modified: 2026-06-27 19:52:30
 publish: true
 title: Shows KD Would Watch
-created: 2025-10-11 08:06:24
-modified: 2026-03-19 22:50:11
 ---
-
 
 # Shows KD Would Watch
 

@@ -1,10 +1,9 @@
 ---
+created: 2026-03-12 17:25:10
+modified: 2026-06-27 19:52:36
 publish: true
 title: Presentation Tips
-created: 2026-03-12 17:25:10
-modified: 2026-03-19 22:59:33
 ---
-
 
 # Presentation Tips
 

@@ -1,10 +1,10 @@
 ---
+tags: [todo]
+created: 2026-02-10 21:13:42
+modified: 2026-06-27 19:52:38
 publish: true
 title: Obsidian as a Second Brain Video Notes
-created: 2026-02-10 21:13:42
-modified: 2026-03-19 22:58:58
 ---
-
 
 # Obsidian as a Second Brain Video Notes
 
@@ -14,7 +14,7 @@ Bit of a look into using [[obisidan]] as a [[second brain]] for [[PKM]]
 
 Suggests creating links to cover topics, concepts, ideas. Links will create a new note if it doesn't exist already, but I'm pretty sure there's a way with [[dataview]] to populate those empty notes with highlights from the ones that links to it, or something similar. 
 
-- [x] #todo Research populating "empty" linked to notes created via links #todo ✅ 2025-05-04
+- [x] Research populating "empty" linked to notes created via links ✅ 2025-05-04
 
 Don't have to define every single concept as a link
 

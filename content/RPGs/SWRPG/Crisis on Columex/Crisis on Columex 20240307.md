@@ -1,10 +1,9 @@
 ---
+created: 2026-02-10 21:13:58
+modified: 2026-06-27 19:52:35
 publish: true
 title: SWRPG Session 8
-created: 2026-02-10 21:13:58
-modified: 2026-03-19 22:29:53
 ---
-
 
 # SWRPG Session 8
 

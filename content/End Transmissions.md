@@ -1,8 +1,7 @@
 ---
-categories:
-  - Music
+categories: [Music]
 created: 2026-06-06 12:09:01
-modified: 2026-06-26 14:56:23
+modified: 2026-06-27 19:52:41
 publish: true
 title: End Transmissions
 ---

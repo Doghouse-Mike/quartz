@@ -1,6 +1,7 @@
 ---
+tags: [swift, programming, ipad]
 created: 2026-03-12 17:25:10
-modified: 2026-06-26 19:38:48
+modified: 2026-06-27 19:52:26
 publish: true
 title: Swift Notes
 ---
@@ -228,8 +229,6 @@ EG (with a loop):
 > ! NOT - makes it the opposite, so the condition must be false
 > 
 > || OR - if *either* condition is true, code will run
-
-#swift #programming #ipad
 
 ### Logical Operators
 

@@ -1,6 +1,7 @@
 ---
+tags: [kids]
 created: 2025-07-03 23:21:52
-modified: 2026-06-26 14:53:47
+modified: 2026-06-27 19:52:19
 publish: true
 title: Eagleness
 ---
@@ -13,4 +14,3 @@ Kid made a tabard at school, they're doing a thing about castles and the like.
 We have, and I quote: "A heart, that's for love, a bear, for strength. That's a fox, for cleverness, and an eagle, for eagleness."  
 As you do.
 
-#kids 

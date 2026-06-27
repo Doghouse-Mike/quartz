@@ -1,6 +1,7 @@
 ---
+tags: [music, kids, parenting]
 created: 2026-02-10 21:07:52
-modified: 2026-06-27 13:52:37
+modified: 2026-06-27 19:52:20
 publish: true
 title: After that Another Glass of Wine
 ---
@@ -11,5 +12,3 @@ title: After that Another Glass of Wine
 
 Feeling shitty and listening to some [Amanda Fucking Palmer](http://amandapalmer.net) this morning. My daughter wakes up, and asks to listen to her favourite song. After some (dread-filled) investigation, turns out it was this she wanted, stoked! And feeling slightly better.  
 (The line I stole for the title was the clue that settled it, "It goes tssssssshshshshshhshshs." wasn't cutting it.)
-
-#music #kids #parenting

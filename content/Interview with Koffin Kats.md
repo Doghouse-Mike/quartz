@@ -1,10 +1,9 @@
 ---
+created: 2026-03-11 02:46:11
+modified: 2026-06-27 19:52:41
 publish: true
 title: Interview With Koffin Kats
-created: 2026-03-11 02:46:11
-modified: 2026-03-19 22:57:00
 ---
-
 
 # Interview With Koffin Kats
 
@@ -473,6 +472,7 @@ Anyway, John, how are you fitting into the band?***
 *Vic*: That's always kind of my favourite interviews. The ones that just kind of *go*.
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
 - [[Drafts/OLD interview with KK]]

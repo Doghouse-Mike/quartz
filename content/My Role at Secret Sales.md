@@ -1,11 +1,9 @@
 ---
+created: 2025-11-03 07:15:12
+modified: 2026-06-27 19:52:39
 publish: true
 title: My Role at Secret Sales
-created: 2025-11-03 07:15:12
-modified: 2026-03-12 17:24:42
 ---
-
-
 
 # My Role at Secret Sales
 
@@ -34,6 +32,7 @@ One of my proudest ongoing contributions is maintaining and improving our intern
 - Levelled up team self-sufficiency by maintaining a detailed, accessible knowledge base
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
 - [[Drafts/CV tweaks for Insycle job]]

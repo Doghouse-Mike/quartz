@@ -1,10 +1,9 @@
 ---
+created: 2026-02-10 21:45:44
+modified: 2026-06-27 19:52:41
 publish: true
 title: Exploring the Why? Question
-created: 2026-02-10 21:45:44
-modified: 2026-03-19 22:56:14
 ---
-
 
 # Exploring the Why? Question
 

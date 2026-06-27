@@ -1,6 +1,7 @@
 ---
+tags: [design, ideas, shirts]
 created: 2025-07-21 21:50:42
-modified: 2026-04-11 10:17:17
+modified: 2026-06-27 19:52:21
 publish: true
 title: Tshirt Ideas
 ---
@@ -25,8 +26,3 @@ Koos Motörhead stylee. "Kings of" on top, "outer space" underneath. Motörhead 
 
 Ribena/deaner rip off for the Gratitude boys
 
-#design 
-
-#ideas 
-
-#shirts

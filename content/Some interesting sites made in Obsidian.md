@@ -1,10 +1,9 @@
 ---
+created: 2026-02-10 21:13:55
+modified: 2026-06-27 19:52:27
 publish: true
 title: Some Interesting Sites Made in Obsidian
-created: 2026-02-10 21:13:55
-modified: 2026-03-30 22:49:33
 ---
-
 
 # Some Interesting Sites Made in Obsidian
 
@@ -40,6 +39,7 @@ https://bryanhogan.com/blog/obsidian-website
 - I especially enjoy Kepano's, as they're actually doing actual work. A lot of "content" around Obsidian seems more about how you can use Obsidian to use Obsidian, rather than by people with relatively jobby jobs.
 
 <!-- rhizome:start -->
+
 ## Related Notes
 
 - [[Obsidian Resources (1)]]

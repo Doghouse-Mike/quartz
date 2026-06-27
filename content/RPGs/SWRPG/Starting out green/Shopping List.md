@@ -1,10 +1,9 @@
 ---
+created: 2025-07-04 21:00:49
+modified: 2026-06-27 19:52:30
 publish: true
 title: Shoppings List
-created: 2025-07-04 21:00:49
-modified: 2026-03-19 22:50:10
 ---
-
 
 # Shoppings List
 
