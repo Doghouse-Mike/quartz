@@ -11,3 +11,51 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.keep-the-rhythm
+.smart-env
+.quartz-cache
+private/
+.replit
+replit.nix
+private/
+Templates/
+templates/
+FleetingNotesApp/
+LYT Kit/
+Meetings/
+Old Blog Posts/
+PKM LM/
+Tasks/
+To read/
+Resources/
+Secret Sales Help Centre/
+smart-chats/
+Daily Notes/
+Daily notes/
+Large Attachments/
+blog/
+Clippings/
+Chats/
+Day One/
+day-one-in/
+BMO/
+L101/
+Day-one-entries/
+day-one-entries/
+FleetingNotesApp/
+L101/
+Slurped Pages/
+Drafts/
+.obsidian/
+.smart-env/
+Tasknotes/
+TaskNotes/
+.Trash/
+.trash/
