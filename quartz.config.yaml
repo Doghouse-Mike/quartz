@@ -240,8 +240,8 @@ plugins:
       hideFolderPages: true
       linkToMore: true
       layout:
-      position: right
-      priority: 25
+        position: right
+        priority: 24
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
