@@ -229,7 +229,7 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: true
-    options:
+    options: null
     limit: 6
     showTags: true
     hideTagPages: false
