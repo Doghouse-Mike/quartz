@@ -1,9 +1,9 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
- 
+
 // Advanced: pass callback functions that can't be expressed in YAML
 ExternalPlugin.Explorer({
-sortFn: (a, b) => {    
+  sortFn: (a, b) => {    
     // First, sort folders before files    
     if (a.isFolder && !b.isFolder) return -1    
     if (!a.isFolder && b.isFolder) return 1    
@@ -32,12 +32,12 @@ sortFn: (a, b) => {
     return a.displayName.localeCompare(b.displayName, undefined, {    
       numeric: true,    
       sensitivity: "base",    
+    })
+  }
 })
- 
-const config = await loadQuartzConfig()
-export default config
-export const layout = await loadQuartzLayout()
 
 const config = await loadQuartzConfig()
+const layout = await loadQuartzLayout()
+
 export default config
-export const layout = await loadQuartzLayout()
+export const { layout }
