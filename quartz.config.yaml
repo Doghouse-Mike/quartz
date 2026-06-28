@@ -229,6 +229,11 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+    limit: 6
+    showTags: true
+    hideTagPages: false
+    hideFolderPages: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
