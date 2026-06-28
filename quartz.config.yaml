@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-GB
-  baseUrl: https://doghouse-mike.github.io/quartz/
+  baseUrl: https://28mm.coffee
   ignorePatterns:
     - private
     - templates
