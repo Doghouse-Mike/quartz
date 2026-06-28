@@ -1,8 +1,8 @@
 ---
-created: 2026-02-10 21:45:44
-modified: 2026-06-27 19:52:41
 publish: true
 title: Exploring the Why? Question
+created: 2026-02-10 21:45:44
+modified: 2026-06-27 19:52:41
 ---
 
 # Exploring the Why? Question
@@ -25,7 +25,7 @@ In content?
 
 In association?
 
-And now you could try to explore how you created a difference between choices:   
+And now you could try to explore how you created a difference between choices:
 
 What is the difference in how I created them?
 

@@ -1,8 +1,8 @@
 ---
-created: 2026-02-06 21:46:36
-modified: 2026-06-27 19:52:31
 publish: true
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
+created: 2026-02-06 21:46:36
+modified: 2026-06-27 19:52:31
 ---
 
 # Other Types of Characters I Think it Could Be Fun to Play:
@@ -23,4 +23,4 @@ Or the opposite of that. Real good at smashing stuff up but tries to avoid it. -
 
 ## Synth/Replicant
 
-A droid that can pass as human (or a different species). All of the extra special bonus points for the other players not knowing initially too. A [Gank](https://star-wars-rpg-ffg.fandom.com/wiki/Gank) could be a good disguise. Pass as a cyborg/augmented human for as long as possible. 
+A droid that can pass as human (or a different species). All of the extra special bonus points for the other players not knowing initially too. A [Gank](https://star-wars-rpg-ffg.fandom.com/wiki/Gank) could be a good disguise. Pass as a cyborg/augmented human for as long as possible.

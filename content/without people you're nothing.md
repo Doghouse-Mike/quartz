@@ -1,9 +1,11 @@
 ---
-tags: [music, kids]
+publish: true
+title: Without People You're Nothing
 created: 2026-02-10 21:45:44
 modified: 2026-06-27 19:52:19
-publish: true
-title: "Without People You're Nothing"
+tags:
+  - music
+  - kids
 ---
 
 # Without People You're Nothing
@@ -17,4 +19,5 @@ I know it's not one of [his](http://en.m.wikipedia.org/wiki/Joe_Strummer) but th
 ## Related Notes
 
 - [[2013-12-24 012043]]
+
 <!-- rhizome:end -->

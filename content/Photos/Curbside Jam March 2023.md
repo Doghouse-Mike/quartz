@@ -1,10 +1,11 @@
 ---
-tags: [BMX, photos]
+publish: true
+title: Curbside Jam March 2023
 created: 2026-03-10 21:34:44
 modified: 2026-06-26 20:03:09
-publish: true
-published: true
-title: Curbside Jam March 2023
+tags:
+  - BMX
+  - photos
 ---
 
 # Curbside Jam March 2023

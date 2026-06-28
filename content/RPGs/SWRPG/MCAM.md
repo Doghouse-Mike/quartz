@@ -1,8 +1,8 @@
 ---
-created: 2025-05-31 23:43:07
-modified: 2026-06-27 19:52:32
 publish: true
 title: Memory Cores And Motivators
+created: 2025-05-31 23:43:07
+modified: 2026-06-27 19:52:32
 ---
 
 # Memory Cores And Motivators

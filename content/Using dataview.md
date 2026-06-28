@@ -1,19 +1,21 @@
 ---
-tags: [books, projects/doing, todo]
 publish: true
 title: Using Dataview
 created: 2026-03-12 17:25:10
 modified: 2026-03-19 23:02:30
+tags:
+  - books
+  - projects/doing
+  - todo
 ---
-
 
 # Using Dataview
 
 Metadata in notes
 
-Frontmatter in YAML, as above 
+Frontmatter in YAML, as above
 
-Not sure that's working. Needs 3 "-" above/below, but I seem to get — when I get to two. Spaces and then deleting them seems to work. Probably a setting somewhere to not put the big bois in. 
+Not sure that's working. Needs 3 "-" above/below, but I seem to get — when I get to two. Spaces and then deleting them seems to work. Probably a setting somewhere to not put the big bois in.
 
 Offers list, table, and task view
 
@@ -23,7 +25,7 @@ Task view would be the one.
 
 Example:
 
-> ***dataview
+> \*\*\*dataview
 > LIST
 > FROM "Name of folder"
 > SORT file.size DESC
@@ -31,22 +33,22 @@ Example:
 
 ## Tables
 
-> ***dataview
+> \*\*\*dataview
 > TABLE author, date, rating
 > FROM
 > SORT date DESC
 
 ## Tasks!
 
-> ***dataview
+> \*\*\*dataview
 > TASK from
-> 
-> ***
+>
+> ---
 
-*** dataview
+\*\*\* dataview
 
 TASK from
 
-***
+---
 
-Think I've donked that up somewhere along the way. Vid sped over it pretty quick, but I got some articles to read too. More research required, standard. 
+Think I've donked that up somewhere along the way. Vid sped over it pretty quick, but I got some articles to read too. More research required, standard.

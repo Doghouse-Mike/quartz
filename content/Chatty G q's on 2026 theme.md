@@ -1,8 +1,8 @@
 ---
+publish: true
+title: Chatty G Q's on 2026 Theme
 created: 2025-12-25 14:09:07
 modified: 2026-06-27 19:58:36
-publish: true
-title: "Chatty G Q's on 2026 Theme"
 ---
 
 # Chatty G Q's on 2026 Theme
@@ -39,7 +39,7 @@ For "Going Out"
 Ask yourself:
 
 - Does "out" mean any leaving the house, or intentional outings?
-- Does it include:  
+- Does it include:
 - A walk round the block?
 - Going to a café alone?
 - Visiting friends?
@@ -65,7 +65,7 @@ What version of "out" would still feel valid on a low-energy week?
 
 frequency
 
- instead of goals
+instead of goals
 
 Themes work best when you track occurrence, not outcomes.
 
@@ -174,4 +174,5 @@ If you want, next time we can:
 ## Related Notes
 
 - [[Theme for 2026]]
+
 <!-- rhizome:end -->
