@@ -92,7 +92,7 @@ plugins:
     enabled: true
     order: 70
   - source: github:quartz-community/latex
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80
@@ -115,7 +115,7 @@ plugins:
   - source: github:quartz-community/explicit-publish
     enabled: true
   - source: github:quartz-community/unlisted-pages
-    enabled: true
+    enabled: false
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
@@ -157,6 +157,7 @@ plugins:
     layout:
       position: left
       priority: 50
+    options: {}
   - source: github:quartz-community/graph
     enabled: true
     layout:
@@ -191,10 +192,11 @@ plugins:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 10
+    options: {}
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
@@ -229,7 +231,10 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: true
-    options: null
+    options:
+      limit: 8
+      hideTagPages: true
+      hideFolderPages: true
     limit: 6
     showTags: true
     hideTagPages: false
@@ -271,7 +276,7 @@ plugins:
     options:
       theme: elysian
   - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
