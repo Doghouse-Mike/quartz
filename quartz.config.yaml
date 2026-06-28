@@ -234,13 +234,10 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      limit: 8
-      hideTagPages: true
-      hideFolderPages: true
-    limit: 6
-    showTags: true
-    hideTagPages: false
-    hideFolderPages: false
+    limit: 8
+    hideTagPages: true
+    hideFolderPages: true
+    showTags: true§
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
