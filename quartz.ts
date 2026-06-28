@@ -1,6 +1,6 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
-
+ 
 // Advanced: pass callback functions that can't be expressed in YAML
 ExternalPlugin.Explorer({
   sortFn: (a, b) => {    
@@ -32,17 +32,11 @@ ExternalPlugin.Explorer({
     return a.displayName.localeCompare(b.displayName, undefined, {    
       numeric: true,    
       sensitivity: "base",    
-    })
-  }
+    })    
+  },    
 })
 
-- const config = await loadQuartzConfig()
-- const layout = await loadQuartzLayout()
--
-- export default config
-- export const { layout }
-+ const config = await loadQuartzConfig()
-+ const layout = await loadQuartzLayout()
-+
-+ export default config
-+ export { layout }
+ 
+const config = await loadQuartzConfig()
+export default config
+export const layout = await loadQuartzLayout()
