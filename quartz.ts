@@ -36,8 +36,13 @@ ExternalPlugin.Explorer({
   }
 })
 
-const config = await loadQuartzConfig()
-const layout = await loadQuartzLayout()
-
-export default config
-export const { layout }
+- const config = await loadQuartzConfig()
+- const layout = await loadQuartzLayout()
+-
+- export default config
+- export const { layout }
++ const config = await loadQuartzConfig()
++ const layout = await loadQuartzLayout()
++
++ export default config
++ export { layout }
