@@ -1,4 +1,3 @@
-import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
  // Advanced: pass callback functions that can't be expressed in YAML
 ExternalPlugin.Explorer({
@@ -34,6 +33,7 @@ ExternalPlugin.Explorer({
     })    
   },    
 })
+import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 const config = await loadQuartzConfig()
 export default config
 export const layout = await loadQuartzLayout()
