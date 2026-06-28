@@ -1,10 +1,11 @@
 ---
 tags: [drinks, booze]
-created: 2025-07-03 23:22:25
-modified: 2026-06-27 19:52:19
 publish: true
 title: Booze
+created: 2025-07-03 23:22:25
+modified: 2026-03-19 22:55:04
 ---
+
 
 # Booze
 
@@ -14,7 +15,6 @@ title: Booze
 Via [Gruber](http://daringfireball.net/)
 
 <!-- rhizome:start -->
-
 ## Related Notes
 
 - [[2015-03-15 003047]]

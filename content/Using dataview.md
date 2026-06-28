@@ -1,10 +1,11 @@
 ---
 tags: [books, projects/doing, todo]
-created: 2026-03-12 17:25:10
-modified: 2026-06-27 19:52:20
 publish: true
 title: Using Dataview
+created: 2026-03-12 17:25:10
+modified: 2026-03-19 23:02:30
 ---
+
 
 # Using Dataview
 
