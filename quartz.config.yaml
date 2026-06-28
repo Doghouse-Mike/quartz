@@ -239,6 +239,9 @@ plugins:
       hideTagPages: true
       hideFolderPages: true
       linkToMore: true
+      layout:
+      position: right
+      priority: 25
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
