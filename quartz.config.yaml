@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-GB
   baseUrl: https://doghouse-mike.github.io/quartz/
   ignorePatterns:
     - private
@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: VT323
+      body: Geist Mono
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -113,13 +113,13 @@ plugins:
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: false
+    enabled: true
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
-    enabled: true
+    enabled: false
     options:
       iterations: 600000
       passwordField: password
@@ -228,7 +228,7 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -262,9 +262,9 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: false
+    enabled: true
     options:
-      theme: default
+      theme: elysian
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
