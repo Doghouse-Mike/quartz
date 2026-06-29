@@ -42,7 +42,6 @@ https://bryanhogan.com/blog/obsidian-website
 
 ## Related Notes
 
-- [[Obsidian Resources (1)]]
 - [[Obsidian Resources]]
 
 <!-- rhizome:end -->
