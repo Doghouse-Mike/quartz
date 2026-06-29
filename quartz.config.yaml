@@ -234,14 +234,13 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: Recent
       limit: 8
       hideTagPages: true
       hideFolderPages: true
-      linkToMore: true
-      layout:
-        position: right
-        priority: 24
+    limit: 6
+    showTags: true
+    hideTagPages: false
+    hideFolderPages: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -277,7 +276,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: elysian
+      theme: cybrcore
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: false
     options:
