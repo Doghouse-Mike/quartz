@@ -276,7 +276,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: elysian
+      theme: flexcyon
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: false
     options:
