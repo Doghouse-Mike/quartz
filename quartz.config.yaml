@@ -111,7 +111,7 @@ plugins:
   - source: github:quartz-community/fonts
     enabled: true
     options:
-      useThemeFonts: true
+      useThemeFonts: false
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
