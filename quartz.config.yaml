@@ -279,7 +279,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: bureau
+      theme: elysian
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: false
     options:
