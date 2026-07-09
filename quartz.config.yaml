@@ -109,7 +109,9 @@ plugins:
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
-    enabled: false
+    enabled: true
+    options:
+      useThemeFonts: true
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
