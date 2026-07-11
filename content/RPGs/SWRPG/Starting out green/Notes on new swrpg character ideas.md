@@ -4,7 +4,7 @@ aliases:
   - Notes on New Swrpg Character Ideas
 title: Notes on New Swrpg Character Ideas
 created: 2025-05-31 18:00:05
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # Notes on New Swrpg Character Ideas

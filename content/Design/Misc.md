@@ -2,7 +2,7 @@
 publish: true
 title: Misc
 created: 2025-04-01 17:12:14
-modified: 2026-07-11 23:10:45
+modified: 2026-07-11 23:31:07
 tags:
   - design
 ---

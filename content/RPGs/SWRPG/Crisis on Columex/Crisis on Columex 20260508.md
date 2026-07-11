@@ -2,7 +2,7 @@
 publish: true
 title: Crisis on Columex 20260508
 created: 2026-05-08 19:05:50
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # Crisis on Columex 20260508

@@ -4,7 +4,7 @@ aliases:
   - On Instead of "I Have tO", "I Choose tO"
 title: On Instead of "I Have tO", "I Choose tO"
 created: 2026-02-10 21:45:44
-modified: 2026-07-11 23:10:45
+modified: 2026-07-11 23:31:07
 ---
 
 # On Instead of "I Have tO", "I Choose tO"

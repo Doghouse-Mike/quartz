@@ -4,7 +4,7 @@ aliases:
   - Shoppings List
 title: Shoppings List
 created: 2025-07-04 21:00:49
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # Shoppings List

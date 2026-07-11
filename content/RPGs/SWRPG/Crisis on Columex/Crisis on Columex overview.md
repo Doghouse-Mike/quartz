@@ -4,7 +4,7 @@ aliases:
   - Crisis on Columex Overview
 title: Crisis on Columex Overview
 created: 2026-01-25 21:47:32
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # Crisis on Columex Overview

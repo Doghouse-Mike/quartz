@@ -4,7 +4,7 @@ aliases:
   - SWRPG Session 8
 title: SWRPG Session 8
 created: 2026-02-10 21:13:58
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # SWRPG Session 8

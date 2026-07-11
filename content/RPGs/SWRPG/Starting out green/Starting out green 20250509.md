@@ -4,7 +4,7 @@ aliases:
   - Starting out Green 20250509
 title: Starting out Green 20250509
 created: 2025-09-05 21:11:30
-modified: 2026-07-11 23:11:32
+modified: 2026-07-11 23:31:53
 ---
 
 # Starting out Green 20250509

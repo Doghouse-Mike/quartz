@@ -2,7 +2,7 @@
 publish: true
 title: Graveyard Johnnys, Cardiff
 created: 2026-03-16 23:21:49
-modified: 2026-07-11 23:11:34
+modified: 2026-07-11 23:31:55
 tags:
   - gigs
   - photos

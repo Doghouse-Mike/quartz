@@ -4,7 +4,7 @@ aliases:
   - Die, Diddily Die, My Darling
 title: Die, Diddily Die, My Darling
 created: 2025-07-19 00:07:45
-modified: 2026-07-11 23:11:31
+modified: 2026-07-11 23:31:53
 ---
 
 # Die, Diddily Die, My Darling

@@ -4,7 +4,7 @@ aliases:
   - Obsidian as a Second Brain Video Notes
 title: Obsidian as a Second Brain Video Notes
 created: 2026-02-10 21:13:42
-modified: 2026-07-11 23:10:46
+modified: 2026-07-11 23:31:07
 tags:
   - todo
 ---

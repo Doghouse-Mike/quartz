@@ -2,7 +2,7 @@
 publish: true
 title: KD-40N
 created: 2025-06-02 20:48:24
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # KD-40N

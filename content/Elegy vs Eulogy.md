@@ -4,7 +4,7 @@ aliases:
   - Elegy Vs Eulogy
 title: Elegy Vs Eulogy
 created: 2025-07-17 21:43:10
-modified: 2026-07-11 23:11:32
+modified: 2026-07-11 23:31:53
 ---
 
 # Elegy Vs Eulogy

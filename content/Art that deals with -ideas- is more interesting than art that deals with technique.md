@@ -4,7 +4,7 @@ aliases:
   - Art that Deals With *ideas* is More Interesting Than Art that Deals With Technique
 title: Art that Deals With *ideas* is More Interesting Than Art that Deals With Technique
 created: 2026-02-10 21:45:44
-modified: 2026-07-11 23:11:31
+modified: 2026-07-11 23:31:53
 ---
 
 # Art that Deals With _ideas_ is More Interesting Than Art that Deals With Technique

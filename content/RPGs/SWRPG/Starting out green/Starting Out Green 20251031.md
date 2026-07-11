@@ -2,7 +2,7 @@
 publish: true
 title: Starting Out Green 20251031
 created: 2025-10-31 20:04:40
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # Starting Out Green 20251031

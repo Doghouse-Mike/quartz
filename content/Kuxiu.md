@@ -4,7 +4,7 @@ aliases:
   - Kuxiu M30 Ipad Charger
 title: Kuxiu M30 Ipad Charger
 created: 2025-08-14 09:58:51
-modified: 2026-07-11 23:11:34
+modified: 2026-07-11 23:31:55
 ---
 
 # Kuxiu M30 Ipad Charger

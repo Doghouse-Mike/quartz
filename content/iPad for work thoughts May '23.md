@@ -4,7 +4,7 @@ aliases:
   - iPad for Work Thoughts May '23
 title: iPad for Work Thoughts May '23
 created: 2025-07-21 21:50:42
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:55
 ---
 
 # iPad for Work Thoughts May '23

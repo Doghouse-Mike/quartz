@@ -2,7 +2,7 @@
 publish: true
 title: SWRPG Starter Ship Decision
 created: 2026-03-16 23:21:49
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:31:54
 ---
 
 # SWRPG Starter Ship Decision
