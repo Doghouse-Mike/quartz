@@ -2,7 +2,7 @@
 publish: true
 title: Shoppings List
 created: 2025-07-04 21:00:49
-modified: 2026-07-11 23:49:05
+modified: 2026-07-12 00:49:35
 ---
 
 # Shoppings List

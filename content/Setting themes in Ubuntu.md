@@ -2,7 +2,7 @@
 publish: true
 title: Setting Themes in Ubuntu
 created: 2026-06-14 09:06:36
-modified: 2026-07-11 23:48:19
+modified: 2026-07-12 00:53:11
 ---
 
 # Setting Themes in Ubuntu

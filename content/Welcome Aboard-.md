@@ -2,7 +2,7 @@
 publish: true
 title: Welcome Aboard!
 created: 2026-02-10 21:45:44
-modified: 2026-07-11 23:49:07
+modified: 2026-07-12 00:49:36
 ---
 
 - for historical context of when I was trying to pimp myself out a bit more

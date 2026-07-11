@@ -2,7 +2,7 @@
 publish: true
 title: Snapcase
 created: 2026-06-06 12:31:50
-modified: 2026-07-11 23:48:19
+modified: 2026-07-12 00:53:11
 ---
 
 # Snapcase

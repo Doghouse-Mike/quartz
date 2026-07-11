@@ -2,7 +2,7 @@
 publish: true
 title: KD's Review of Recent Events
 created: 2026-01-25 11:08:02
-modified: 2026-07-11 23:49:05
+modified: 2026-07-12 00:49:35
 ---
 
 # KD's Review of Recent Events

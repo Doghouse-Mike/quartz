@@ -2,11 +2,10 @@
 publish: true
 title: Tshirt Ideas
 created: 2025-07-21 21:50:42
-modified: 2026-07-11 23:49:05
+modified: 2026-07-12 00:49:34
 tags:
   - design
   - ideas
-  - shirts
 ---
 
 # Tshirt Ideas

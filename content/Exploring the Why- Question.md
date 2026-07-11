@@ -2,7 +2,7 @@
 publish: true
 title: Exploring the Why? Question
 created: 2026-02-10 21:45:44
-modified: 2026-07-11 23:49:06
+modified: 2026-07-12 00:49:36
 ---
 
 # Exploring the Why? Question

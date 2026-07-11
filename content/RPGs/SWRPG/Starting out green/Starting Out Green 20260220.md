@@ -2,7 +2,7 @@
 publish: true
 title: Starting Out Green 20260220
 created: 2026-02-20 20:59:44
-modified: 2026-07-11 23:49:05
+modified: 2026-07-12 00:49:35
 ---
 
 # Starting Out Green 20260220

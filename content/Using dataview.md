@@ -2,11 +2,9 @@
 publish: true
 title: Using Dataview
 created: 2026-03-12 17:25:10
-modified: 2026-07-11 23:49:05
+modified: 2026-07-12 00:49:34
 tags:
   - books
-  - projects/doing
-  - todo
 ---
 
 # Using Dataview

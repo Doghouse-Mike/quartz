@@ -2,7 +2,7 @@
 publish: true
 title: Ed's Plan for How the Lab Could Go Down
 created: 2026-04-14 07:12:40
-modified: 2026-07-11 23:49:06
+modified: 2026-07-12 00:49:35
 ---
 
 # Ed's Plan for How the Lab Could Go Down

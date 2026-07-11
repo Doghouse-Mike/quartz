@@ -2,7 +2,7 @@
 publish: true
 title: SWRPG Session 3
 created: 2026-02-23 07:08:24
-modified: 2026-07-11 23:49:06
+modified: 2026-07-12 00:49:35
 ---
 
 # SWRPG Session 3

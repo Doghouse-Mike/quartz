@@ -2,7 +2,7 @@
 publish: true
 title: Runx Funny Drunk Sayings
 created: 2025-07-03 23:22:40
-modified: 2026-07-11 23:48:19
+modified: 2026-07-12 00:53:11
 ---
 
 # Runx Funny Drunk Sayings

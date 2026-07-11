@@ -2,7 +2,7 @@
 publish: true
 title: Mike's Notes Against Chaos
 created: 2026-04-12 21:50:24
-modified: 2026-07-11 23:49:04
+modified: 2026-07-12 00:49:34
 ---
 
 # Mike's Notes Against Chaos

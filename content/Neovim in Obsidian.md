@@ -2,7 +2,7 @@
 publish: true
 title: Neovim in Obsidian
 created: 2025-06-30 21:52:24
-modified: 2026-07-11 23:49:07
+modified: 2026-07-12 00:49:36
 ---
 
 # Neovim in Obsidian

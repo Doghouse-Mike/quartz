@@ -2,7 +2,7 @@
 publish: true
 title: Initial DND Thoughts
 created: 2026-03-27 21:48:03
-modified: 2026-07-11 23:49:05
+modified: 2026-07-12 00:49:34
 ---
 
 # Initial DND Thoughts

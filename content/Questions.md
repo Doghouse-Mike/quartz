@@ -2,7 +2,7 @@
 publish: true
 title: Questions
 created: 2026-05-02 09:42:20
-modified: 2026-07-11 23:49:04
+modified: 2026-07-12 00:49:34
 tags:
   - Linux
 ---

@@ -2,7 +2,7 @@
 publish: true
 title: The King is Dead
 created: 2026-01-16 16:08:58
-modified: 2026-07-11 23:48:19
+modified: 2026-07-12 00:53:11
 ---
 
 # The King is Dead

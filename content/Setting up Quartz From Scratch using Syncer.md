@@ -2,7 +2,7 @@
 publish: true
 title: Setting Up Quartz From Scratch Using Syncer
 created: 2026-02-18 08:27:43
-modified: 2026-07-11 23:49:05
+modified: 2026-07-12 00:49:34
 ---
 
 # Setting Up Quartz From Scratch Using Syncer

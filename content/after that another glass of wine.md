@@ -2,11 +2,10 @@
 publish: true
 title: After that Another Glass of Wine
 created: 2026-02-10 21:07:52
-modified: 2026-07-11 23:48:18
+modified: 2026-07-12 00:53:11
 tags:
   - music
   - kids
-  - parenting
 ---
 
 # After that Another Glass of Wine
