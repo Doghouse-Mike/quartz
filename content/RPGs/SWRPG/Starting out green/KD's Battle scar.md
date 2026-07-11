@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - KD's Battle Scar
 title: KD's Battle Scar
 created: 2025-08-14 20:19:03
-modified: 2026-07-11 23:31:53
+modified: 2026-07-11 23:49:05
 ---
 
 # KD's Battle Scar

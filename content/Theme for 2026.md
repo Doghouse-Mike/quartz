@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The Year of "Out"
 title: The Year of "Out"
 created: 2025-12-25 13:17:42
-modified: 2026-07-11 23:31:07
+modified: 2026-07-11 23:48:18
 ---
 
 # The Year of "Out"

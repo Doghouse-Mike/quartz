@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The Idiot's Guide to Unionising Your UK Workplace
 title: The Idiot's Guide to Unionising Your UK Workplace
 created: 2026-01-16 16:08:59
-modified: 2026-07-11 23:31:28
+modified: 2026-07-11 23:48:38
 ---
 
 see also [[Unionising summary]]

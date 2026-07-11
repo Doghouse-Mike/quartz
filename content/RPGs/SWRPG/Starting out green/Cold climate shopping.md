@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Cold Climate Shopping
 title: Cold Climate Shopping
 created: 2026-02-27 16:14:56
-modified: 2026-07-11 23:31:54
+modified: 2026-07-11 23:49:05
 ---
 
 # Cold Climate Shopping

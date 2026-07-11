@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - SWRPG Session 12
 title: SWRPG Session 12
 created: 2025-11-19 19:07:06
-modified: 2026-07-11 23:31:54
+modified: 2026-07-11 23:49:06
 ---
 
 # SWRPG Session 12

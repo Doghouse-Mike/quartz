@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Interview With Koffin Kats
 title: Interview With Koffin Kats
 created: 2026-03-11 02:46:11
-modified: 2026-07-11 23:31:53
+modified: 2026-07-11 23:49:05
 ---
 
 # Interview With Koffin Kats

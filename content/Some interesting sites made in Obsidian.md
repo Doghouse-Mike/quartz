@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Some Interesting Sites Made in Obsidian
 title: Some Interesting Sites Made in Obsidian
 created: 2026-02-10 21:13:55
-modified: 2026-07-11 23:31:07
+modified: 2026-07-11 23:48:19
 ---
 
 # Some Interesting Sites Made in Obsidian

@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Exploring the Why? Question
 title: Exploring the Why? Question
 created: 2026-02-10 21:45:44
-modified: 2026-07-11 23:31:55
+modified: 2026-07-11 23:49:06
 ---
 
 # Exploring the Why? Question

@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Starting out Green 20260109
 title: Starting out Green 20260109
 created: 2026-01-09 20:51:14
-modified: 2026-07-11 23:31:53
+modified: 2026-07-11 23:49:05
 ---
 
 # Starting out Green 20260109

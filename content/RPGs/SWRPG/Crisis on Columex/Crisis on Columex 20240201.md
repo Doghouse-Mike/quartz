@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - SWRPG Session 7
 title: SWRPG Session 7
 created: 2026-02-10 21:13:58
-modified: 2026-07-11 23:31:54
+modified: 2026-07-11 23:49:05
 ---
 
 # SWRPG Session 7

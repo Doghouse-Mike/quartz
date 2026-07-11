@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The King is Dead
 title: The King is Dead
 created: 2026-01-16 16:08:58
-modified: 2026-07-11 23:31:07
+modified: 2026-07-11 23:48:19
 ---
 
 # The King is Dead

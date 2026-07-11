@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Shows KD Would Watch
 title: Shows KD Would Watch
 created: 2025-10-11 08:06:24
-modified: 2026-07-11 23:31:53
+modified: 2026-07-11 23:49:05
 ---
 
 # Shows KD Would Watch

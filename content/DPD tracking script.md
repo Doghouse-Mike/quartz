@@ -1,9 +1,10 @@
 ---
 publish: true
-aliases:
-  - DPD Tracking Script
 created: 2026-07-11 21:55:13
-modified: 2026-07-11 23:31:07
+modified: 2026-07-11 23:51:04
+tags:
+  - Pyhon
+  - dayjob
 ---
 
 # DPD Tracking Script
@@ -180,7 +181,7 @@ finally:
     print("\nProgress saved to 'dpd_results.csv' on your desktop.")
 ```
 
-In action:
+In action (not real time, some flashing, photosensitive peeps be warned):
 
 ![[attachment/My Movie 5.mov]]
 

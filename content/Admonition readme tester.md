@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Admonition Readme Tester
 title: Admonition Readme Tester
 created: 2026-02-23 07:36:18
-modified: 2026-07-11 23:31:53
+modified: 2026-07-11 23:49:05
 ---
 
 # Admonition Readme Tester

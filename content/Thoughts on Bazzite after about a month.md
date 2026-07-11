@@ -1,9 +1,7 @@
 ---
 publish: true
-aliases:
-  - Thoughts on Bazzite after about a Month
 created: 2026-07-08 01:22:31
-modified: 2026-07-11 23:31:55
+modified: 2026-07-11 23:49:06
 tags:
   - Bazzite
   - Linux

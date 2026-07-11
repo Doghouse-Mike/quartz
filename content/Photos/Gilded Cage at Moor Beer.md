@@ -2,7 +2,7 @@
 publish: true
 title: Gilded Cage at Moor Beer
 created: 2026-03-10 21:37:13
-modified: 2026-07-11 23:31:55
+modified: 2026-07-11 23:49:06
 tags:
   - gigs
   - photos

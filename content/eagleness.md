@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Eagleness
 title: Eagleness
 created: 2025-07-03 23:21:52
-modified: 2026-07-11 23:31:55
+modified: 2026-07-11 23:49:07
 tags:
   - kids
 ---

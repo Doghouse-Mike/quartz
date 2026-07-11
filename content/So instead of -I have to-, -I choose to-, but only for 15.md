@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - On Instead of "I Have tO", "I Choose tO"
 title: On Instead of "I Have tO", "I Choose tO"
 created: 2026-02-10 21:45:44
-modified: 2026-07-11 23:31:07
+modified: 2026-07-11 23:48:19
 ---
 
 # On Instead of "I Have tO", "I Choose tO"

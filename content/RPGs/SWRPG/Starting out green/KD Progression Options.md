@@ -2,7 +2,7 @@
 publish: true
 title: KD Progression Options
 created: 2025-11-03 08:25:35
-modified: 2026-07-11 23:31:54
+modified: 2026-07-11 23:49:05
 ---
 
 # KD Progression Options

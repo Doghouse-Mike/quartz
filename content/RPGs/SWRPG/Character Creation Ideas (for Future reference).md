@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Character Creation Ideas (For Future rEference)
 title: Character Creation Ideas (For Future rEference)
 created: 2025-07-06 18:57:05
-modified: 2026-07-11 23:31:54
+modified: 2026-07-11 23:49:06
 ---
 
 # Character Creation Ideas (For Future rEference)

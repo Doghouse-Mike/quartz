@@ -2,7 +2,7 @@
 publish: true
 title: Now
 created: 2026-04-24 23:05:38
-modified: 2026-07-11 23:31:55
+modified: 2026-07-11 23:49:07
 ---
 
 # Now

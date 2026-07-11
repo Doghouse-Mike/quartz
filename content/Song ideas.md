@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Song Ideas
 title: Song Ideas
 created: 2025-07-21 21:50:42
-modified: 2026-07-11 23:31:53
+modified: 2026-07-11 23:49:04
 ---
 
 # Song Ideas

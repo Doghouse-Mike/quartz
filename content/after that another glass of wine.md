@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - After that Another Glass of Wine
 title: After that Another Glass of Wine
 created: 2026-02-10 21:07:52
-modified: 2026-07-11 23:31:07
+modified: 2026-07-11 23:48:18
 tags:
   - music
   - kids

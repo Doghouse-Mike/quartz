@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Without People You're Nothing
 title: Without People You're Nothing
 created: 2026-02-10 21:45:44
-modified: 2026-07-11 23:28:42
+modified: 2026-07-11 23:49:07
 tags:
   - music
   - kids

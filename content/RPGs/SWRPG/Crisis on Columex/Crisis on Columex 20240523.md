@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Session 10
 title: Session 10
 created: 2026-02-10 22:20:08
-modified: 2026-07-11 23:31:54
+modified: 2026-07-11 23:49:06
 ---
 
 # Session 10
