@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - DPD Tracking Script
-created: 2026-07-11T20:55:13.066Z
-modified: 2026-07-11T21:29:40.603Z
+created: 2026-07-11 21:55:13
+modified: 2026-07-11 23:10:44
 ---
 
 # DPD Tracking Script

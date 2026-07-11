@@ -2,7 +2,7 @@
 publish: true
 title: Starting out Green 20250627
 created: 2025-06-27 20:45:45
-modified: 2026-06-27 19:52:29
+modified: 2026-07-11 23:11:33
 ---
 
 Following on from [[RPGs/SWRPG/Starting out green/Starting out Green 20250613]]

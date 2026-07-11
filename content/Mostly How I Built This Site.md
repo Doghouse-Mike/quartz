@@ -2,7 +2,7 @@
 publish: true
 title: Mostly How I Built This Site
 created: 2025-07-21 21:34:35
-modified: 2026-06-26 14:55:08
+modified: 2026-07-11 23:11:34
 ---
 
 # Mostly How I Built This Site

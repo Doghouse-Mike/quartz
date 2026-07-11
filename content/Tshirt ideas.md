@@ -4,7 +4,7 @@ aliases:
   - Tshirt Ideas
 title: Tshirt Ideas
 created: 2025-07-21 21:50:42
-modified: 2026-06-27 19:52:21
+modified: 2026-07-11 23:11:32
 tags:
   - design
   - ideas

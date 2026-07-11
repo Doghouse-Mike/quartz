@@ -4,7 +4,7 @@ aliases:
   - Using Dataview
 title: Using Dataview
 created: 2026-03-12 17:25:10
-modified: 2026-03-19 23:02:30
+modified: 2026-07-11 23:11:32
 tags:
   - books
   - projects/doing

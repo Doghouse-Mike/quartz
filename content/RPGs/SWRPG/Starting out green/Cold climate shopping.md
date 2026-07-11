@@ -4,7 +4,7 @@ aliases:
   - Cold Climate Shopping
 title: Cold Climate Shopping
 created: 2026-02-27 16:14:56
-modified: 2026-06-26 00:54:54
+modified: 2026-07-11 23:11:33
 ---
 
 # Cold Climate Shopping

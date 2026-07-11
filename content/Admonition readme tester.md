@@ -4,7 +4,7 @@ aliases:
   - Admonition Readme Tester
 title: Admonition Readme Tester
 created: 2026-02-23 07:36:18
-modified: 2026-04-11 22:11:33
+modified: 2026-07-11 23:11:32
 ---
 
 # Admonition Readme Tester

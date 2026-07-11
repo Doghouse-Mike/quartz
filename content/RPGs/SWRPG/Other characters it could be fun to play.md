@@ -4,7 +4,7 @@ aliases:
   - "Other Types of Characters I Think it Could Be Fun to Play:"
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
 created: 2026-02-06 21:46:36
-modified: 2026-06-27 19:52:31
+modified: 2026-07-11 23:11:33
 ---
 
 # Other Types of Characters I Think it Could Be Fun to Play:

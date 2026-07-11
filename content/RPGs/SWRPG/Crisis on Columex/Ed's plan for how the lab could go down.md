@@ -4,7 +4,7 @@ aliases:
   - Ed's Plan for How the Lab Could Go Down
 title: Ed's Plan for How the Lab Could Go Down
 created: 2026-04-14 07:12:40
-modified: 2026-04-23 21:28:33
+modified: 2026-07-11 23:11:33
 ---
 
 # Ed's Plan for How the Lab Could Go Down

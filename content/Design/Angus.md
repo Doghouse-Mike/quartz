@@ -2,7 +2,7 @@
 publish: true
 title: Angus
 created: 2025-07-03 23:23:04
-modified: 2026-06-25 22:34:58
+modified: 2026-07-11 23:10:44
 tags:
   - design
   - angus

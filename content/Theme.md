@@ -2,7 +2,7 @@
 publish: true
 title: Theme
 created: 2025-12-25 14:07:06
-modified: 2026-06-26 19:39:38
+modified: 2026-07-11 23:10:45
 ---
 
 Plans afoot for the [Theme System Journal](https://www.themesystem.com/)

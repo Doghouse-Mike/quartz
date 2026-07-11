@@ -2,7 +2,7 @@
 publish: true
 title: Quotes
 created: 2025-07-21 21:50:42
-modified: 2026-04-20 22:38:36
+modified: 2026-07-11 23:11:31
 ---
 
 # Quotes

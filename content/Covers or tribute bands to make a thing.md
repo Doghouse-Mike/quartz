@@ -4,7 +4,7 @@ aliases:
   - Covers Or Tribute Bands to Make a Thing
 title: Covers Or Tribute Bands to Make a Thing
 created: 2026-04-24 13:27:16
-modified: 2026-04-24 13:28:56
+modified: 2026-07-11 23:10:46
 ---
 
 # Covers Or Tribute Bands to Make a Thing

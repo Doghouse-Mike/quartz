@@ -2,7 +2,7 @@
 publish: true
 title: Notes on The Minimalists
 created: 2026-01-11 22:05:39
-modified: 2026-06-26 14:54:17
+modified: 2026-07-11 23:10:46
 ---
 
 # Notes on The Minimalists

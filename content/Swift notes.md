@@ -4,7 +4,7 @@ aliases:
   - Swift Notes
 title: Swift Notes
 created: 2026-03-12 17:25:10
-modified: 2026-06-27 19:52:26
+modified: 2026-07-11 23:10:46
 tags:
   - swift
   - programming

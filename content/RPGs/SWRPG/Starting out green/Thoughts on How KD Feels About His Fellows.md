@@ -2,7 +2,7 @@
 publish: true
 title: Thoughts on How KD Feels About His Fellows
 created: 2025-10-07 17:48:18
-modified: 2026-06-27 19:52:28
+modified: 2026-07-11 23:11:33
 ---
 
 # Thoughts on How KD Feels About His Fellows

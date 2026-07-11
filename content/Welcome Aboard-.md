@@ -4,7 +4,7 @@ aliases:
   - Welcome Aboard!
 title: Welcome Aboard!
 created: 2026-02-10 21:45:44
-modified: 2026-06-26 19:40:10
+modified: 2026-07-11 23:11:34
 ---
 
 - for historical context of when I was trying to pimp myself out a bit more

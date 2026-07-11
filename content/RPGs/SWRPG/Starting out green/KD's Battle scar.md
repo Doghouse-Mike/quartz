@@ -4,7 +4,7 @@ aliases:
   - KD's Battle Scar
 title: KD's Battle Scar
 created: 2025-08-14 20:19:03
-modified: 2026-06-27 19:52:31
+modified: 2026-07-11 23:11:32
 ---
 
 # KD's Battle Scar

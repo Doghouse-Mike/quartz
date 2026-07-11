@@ -4,7 +4,7 @@ aliases:
   - Obsidian October O_O 2024 Vault Self-critique Checklist
 title: Obsidian October O_O 2024 Vault Self-critique Checklist
 created: 2026-02-23 07:36:18
-modified: 2026-03-19 22:59:17
+modified: 2026-07-11 23:11:33
 ---
 
 # Obsidian October O\_O 2024 Vault Self-critique Checklist

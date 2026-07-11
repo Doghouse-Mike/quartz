@@ -4,7 +4,7 @@ aliases:
   - The Idiot's Guide to Unionising Your UK Workplace
 title: The Idiot's Guide to Unionising Your UK Workplace
 created: 2026-01-16 16:08:59
-modified: 2026-06-27 19:52:21
+modified: 2026-07-11 23:11:05
 ---
 
 see also [[Unionising summary]]

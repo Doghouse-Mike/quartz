@@ -4,7 +4,7 @@ aliases:
   - Chatty G Q's on 2026 Theme
 title: Chatty G Q's on 2026 Theme
 created: 2025-12-25 14:09:07
-modified: 2026-06-27 19:58:36
+modified: 2026-07-11 23:11:33
 ---
 
 # Chatty G Q's on 2026 Theme

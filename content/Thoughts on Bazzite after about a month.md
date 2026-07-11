@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Thoughts on Bazzite after about a Month
-created: 2026-07-08T00:22:31.524Z
-modified: 2026-07-11T20:52:58.239Z
+created: 2026-07-08 01:22:31
+modified: 2026-07-11 23:11:33
 ---
 
 # Thoughts on Bazzite after about a Month

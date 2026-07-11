@@ -4,7 +4,7 @@ aliases:
   - iPad Setup Feb 2023
 title: iPad Setup Feb 2023
 created: 2025-07-21 21:50:42
-modified: 2026-06-27 19:52:19
+modified: 2026-07-11 23:11:32
 ---
 
 # iPad Setup Feb 2023

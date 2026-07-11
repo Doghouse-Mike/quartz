@@ -4,7 +4,7 @@ aliases:
   - Post-defense of Whisper Base Shopping
 title: Post-defense of Whisper Base Shopping
 created: 2025-08-14 19:56:48
-modified: 2026-06-27 19:52:30
+modified: 2026-07-11 23:11:32
 ---
 
 # Post-defense of Whisper Base Shopping

@@ -4,7 +4,7 @@ aliases:
   - Song Ideas
 title: Song Ideas
 created: 2025-07-21 21:50:42
-modified: 2026-06-26 19:39:00
+modified: 2026-07-11 23:11:32
 ---
 
 # Song Ideas

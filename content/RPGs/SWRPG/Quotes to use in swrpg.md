@@ -4,7 +4,7 @@ aliases:
   - Quotes to Use in Swrpg
 title: Quotes to Use in Swrpg
 created: 2026-03-16 17:56:32
-modified: 2026-06-21 10:03:29
+modified: 2026-07-11 23:11:32
 ---
 
 # Quotes to Use in Swrpg
