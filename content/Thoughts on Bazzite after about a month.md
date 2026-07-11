@@ -3,7 +3,11 @@ publish: true
 aliases:
   - Thoughts on Bazzite after about a Month
 created: 2026-07-08 01:22:31
-modified: 2026-07-11 23:11:33
+modified: 2026-07-11 23:24:24
+tags:
+  - Bazzite
+  - Linux
+  - Vidjagames
 ---
 
 # Thoughts on Bazzite after about a Month
