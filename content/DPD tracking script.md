@@ -3,12 +3,10 @@ publish: true
 aliases:
   - DPD Tracking Script
 created: 2026-07-11 21:55:13
-modified: 2026-07-11 23:10:44
+modified: 2026-07-11 23:22:53
 ---
 
 # DPD Tracking Script
-
-##
 
 Chatty G made me a thing.
 
