@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Site Home
 title: Site Home
 created: 2025-03-19 15:49:20
 modified: 2026-04-26 22:28:55
@@ -11,7 +13,7 @@ Welcome aboard!
 
 How I got here is kinda laid out in [[Mostly How I Built This Site]]
 
-Photos I've taken are over [here](https://28mm.coffee/Photos/)\
+Photos I've taken are over [here](https://28mm.coffee/Photos/)
 Some stuff I've designed/drawn is [there](https://28mm.coffee/Design/)
 
 Get in touch via the dreaded [instas](https://www.instagram.com/doghouse_mike?igsh=MXh4M2Y4dXo5MHhiZA%3D%3D\&utm_source=qr), [Cyberspace](https://cyberspace.online/doghouse), [GitHub](https://github.com/Doghouse-Mike) , [The Don](https://defcon.social/@Doghouse_mike), or even more dreaded [LinkedIn](https://www.linkedin.com/in/doghousemike?utm_source=share\&utm_campaign=share_via\&utm_content=profile\&utm_medium=ios_app)

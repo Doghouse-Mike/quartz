@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Some Interesting Sites Made in Obsidian
 title: Some Interesting Sites Made in Obsidian
 created: 2026-02-10 21:13:55
 modified: 2026-06-27 19:52:27
@@ -19,7 +21,7 @@ Was about ready to blow [this one](https://notes.joschua.io/50+Slipbox/Obsidian+
 
 [Chad](https://mister-chad.com/mind+gardens/!+mind+garden) has some thoughts on the whole [[mind garden]] thing, might be handy to read for getting things set up, knowing what to put where, etc. The fading sidebars are nifty too. Probably some CSS stuff that could potentially be borrowed. Read stuff. View source.
 
-https://bryanhogan.com/blog/obsidian-website
+<https://bryanhogan.com/blog/obsidian-website>
 
 [Andy's Notes](https://publish.obsidian.md/andymatuschak/_Start+Here) - Andy Matuschak
 
@@ -28,11 +30,11 @@ https://bryanhogan.com/blog/obsidian-website
 - [TFT Hacker](https://tfthacker.com/Welcome)
 - [https://notes.yxy.ninja](https://notes.yxy.ninja/)
 - [https://be-far.com](https://be-far.com/)
-- https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/
-- https://blog.networkchuck.com/posts/my-insane-blog-pipeline/
-- https://www.alienduckpig.com/
-- https://obsidian-gallery.craftengineer.com/
-- https://github.com/quartz-community/awesome-quartz
+- <https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/>
+- <https://blog.networkchuck.com/posts/my-insane-blog-pipeline/>
+- <https://www.alienduckpig.com/>
+- <https://obsidian-gallery.craftengineer.com/>
+- <https://github.com/quartz-community/awesome-quartz>
 - [https://blog.shuvangkardas.com](https://blog.shuvangkardas.com/)
 - [Bayesian Persuasion](https://bayesianpersuasion.com/)
 - [Kepano]([https://stephango.com]\(https://stephango.com/\)) Yea, the Obsidian CEO.

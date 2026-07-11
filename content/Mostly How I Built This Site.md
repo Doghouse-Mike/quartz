@@ -9,11 +9,11 @@ modified: 2026-06-26 14:55:08
 
 ## Inspiration / Reasoning
 
-- https://santacloud.dev/posts/creating-my-blog---a-developers-tale-of-over-engineering-using-obsidian-hugo-and-github-pages/
-- https://zanca.dev/blog/quartz (and probably some of the sites they link to)
-- https://obsidian-gallery.craftengineer.com/
+- <https://santacloud.dev/posts/creating-my-blog---a-developers-tale-of-over-engineering-using-obsidian-hugo-and-github-pages/>
+- <https://zanca.dev/blog/quartz> (and probably some of the sites they link to)
+- <https://obsidian-gallery.craftengineer.com/>
 - ["Official" Quartz documentation](https://quartz.jzhao.xyz) leaves a wee bit to be desired for the dummies like me
-- https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/ Hmm, uses Hugo too, might look into this some more for "easy" theming and _maybe_ more selective publishing
+- <https://ericliaointerpreting.com/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/> Hmm, uses Hugo too, might look into this some more for "easy" theming and _maybe_ more selective publishing
 - See also [[Some interesting sites made in Obsidian]]
 
 I'd been bashing my head against various walls on and off for a couple of weeks getting this thing set up. Most of my frustrations stemmed around getting the _many_ images hosted to have this site double duty as something of a portfolio for my dabbling in [photography](https://28mm.coffee/Photos/) and [design](https://28mm.coffee/Design/). If that wasn't a concern, the [Digital Garden](https://github.com/oleeskild/digitalgarden) plugin for Obsidian would have been pretty much perfect. But (probably Gihub's fault) it does not handle uploading more than about three images at a time, and got weird doing even that sometimes (add three images, publish, add three more, publish, and then it'd break after a few goes). The workaround of using the [imgur plugin](https://github.com/gavvvr/obsidian-imgur-plugin) or what turned out to be a far superior option in the [Image Upload Toolkit plugin](https://github.com/addozhang/obsidian-image-upload-toolkit) was hit n miss too. Imgur would sometimes work, sometimes return this error, sometimes that error, and the whole palaver got old. Several GitHub repos were killed during the making of this film.
@@ -149,7 +149,7 @@ Aspirations of greatness maybe, but I've been using [vscode](https://code.visual
 
 It _feels_ like there should be another step in the "Create a GitHub Action" part, but really, that's it. There isn't a "save" or "ok" or similar button that needs hitting to move on.
 
-You might need to exercise a little patience on the "Behold Your New Site!" step. Presumably because I've got the pile of attachments to crunch through, GitHub's servers can take a few minutes to process everything and deploy the actual site ready to be viewed in any old browser. You can keep an eye on its progress via https://github.com/YOURGITHUBACCOUNT/YOURREPONAME/actions (or by clicking that handy "Actions" button along the top of the repo page when you're signed into the GitHub site).
+You might need to exercise a little patience on the "Behold Your New Site!" step. Presumably because I've got the pile of attachments to crunch through, GitHub's servers can take a few minutes to process everything and deploy the actual site ready to be viewed in any old browser. You can keep an eye on its progress via <https://github.com/YOURGITHUBACCOUNT/YOURREPONAME/actions> (or by clicking that handy "Actions" button along the top of the repo page when you're signed into the GitHub site).
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T135453558Z.jpg)
 
@@ -185,7 +185,7 @@ Somewhere on the Discord was mention of [this](https://github.com/vazome/quartz-
 - Place line `Plugin.ClickableImages(),` to your `quartz.config.ts` in the end of `plugins: { transformers:` section
 ```
 
-### Sort Order in the Explorer (Or List on the left)
+### Sort Order in the Explorer (Or List on the lEft)
 
 This, my friends was a pain in the arse to get setup. It's not actually that difficult, but took a few dead ends to get working correctly, so I include it here after some chats with the [quartz deepwiki](https://deepwiki.com/jackyzha0/quartz).
 

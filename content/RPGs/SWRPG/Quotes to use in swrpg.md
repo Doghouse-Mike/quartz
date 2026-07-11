@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Quotes to Use in Swrpg
 title: Quotes to Use in Swrpg
 created: 2026-03-16 17:56:32
 modified: 2026-06-21 10:03:29

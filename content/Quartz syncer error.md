@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Quartz Syncer Error
 title: Quartz Syncer Error
 created: 2026-01-15 13:28:48
 modified: 2026-06-26 14:54:47
@@ -38,7 +40,7 @@ at IncomingMessage.emit (node:events:519:28)
 at endReadableNT (node:internal/streams/readable:1696:12)
 ```
 
-Repo is at https://github.com/Doghouse-Mike/my-notes if that helps. I assume I've borked something there, rather than it being a local issue. npm quartz sync still works
+Repo is at <https://github.com/Doghouse-Mike/my-notes> if that helps. I assume I've borked something there, rather than it being a local issue. npm quartz sync still works
 
 Thus far, in no particular order, I have:
 

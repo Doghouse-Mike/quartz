@@ -30,7 +30,7 @@ Options:
 
 ## Learning
 
-https://www.oxfordhomestudy.com/ has a free course. I did start [[Free course notes|a while ago]], but it's basically a PDF in the vein of "my first computer".
+<https://www.oxfordhomestudy.com/> has a free course. I did start [[Free course notes|a while ago]], but it's basically a PDF in the vein of "my first computer".
 
 [Network Chuck's Academy](https://academy.networkchuck.com/) has _a lot_ more on there than there was last time I checked, which is actually kinda exciting. The guy does get a bit "youtube" but appears to know what he's on about.
 

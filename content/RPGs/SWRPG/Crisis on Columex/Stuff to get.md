@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Stuff to Get
 title: Stuff to Get
 created: 2026-02-25 21:32:01
 modified: 2026-06-26 19:37:27

@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Chatty G Q's on 2026 Theme
 title: Chatty G Q's on 2026 Theme
 created: 2025-12-25 14:09:07
 modified: 2026-06-27 19:58:36

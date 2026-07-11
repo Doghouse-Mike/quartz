@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - The Idiot's Guide to Unionising Your UK Workplace
 title: The Idiot's Guide to Unionising Your UK Workplace
 created: 2026-01-16 16:08:59
 modified: 2026-06-27 19:52:21
@@ -137,9 +139,9 @@ UK workers have significant legal protections when unionising:
 
 ### Useful Websites:
 
-- TUC (Trades Union Congress): www.tuc.org.uk
-- ACAS (Advisory, Conciliation and Arbitration Service): www.acas.org.uk
-- GOV.UK guidance on unions: www.gov.uk/join-trade-union
+- TUC (Trades Union Congress): \<www.tuc.org.uk>
+- ACAS (Advisory, Conciliation and Arbitration Service): \<www.acas.org.uk>
+- GOV.UK guidance on unions: \<www.gov.uk/join-trade-union>
 
 ### Remember:
 
@@ -265,13 +267,13 @@ The union you're working with will guide you through this process, as they have 
 
 ### Some Useful Links:
 
-- https://www.tuc.org.uk/workplace-guidance/organising-and-bargaining/collective-bargaining
-- https://www.unitetheunion.org/why-join
-- https://www.usdaw.org.uk/join-usdaw/good-reasons-to-join/
-- https://www.usdaw.org.uk/join-usdaw/who-can-join-usdaw/
-- https://www.tuc.org.uk/workplace-guidance/organising-and-bargaining/union-reps
-- https://www.tuc.org.uk/sites/default/files/2019-10/Pocket\_Guide\_To\_Organising%26Campaigning\_2019.pdf
-- https://www.tuc.org.uk/sites/default/files/2021-04/TheRoleUnionRep.pdf
+- <https://www.tuc.org.uk/workplace-guidance/organising-and-bargaining/collective-bargaining>
+- <https://www.unitetheunion.org/why-join>
+- <https://www.usdaw.org.uk/join-usdaw/good-reasons-to-join/>
+- <https://www.usdaw.org.uk/join-usdaw/who-can-join-usdaw/>
+- <https://www.tuc.org.uk/workplace-guidance/organising-and-bargaining/union-reps>
+- <https://www.tuc.org.uk/sites/default/files/2019-10/Pocket_Guide_To_Organising%26Campaigning_2019.pdf>
+- <https://www.tuc.org.uk/sites/default/files/2021-04/TheRoleUnionRep.pdf>
 
 Usdaw _might_ be slightly more retail suitable, but unite are unite.
 

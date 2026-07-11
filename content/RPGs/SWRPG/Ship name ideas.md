@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Ship Name Ideas
 title: Ship Name Ideas
 created: 2025-09-19 19:55:39
 modified: 2026-03-19 22:52:57

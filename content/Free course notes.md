@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Free Course Notes
 title: Free Course Notes
 created: 2025-12-09 21:54:16
 modified: 2026-06-26 19:34:47

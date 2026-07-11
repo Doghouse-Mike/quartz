@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - SWRPG Session 5
 title: SWRPG Session 5
 created: 2026-02-10 21:13:58
 modified: 2026-06-26 00:48:44
@@ -19,7 +21,7 @@ Get gear, plant bomb near fuel place, get control centre, ???, profit
 
 Ship -guide price 120k
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Lancer-class\_Pursuit\_Craft
+<https://star-wars-rpg-ffg.fandom.com/wiki/Lancer-class_Pursuit_Craft>
 
 ![](https://i.pinimg.com/originals/01/4d/bb/014dbb475f96b15c2e947c7ae213ee41.jpg)
 
@@ -29,7 +31,7 @@ Well armed n that tho. Nuff room for all of us
 
 Kinda ready to go, 1 n done
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Wayfarer-class\_Medium\_Freighter
+<https://star-wars-rpg-ffg.fandom.com/wiki/Wayfarer-class_Medium_Freighter>
 
 ![](http://adampdevil.pbworks.com/f/1234476887/wayfarer_1.jpg)
 
@@ -39,19 +41,19 @@ https://star-wars-rpg-ffg.fandom.com/wiki/Wayfarer-class\_Medium\_Freighter
 
 6 HP for later mods
 
-https://star-wars-rpg-ffg.fandom.com/wiki/YT-1000\_Light\_Freighter
+<https://star-wars-rpg-ffg.fandom.com/wiki/YT-1000_Light_Freighter>
 
 ![](https://swrpggm.com/wp-content/uploads/2021/05/YT1000_FE.png)
 
 Only 75k, so leaves some wriggle room for mods etc?
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Starlight-class\_Light\_Freighter
+<https://star-wars-rpg-ffg.fandom.com/wiki/Starlight-class_Light_Freighter>
 
 ![](https://i.pinimg.com/originals/96/14/d5/9614d59af0b7596385f1d7d26bdcd0a3.jpg)
 
 69995Cr so again with room for mods, more guns, engines, etc. Also pretty.
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Kazellis-Class\_Light\_Freighter
+<https://star-wars-rpg-ffg.fandom.com/wiki/Kazellis-Class_Light_Freighter>
 
 ![](https://vignette.wikia.nocookie.net/swse/images/3/3e/Kazellis-Class_Light_Freighter.jpg/revision/latest?cb=20200223205952)
 
@@ -59,7 +61,7 @@ https://star-wars-rpg-ffg.fandom.com/wiki/Kazellis-Class\_Light\_Freighter
 
 70k, mod space, also pretty
 
-https://star-wars-rpg-ffg.fandom.com/wiki/GX1\_Short\_Hauler
+<https://star-wars-rpg-ffg.fandom.com/wiki/GX1_Short_Hauler>
 
 ![](https://i.pinimg.com/originals/d4/99/0b/d4990bcd49829d67081863182b13af18.png)
 
@@ -67,4 +69,4 @@ https://star-wars-rpg-ffg.fandom.com/wiki/GX1\_Short\_Hauler
 
 Better stock hull armour (24 on this vs 20 on others)
 
-https://starwars-exodus.fandom.com/wiki/HWK-290
+<https://starwars-exodus.fandom.com/wiki/HWK-290>

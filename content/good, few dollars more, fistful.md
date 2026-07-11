@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Good, Few Dollars More, Fistful
 title: Good, Few Dollars More, Fistful
 created: 2026-02-10 21:01:56
 modified: 2026-03-19 22:56:28

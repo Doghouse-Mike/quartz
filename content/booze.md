@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Booze
 title: Booze
 created: 2025-07-03 23:22:25
 modified: 2026-03-19 22:55:04

@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - SWRPG Session 11
 title: SWRPG Session 11
 created: 2026-02-10 22:20:20
 modified: 2026-06-26 00:48:30

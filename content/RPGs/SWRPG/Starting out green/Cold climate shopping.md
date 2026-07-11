@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Cold Climate Shopping
 title: Cold Climate Shopping
 created: 2026-02-27 16:14:56
 modified: 2026-06-26 00:54:54
@@ -80,12 +82,12 @@ Without a tent, we're making resilience checks regularly.
 
 Cloaking Coat
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Cloaking\_Coat
+<https://star-wars-rpg-ffg.fandom.com/wiki/Cloaking_Coat>
 
-KD could be painted in Reflec Shadowskin https://star-wars-rpg-ffg.fandom.com/wiki/Reflec\_Shadowskin
+KD could be painted in Reflec Shadowskin <https://star-wars-rpg-ffg.fandom.com/wiki/Reflec_Shadowskin>
 
 Stealth field generators
 
-https://star-wars-rpg-ffg.fandom.com/wiki/Stealth\_Field\_Generator
+<https://star-wars-rpg-ffg.fandom.com/wiki/Stealth_Field_Generator>
 
 Kinda got put on hold due to the game taking a (hopefully) brief hiatus.

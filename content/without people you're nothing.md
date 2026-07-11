@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Without People You're Nothing
 title: Without People You're Nothing
 created: 2026-02-10 21:45:44
 modified: 2026-06-27 19:52:19

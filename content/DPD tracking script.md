@@ -3,7 +3,7 @@ publish: true
 aliases:
   - DPD Tracking Script
 created: 2026-07-11T20:55:13.066Z
-modified: 2026-07-11T21:28:42.743Z
+modified: 2026-07-11T21:29:40.603Z
 ---
 
 # DPD Tracking Script
@@ -18,7 +18,7 @@ Our/DPD's API's miss things sometimes. I did have a workflow going to grab all t
 
 Script masquerades as different browsers, switches up its window size, and only runs about 30 queries in a row before taking a little break, all in an attempt to not make parcelsapp.com freak out about getting abused. Which typing this out now, I _do_ kinda feel bad about.
 
-The actual DPD site has too many captchas though, and this way it's reusable for any courier, not just DPD.
+The actual DPD site has too many captchas though, and this way it's reusable for any courier, not only them.
 
 ![[tracker 1.py]]
 

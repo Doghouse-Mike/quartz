@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Initial DND Thoughts
 title: Initial DND Thoughts
 created: 2026-03-27 21:48:03
 modified: 2026-06-26 00:40:24

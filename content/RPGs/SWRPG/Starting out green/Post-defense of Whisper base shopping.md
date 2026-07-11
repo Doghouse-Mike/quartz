@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Post-defense of Whisper Base Shopping
 title: Post-defense of Whisper Base Shopping
 created: 2025-08-14 19:56:48
 modified: 2026-06-27 19:52:30
@@ -46,7 +48,7 @@ An escape circuit is a cybernetic implant that can only be installed in droids. 
 
 2070 cr left at this point. Could blow it on attachments/mods, or sacrifice it to the merging of the utility arm/repulsor fist.
 
-- Add more stun to my Exo gloves? https://star-wars-rpg-ffg.fandom.com/wiki/Stun\_Pulse Stun+2, 250cr a pop ✅ 2025-08-15
+- Add more stun to my Exo gloves? <https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Pulse> Stun+2, 250cr a pop ✅ 2025-08-15
 
 1820
 

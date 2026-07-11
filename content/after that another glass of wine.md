@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - After that Another Glass of Wine
 title: After that Another Glass of Wine
 created: 2026-02-10 21:07:52
 modified: 2026-03-19 22:54:31

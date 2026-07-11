@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - SWRPG Session 9
 title: SWRPG Session 9
 created: 2026-02-10 21:13:56
 modified: 2026-06-26 00:46:49

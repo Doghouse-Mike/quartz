@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Setting Themes in Ubuntu
 title: Setting Themes in Ubuntu
 created: 2026-06-14 09:06:36
 modified: 2026-06-26 14:56:30
@@ -7,7 +9,7 @@ modified: 2026-06-26 14:56:30
 
 # Setting Themes in Ubuntu
 
-Twas a bit of a challenge working out how, and getting https://github.com/MathisP75/daemon-kde-mk2 set up.
+Twas a bit of a challenge working out how, and getting <https://github.com/MathisP75/daemon-kde-mk2> set up.
 
 If I'm gonna be dicking around in Linux, I may as well have it look pretty, no?
 
@@ -15,7 +17,7 @@ Skip straight to [[#After some palaver]] for what actually worked.
 
 The full instructions read:
 
-git clone https://github.com/MathisP75/daemon-kde-mk2.git
+git clone <https://github.com/MathisP75/daemon-kde-mk2.git>
 
 cd daemon-kde-mk2
 

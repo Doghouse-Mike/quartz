@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Obsidian as a Second Brain Video Notes
 title: Obsidian as a Second Brain Video Notes
 created: 2026-02-10 21:13:42
 modified: 2026-06-27 19:52:38

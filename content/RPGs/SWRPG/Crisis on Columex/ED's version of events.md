@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - ED's Version of Events
 title: ED's Version of Events
 created: 2026-02-23 07:01:55
 modified: 2026-06-26 00:46:45

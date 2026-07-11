@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - iPad Setup Feb 2023
 title: iPad Setup Feb 2023
 created: 2025-07-21 21:50:42
 modified: 2026-06-27 19:52:19
@@ -11,9 +13,9 @@ M1 iPad Pro, 12.9, 2TB(!)
 
 Magic Trackpad
 
-Keychron K2V2 (stuffed with foam, tape on the PCB - https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard)
+Keychron K2V2 (stuffed with foam, tape on the PCB - <https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard>)
 
-Cheapo Anker mouse (Think it's this one, been banging around for years - https://amzn.eu/d/fVabyFJ)
+Cheapo Anker mouse (Think it's this one, been banging around for years - <https://amzn.eu/d/fVabyFJ>)
 
 EPOMAKER SKYLOONG SK21 Numpad (Kinda regret not getting a Bluetooth one, but my computer at the time I bought this didn't get on with the Bluetooth)
 

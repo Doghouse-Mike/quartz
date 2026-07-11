@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Kuxiu M30 Ipad Charger
 title: Kuxiu M30 Ipad Charger
 created: 2025-08-14 09:58:51
 modified: 2026-06-27 19:52:40

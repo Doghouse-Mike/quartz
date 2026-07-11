@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - SWRPG Session 1
 title: SWRPG Session 1
 created: 2026-02-10 21:13:57
 modified: 2026-04-14 07:20:11

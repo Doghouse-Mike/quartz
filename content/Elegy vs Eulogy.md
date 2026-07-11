@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - Elegy Vs Eulogy
 title: Elegy Vs Eulogy
 created: 2025-07-17 21:43:10
 modified: 2026-06-26 14:53:51

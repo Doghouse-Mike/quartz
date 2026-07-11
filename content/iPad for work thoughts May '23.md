@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - iPad for Work Thoughts May '23
 title: iPad for Work Thoughts May '23
 created: 2025-07-21 21:50:42
 modified: 2026-06-27 19:52:19
