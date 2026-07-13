@@ -238,7 +238,7 @@ plugins:
     enabled: true
     options:
       title: Recent notes
-      limit: 8
+      limit: 6
       showTags: true
       showDate: true
       hideTagPages: true
