@@ -237,13 +237,15 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
+      title: Recent notes
       limit: 8
+      showTags: true
+      showDate: true
       hideTagPages: true
       hideFolderPages: true
-    limit: 6
-    showTags: true
-    hideTagPages: false
-    hideFolderPages: false
+    layout:
+      position: right
+      priority: 51
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
