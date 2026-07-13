@@ -4,6 +4,7 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
+  defaultDateType: created
   analytics:
     provider: plausible
   locale: en-GB
@@ -44,7 +45,6 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: created
       priority:
         - frontmatter
         - git
