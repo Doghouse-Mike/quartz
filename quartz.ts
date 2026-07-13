@@ -1,38 +1,34 @@
 import * as ExternalPlugin from "./.quartz/plugins"
- // Advanced: pass callback functions that can't be expressed in YAML
+
 ExternalPlugin.Explorer({
-  sortFn: (a, b) => {    
-    // First, sort folders before files    
-    if (a.isFolder && !b.isFolder) return -1    
-    if (!a.isFolder && b.isFolder) return 1    
-        
-    // If both are folders, sort alphabetically    
-    if (a.isFolder && b.isFolder) {    
-      return a.displayName.localeCompare(b.displayName, undefined, {    
-        numeric: true,    
-        sensitivity: "base",    
-      })    
-    }    
-        
-    // If both are files, sort by creation date (newest first)  
-    const aCreated = a.data?.date  // Changed from frontmatter.created  
-    const bCreated = b.data?.date  // Changed from frontmatter.created  
-        
-    if (aCreated && bCreated) {    
-      return new Date(bCreated).getTime() - new Date(aCreated).getTime()    
-    }    
-        
-    // If only one has a creation date, prioritize it    
-    if (aCreated && !bCreated) return -1    
-    if (!aCreated && bCreated) return 1    
-        
-    // Fallback to alphabetical sorting    
-    return a.displayName.localeCompare(b.displayName, undefined, {    
-      numeric: true,    
-      sensitivity: "base",    
-    })    
-  },    
+  sortFn: (a, b) => {
+    // Folders before files
+    if (a.isFolder && !b.isFolder) return -1
+    if (!a.isFolder && b.isFolder) return 1
+
+    // Two folders: alphabetical
+    if (a.isFolder && b.isFolder) {
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+
+    // Two files: newest creation date first
+    const aDate = a.data?.date
+    const bDate = b.data?.date
+    if (aDate && bDate) return new Date(bDate).getTime() - new Date(aDate).getTime()
+    if (aDate) return -1
+    if (bDate) return 1
+
+    // Fallback: alphabetical
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  },
 })
+
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 const config = await loadQuartzConfig()
 export default config
