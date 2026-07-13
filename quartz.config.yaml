@@ -244,7 +244,7 @@ plugins:
       hideTagPages: true
       hideFolderPages: true
     layout:
-      position: right
+      position: afterBody
       priority: 51
   - source: github:quartz-community/spacer
     enabled: true
