@@ -2,12 +2,10 @@
 publish: true
 title: Booze
 created: 2025-07-03T23:22:25
-modified: 2026-07-14T02:07:00
+modified: 2026-07-14T02:10:07
 tags:
   - drinks
 ---
-
-This is a line I will delete
 
 # Booze
 
