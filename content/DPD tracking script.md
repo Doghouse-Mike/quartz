@@ -1,7 +1,8 @@
 ---
 publish: true
+title: DPD Tracking Script
 created: 2026-07-11 21:55:13
-modified: 2026-07-14 00:36:32
+modified: 2026-07-14 23:59:53
 tags:
   - Pyhon
   - dayjob
@@ -21,7 +22,7 @@ The actual DPD site has too many captchas though, and this way it's reusable for
 
 ![[tracker 1.py]]
 
-### The Actual Script
+## The Actual Script
 
 ```
 import pandas as pd
@@ -185,7 +186,7 @@ In action (not real time, some flashing, photosensitive peeps be warned):
 
 ![[attachment/My Movie 5.mov]]
 
-## Making it Available for Non-nerds
+# Making it Available for Non-nerds
 
 Apparently can compile into a little .exe for my windows friends to run, no command line needed. I haven't tested this part yet.
 
@@ -195,7 +196,7 @@ docker run --rm -v "$(pwd):/src" cdrx/pyinstaller-windows "pip install pandas se
 
 run that on linux box after grabbing Tracker.py
 
-### Or in Windows
+## Or in Windows
 
 1. Open Command Prompt (`cmd`) and install the tools:
 
@@ -203,10 +204,14 @@ run that on linux box after grabbing Tracker.py
 pip install pandas selenium undetected-chromedriver pyinstaller
 ```
 
-2. Navigate to where you saved the `track_dpd.py` script and run:
+1. Navigate to where you saved the `track_dpd.py` script and run:
 
 ```cmd
 pyinstaller --onefile track_dpd.py
 ```
 
-2. Look inside the newly created `dist` folder. You will find **track\_dpd.exe**.
+1. Look inside the newly created `dist` folder. You will find **track\_dpd.exe**.
+
+Skipped all that palaver and made the exe in _github itself_, what a time to be alive. https://github.com/Doghouse-Mike/exe-maker/actions/runs/29374361748#artifacts
+
+What I need to check now is if that lad actually works, _and_ if it's the latest version of the script (asks for a file, and where to save output etc)
