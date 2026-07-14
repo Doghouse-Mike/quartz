@@ -15,8 +15,8 @@ ExternalPlugin.Explorer({
     }
 
     // Two files: newest creation date first
-    const aDate = a.data?.date
-    const bDate = b.data?.date
+    const aDate = a.data?.created
+    const bDate = b.data?.created
     if (aDate && bDate) return new Date(bDate).getTime() - new Date(aDate).getTime()
     if (aDate) return -1
     if (bDate) return 1
