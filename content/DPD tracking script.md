@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-11 21:55:13
-modified: 2026-07-12 00:53:12
+modified: 2026-07-14 00:36:32
 tags:
   - Pyhon
   - dayjob
@@ -11,7 +11,7 @@ tags:
 
 Chatty G made me a thing.
 
-Returns fraud is real. DPD give us a limited time from when the parcel "enters their network" (meaning it's dropped off/handed over).
+Returns can go walkies, but also fraud is real. DPD give us a limited time from when the parcel "enters their network" (meaning it's dropped off/handed over).
 
 Our/DPD's API's miss things sometimes. I did have a workflow going to grab all the returns that are in flight (from a report), do some quick wizardry to show what hadn't moved for a while, then contact DPD to get them looked at. That _kinda_ worked, but the report had bunk data (those "1899-12-31" dates) and could show that, generally meaning it hadn't been sent, even if a parcel had, in fact, been sent. Meaning my old method missed some. But the report is the report, it is what we have, so I needed a better source, one with more accurate and up to date data. So here we are.
 

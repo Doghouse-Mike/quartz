@@ -1,11 +1,13 @@
 ---
 publish: true
 title: Booze
-created: 2025-07-03 23:22:25
-modified: 2026-07-12 00:49:34
+created: 2026-06-06T13:20:56
+modified: 2026-07-14T01:38:54
 tags:
   - drinks
 ---
+
+This is a line I will delete
 
 # Booze
 
