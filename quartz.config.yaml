@@ -138,7 +138,7 @@ plugins:
       maxTabs: 9
   - source: github:quartz-community/alias-redirects
     enabled: false
-  - source: github:Doghouse-Mike/content-index
+  - source: github:doghouse-mike/content-index
     enabled: true
     options:
       enableSiteMap: true
