@@ -49,6 +49,7 @@ plugins:
         - frontmatter
         - git
         - filesystem
+      defaultDateType: created
     order: 10
   - source: github:quartz-community/syntax-highlighting
     enabled: true
