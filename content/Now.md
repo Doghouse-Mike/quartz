@@ -13,7 +13,7 @@ I wasn't around for the "heyday" of twitter, but that ship has sailed (or burned
 
 ## Reading
 
-### \[It's Out There]\([https://www.mylesrobertsscifi.co.uk](https://www.mylesrobertsscifi.co.uk/)
+### [It's Out There](https://www.mylesrobertsscifi.co.uk)
 
 Just finished it! If you liked Douglas Adams and/or Terry Pratchett, this gave me similar vibes. If you didn't like them, you still may enjoy it. Flew through it, it's hilarious, but also asks a lot of questions about our current society, AI, what the stock market even is, war, and wraps it up in a tale about a fella and his ship who aren't really sure what they're meant to be doing.
 
