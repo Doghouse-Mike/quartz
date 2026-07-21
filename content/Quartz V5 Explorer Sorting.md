@@ -17,7 +17,7 @@ Here's how I got there, for like-minded peeps. **Back everything up first**. Mai
 
 Backed up? Cool, carry on.
 
-## Step Zero - Dates in the Right Format in Your Frontmatter
+## Step Zero - Dates in the Correct Format in Your Frontmatter
 
 Ya know the [Linter Plugin](https://community.obsidian.md/plugins/obsidian-linter), right? Get that. There are many settings to play with, the only ones we care about for this are under the YAML tab in the plugin's settings:
 
