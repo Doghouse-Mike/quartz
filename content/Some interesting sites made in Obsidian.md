@@ -1,8 +1,12 @@
 ---
 publish: true
 title: Some Interesting Sites Made in Obsidian
-created: 2026-02-10 21:13:55
-modified: 2026-07-12 00:53:11
+created: 2026-02-10T21:13:55
+modified: 2026-07-21T23:22:48
+tags:
+  - Obsidian
+  - Quartz
+  - blogging
 ---
 
 # Some Interesting Sites Made in Obsidian

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Untitled Heist Idea
-created: 2025-10-24 08:25:59
-modified: 2026-07-12 00:49:35
+created: 2026-02-10T21:37:32
+modified: 2026-07-21T23:43:36
 ---
 
 # Untitled Heist Idea

@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Exploring the Why? Question
-created: 2026-02-10 21:45:44
-modified: 2026-07-12 00:49:36
+created: 2026-02-10T21:45:44
+modified: 2026-07-21T23:35:46
+tags:
+  - thoughttech
 ---
 
 # Exploring the Why? Question

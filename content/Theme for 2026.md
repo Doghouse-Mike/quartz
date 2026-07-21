@@ -1,8 +1,10 @@
 ---
 publish: true
 title: The Year of "Out"
-created: 2025-12-25 13:17:42
-modified: 2026-07-12 00:53:11
+created: 2026-06-26T19:39:42
+modified: 2026-07-21T23:22:08
+tags:
+  - theme
 ---
 
 # The Year of "Out"

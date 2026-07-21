@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Shoppings List
-created: 2025-07-04 21:00:49
-modified: 2026-07-12 00:49:35
+created: 2026-02-10T21:13:42
+modified: 2026-07-21T23:45:07
 ---
 
 # Shoppings List

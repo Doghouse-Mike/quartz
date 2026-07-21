@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Admonition Readme Tester
-created: 2026-02-23 07:36:18
-modified: 2026-07-12 00:49:34
+created: 2026-04-11T22:11:33
+modified: 2026-07-21T23:38:01
+tags:
+  - Obsidian
 ---
 
 # Admonition Readme Tester

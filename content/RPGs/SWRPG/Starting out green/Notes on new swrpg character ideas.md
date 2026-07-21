@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Notes on New Swrpg Character Ideas
-created: 2025-05-31 18:00:05
-modified: 2026-07-12 00:49:35
+created: 2026-02-06T21:46:46
+modified: 2026-07-21T23:45:27
 ---
 
 # Notes on New Swrpg Character Ideas

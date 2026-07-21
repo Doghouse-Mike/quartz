@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Kuxiu M30 Ipad Charger
-created: 2025-08-14 09:58:51
-modified: 2026-07-12 00:49:36
+created: 2025-08-14T10:17:44
+modified: 2026-07-21T23:34:14
+tags:
+  - ipad
 ---
 
 # Kuxiu M30 Ipad Charger

@@ -1,8 +1,12 @@
 ---
 publish: true
 title: Interview With Koffin Kats
-created: 2026-03-11 02:46:11
-modified: 2026-07-12 00:49:34
+created: 2026-04-11T10:17:31
+modified: 2026-07-21T23:34:44
+tags:
+  - music
+  - gigs
+  - interview
 ---
 
 # Interview With Koffin Kats

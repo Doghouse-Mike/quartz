@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Starting out Green 20260109
-created: 2026-01-09 20:51:14
-modified: 2026-07-12 00:49:35
+created: 2026-06-26T00:52:35
+modified: 2026-07-21T23:44:05
 ---
 
 # Starting out Green 20260109

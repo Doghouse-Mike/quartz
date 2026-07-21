@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Character Creation Ideas (For Future rEference)
-created: 2025-07-06 18:57:05
-modified: 2026-07-12 00:49:36
+created: 2026-02-06T21:46:44
+modified: 2026-07-21T23:46:38
+tags:
+  - rpg
 ---
 
 # Character Creation Ideas (For Future rEference)

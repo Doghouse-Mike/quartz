@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Good, Few Dollars More, Fistful
-created: 2026-02-10 21:01:56
-modified: 2026-07-12 00:53:11
+created: 2026-04-11T10:17:31
+modified: 2026-07-21T23:35:14
+tags:
+  - Movies
 ---
 
 # Good, Few Dollars More, Fistful

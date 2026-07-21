@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Mike's Notes Against Chaos
-created: 2026-04-12 21:50:24
-modified: 2026-07-12 00:49:34
+created: 2026-04-27T07:53:20
+modified: 2026-07-21T23:33:57
+tags:
+  - thoughttech
 ---
 
 # Mike's Notes Against Chaos

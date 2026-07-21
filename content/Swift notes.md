@@ -1,12 +1,14 @@
 ---
 publish: true
 title: Swift Notes
-created: 2026-03-12 17:25:10
-modified: 2026-07-12 00:53:11
+created: 2026-03-12T17:25:10
+modified: 2026-07-21T23:20:49
 tags:
   - swift
   - programming
   - ipad
+  - Apple
+  - code
 ---
 
 # Swift Notes

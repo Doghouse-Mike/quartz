@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Movie Ideas
-created: 2025-07-17 21:43:10
-modified: 2026-07-12 00:49:34
+created: 2026-04-11T10:17:31
+modified: 2026-07-21T23:31:49
+tags:
+  - Ideas
 ---
 
 # Movie Ideas

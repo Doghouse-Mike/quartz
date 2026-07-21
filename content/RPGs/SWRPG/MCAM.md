@@ -1,8 +1,11 @@
 ---
 publish: true
 title: Memory Cores And Motivators
-created: 2025-05-31 23:43:07
-modified: 2026-07-12 00:49:36
+created: 2026-01-16T16:08:59
+modified: 2026-07-21T23:46:30
+tags:
+  - StarWars
+  - rpg
 ---
 
 # Memory Cores And Motivators

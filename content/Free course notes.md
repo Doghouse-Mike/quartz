@@ -1,10 +1,11 @@
 ---
 publish: true
 title: Free Course Notes
-created: 2025-12-09 21:54:16
-modified: 2026-07-12 00:49:36
+created: 2026-06-26T19:34:47
+modified: 2026-07-21T23:35:37
 tags:
   - Linux
+  - cybersec
 ---
 
 # Free Course Notes

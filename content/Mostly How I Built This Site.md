@@ -1,11 +1,17 @@
 ---
 publish: true
 title: Mostly How I Built This Site
-created: 2025-07-21 21:34:35
-modified: 2026-07-12 00:49:36
+created: 2026-06-26T14:55:10
+modified: 2026-07-21T23:33:44
+tags:
+  - Obsidian
+  - Quartz
+  - blogging
 ---
 
 # Mostly How I Built This Site
+
+> A lot of the initial setup has changed since [V5]([https://quartz.jzhao.xyz]\(https://quartz.jzhao.xyz/\)) kindasorta got out of beta. Keeping this around to check for parity, remind myself how I did stuff. Some of it is still very relevant.
 
 ## Inspiration / Reasoning
 

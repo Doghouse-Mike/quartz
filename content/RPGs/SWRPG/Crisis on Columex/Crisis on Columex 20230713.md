@@ -1,8 +1,11 @@
 ---
 publish: true
 title: SWRPG Session 1
-created: 2026-02-10 21:13:57
-modified: 2026-07-12 00:49:35
+created: 2026-04-14T07:20:11
+modified: 2026-07-21T23:43:25
+tags:
+  - rpg
+  - StarWars
 ---
 
 # SWRPG Session 1

@@ -1,10 +1,10 @@
 ---
 publish: true
 title: Booze
-created: 2026-06-26 23:25:36
-modified: 2026-07-14 22:40:02
+created: 2025-07-03T23:22:25
+modified: 2026-07-21T23:37:44
 tags:
-  - drinks
+  - booze
 ---
 
 # Booze

@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Chatty G Q's on 2026 Theme
-created: 2025-12-25 14:09:07
-modified: 2026-07-12 00:49:36
+created: 2026-01-01T23:17:16
+modified: 2026-07-21T23:37:35
+tags:
+  - theme
 ---
 
 # Chatty G Q's on 2026 Theme

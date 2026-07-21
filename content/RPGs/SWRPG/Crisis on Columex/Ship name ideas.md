@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Ship Name Ideas
-created: 2025-09-19 19:55:39
-modified: 2026-07-12 00:49:35
+created: 2026-06-26T00:49:11
+modified: 2026-07-21T23:41:10
 ---
 
 # Ship Name Ideas

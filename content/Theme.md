@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Theme
-created: 2025-12-25 14:07:06
-modified: 2026-07-12 00:53:11
+created: 2026-06-26T19:39:38
+modified: 2026-07-21T23:22:15
+tags:
+  - theme
 ---
 
 Plans afoot for the [Theme System Journal](https://www.themesystem.com/)

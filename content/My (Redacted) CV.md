@@ -1,8 +1,10 @@
 ---
 publish: true
 title: My (Redacted) CV
-created: 2025-11-03 07:17:54
-modified: 2026-07-12 00:49:36
+created: 2026-03-12T17:25:10
+modified: 2026-07-21T23:31:43
+tags:
+  - dayjob
 ---
 
 # My (Redacted) CV

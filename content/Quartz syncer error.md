@@ -1,11 +1,16 @@
 ---
 publish: true
 title: Quartz Syncer Error
-created: 2026-01-15 13:28:48
-modified: 2026-07-12 00:49:36
+created: 2026-06-26T14:54:47
+modified: 2026-07-21T23:28:49
+tags:
+  - Obsidian
+  - Quartz
 ---
 
 # Quartz Syncer Error
+
+> Note - this has been worked around via [[Quartz vs images|Notepix]] now
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T135426803Z.jpeg)
 

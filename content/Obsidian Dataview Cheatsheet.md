@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Obsidian Dataview Cheatsheet
-created: 2024-10-03 22:26:28
-modified: 2026-07-12 00:49:34
+created: 2025-07-21T21:50:42
+modified: 2026-07-21T23:29:47
+tags:
+  - Obsidian
 ---
 
 # Obsidian Dataview Cheatsheet

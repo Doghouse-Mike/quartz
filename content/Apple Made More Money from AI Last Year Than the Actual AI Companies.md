@@ -1,8 +1,11 @@
 ---
 publish: true
 title: Apple Made More Money from AI Last Year Than the Actual AI Companies
-created: 2026-03-20 22:01:27
-modified: 2026-07-12 00:49:34
+created: 2026-03-20T22:01:27
+modified: 2026-07-21T23:09:53
+tags:
+  - Apple
+  - ai
 ---
 
 # Apple Made More Money from AI Last Year Than the Actual AI Companies

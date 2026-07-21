@@ -1,8 +1,11 @@
 ---
 publish: true
 title: Cold Climate Shopping
-created: 2026-02-27 16:14:56
-modified: 2026-07-12 00:49:35
+created: 2026-06-26T00:54:54
+modified: 2026-07-21T23:46:24
+tags:
+  - StarWars
+  - rpg
 ---
 
 # Cold Climate Shopping

@@ -1,8 +1,10 @@
 ---
 publish: true
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
-created: 2026-02-06 21:46:36
-modified: 2026-07-12 00:49:36
+created: 2026-02-06T21:46:36
+modified: 2026-07-21T23:46:51
+tags:
+  - rpg
 ---
 
 # Other Types of Characters I Think it Could Be Fun to Play:

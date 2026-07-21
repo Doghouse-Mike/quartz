@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Snapcase
-created: 2026-06-06 12:31:50
-modified: 2026-07-12 00:53:11
+created: 2026-06-06T13:08:08
+modified: 2026-07-21T23:23:21
+tags:
+  - music
 ---
 
 # Snapcase

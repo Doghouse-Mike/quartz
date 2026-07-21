@@ -1,8 +1,10 @@
 ---
 publish: true
 title: End Transmissions
-created: 2026-06-06 12:09:01
-modified: 2026-07-12 00:49:36
+created: 2026-06-06T12:09:01
+modified: 2026-07-21T23:36:04
+tags:
+  - music
 ---
 
 # End Transmissions

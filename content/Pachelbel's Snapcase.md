@@ -1,8 +1,11 @@
 ---
 publish: true
 title: Pachelbel's Snapcase
-created: 2026-06-02 12:51:47
-modified: 2026-07-12 00:49:34
+created: 2026-06-03T12:11:24
+modified: 2026-07-21T23:29:29
+tags:
+  - music
+  - musictheory
 ---
 
 # Pachelbel's Snapcase

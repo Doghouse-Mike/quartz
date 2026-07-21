@@ -1,8 +1,11 @@
 ---
 publish: true
 title: The Idiot's Guide to Unionising Your UK Workplace
-created: 2026-01-16 16:08:59
-modified: 2026-07-12 00:49:34
+created: 2026-01-16T16:08:59
+modified: 2026-07-21T23:31:26
+tags:
+  - union
+  - dayjob
 ---
 
 see also [[Unionising summary]]

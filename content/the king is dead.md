@@ -1,8 +1,11 @@
 ---
 publish: true
 title: The King is Dead
-created: 2026-01-16 16:08:58
-modified: 2026-07-12 00:53:11
+created: 2026-06-27T00:36:20
+modified: 2026-07-21T23:20:34
+tags:
+  - music
+  - death
 ---
 
 # The King is Dead

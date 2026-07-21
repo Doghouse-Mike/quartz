@@ -1,8 +1,11 @@
 ---
 publish: true
 title: Notes on The Minimalists
-created: 2026-01-11 22:05:39
-modified: 2026-07-12 00:53:12
+created: 2026-06-26T14:54:17
+modified: 2026-07-21T23:30:43
+tags:
+  - tv
+  - minimalism
 ---
 
 # Notes on The Minimalists

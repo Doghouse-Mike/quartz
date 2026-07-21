@@ -1,8 +1,11 @@
 ---
 publish: true
 title: On Instead of "I Have tO", "I Choose tO"
-created: 2026-02-10 21:45:44
-modified: 2026-07-12 00:53:11
+created: 2026-06-26T19:38:59
+modified: 2026-07-21T23:23:12
+tags:
+  - Ideas
+  - thoughttech
 ---
 
 # On Instead of "I Have tO", "I Choose tO"

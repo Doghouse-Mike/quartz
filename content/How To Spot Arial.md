@@ -1,8 +1,11 @@
 ---
 publish: true
 title: How To Spot Arial
-created: 2025-12-17 00:09:38
-modified: 2026-07-12 00:49:36
+created: 2026-06-26T14:54:02
+modified: 2026-07-21T23:34:53
+tags:
+  - design
+  - fonts
 ---
 
 # How To Spot Arial

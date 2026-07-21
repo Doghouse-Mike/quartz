@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Presentation Tips
-created: 2026-03-12 17:25:10
-modified: 2026-07-12 00:49:34
+created: 2026-03-12T17:25:10
+modified: 2026-07-21T23:29:11
+tags:
+  - thoughttech
 ---
 
 # Presentation Tips
