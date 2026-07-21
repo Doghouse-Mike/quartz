@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-21T19:55:47
-modified: 2026-07-21T21:08:59
+modified: 2026-07-21T21:21:00
 tags:
   - Quartz
   - Obsidian
@@ -91,9 +91,10 @@ Out of the box, the `created-modified-date` plugin looks for the modified date. 
 Frustratingly, as V4 did before it, the date info gets thrown away _before_ the map/entire contents of your site gets built into `contentIndex.json`. We don't want that. Because the Explorer is built _client side_ (meaning by the browser of the person viewing your site), nothing we've done so far will change how the page looks. So we need to comment out/remove that "delete content.date" line.
 
 1. Fork `github.com/quartz-community/content-index` to your account (e.g. `github.com/<YourUserName>/content-index`), keep the repo name.
-   ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260721T200846644Z-1.png)
-2. On the fork's default branch (`main`), open the emitter file`src/plugins/emitters/contentIndex/emitter.ts`
-3. Find the `simplifiedIndex` builder and delete the `delete content.date;` line. (Line 189 at time of writing)
+
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260721T200846644Z-1.png)
+2\. On the fork's default branch (`main`), open the emitter file`src/plugins/emitters/contentIndex/emitter.ts`
+3\. Find the `simplifiedIndex` builder and delete the `delete content.date;` line. (Line 189 at time of writing)
 
 ## Step 4 - Point Our Quartz at the Newly Forked Plugin
 
@@ -107,6 +108,8 @@ To:
 
 ## Step 5 - Rebuild, and Enjoy
 
-If you've been doing all this locally, `npx quartz build --serve` _should_ get you a localhost version with the desired sort order. An actual real life deploy might need an extra step though. GitHub saves itself some work by caching what it can for workflows, so might not bother looking at your shiny new `content-index` fork. The good news is, that's easy to get rid of. Head to your "Actions" tab at top of the web interface for your Quartz repo, and then in the sidebar that pops up on the left, there's a handy little "Caches" button, like so:![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260721T200848377Z-2.jpg)
+If you've been doing all this locally, `npx quartz build --serve` _should_ get you a localhost version with the desired sort order. An actual real life deploy might need an extra step though. GitHub saves itself some work by caching what it can for workflows, so might not bother looking at your shiny new `content-index` fork. The good news is, that's easy to get rid of. Head to your "Actions" tab at top of the web interface for your Quartz repo, and then in the sidebar that pops up on the left, there's a handy little "Caches" button, like so:
+
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260721T200848377Z-2.jpg)
 
 Hit that, then the little bin icons on the far right to get rid of em all. Publish something/otherwise redeploy the site, et voila, folders first, notes after, newest one at the top, oldest one at the bottom, blog style!
