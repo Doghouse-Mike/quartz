@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-08 01:22:31
-modified: 2026-07-12 00:49:36
+created: 2026-07-08T01:22:31
+modified: 2026-07-16T08:26:52
 tags:
   - Bazzite
   - Linux
@@ -27,3 +27,8 @@ Getting RDR2 (I only own the Rockstar/RSC version) was a bit of a palaver, but t
 I did enjoy the customisation options KDE gives ya, and spent about an hour while games were reinstalling ruining the clean aesthetic of the default with [Daemon](https://github.com/MathisP75/daemon-kde-mk2). Another upside was being able to convince my Bluetooth keyboard that it's connecting to the same machine whether I'm in bazzite or macOS. So yea, my other boot drive is a mac, so that's a whole thing. I wonder what the Venn diagram of hackintosh+bazzite users is like?
 
 12/10, would recommend _if_ there's no mission critical software (including games) that flat out don't work on Linux (yet, question?). But that could be what dual booting is for, I suppose.
+
+Or [via](https://old.reddit.com/r/Bazzite/comments/1uxf5li/switching_from_windows_10_to_bazzite_as_a)
+I’d double check what games you play, some of the competitive anti cheat bois don’t play nice, but apart from that, switching is easy, in my experience. Like an hour between “let’s give this bazzite a whirl then” to “I’m playing games” easy. I don’t daily driver it so much (Mac guy, for my sins), but apart from 99% of “computer” being in a browser nowadays anyway, I definitely could. Obsidian works, so does everything else I’ve tried; getting into emails for 2FA etc, syncing all my passwords over from windows/macos, tailscale fun, etc etc.
+
+Kinda out of scope, but I really like using bazzite. It just feels nice. Again with the macs, but windows was always a “I’ll boot it so I can play games” thing, where now I’m on the brink of working out how to replicate my Mac/iOS ecosystem lock in
