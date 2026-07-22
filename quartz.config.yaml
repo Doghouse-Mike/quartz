@@ -169,10 +169,6 @@ plugins:
     layout:
       position: right
       priority: 10
-    options:
-      localGraph: "opacityScale: 0.9"
-      "opacityScale: 0.9": ""
-      globalGraph: "opacityScale: 0.9"
   - source: github:quartz-community/search
     enabled: true
     layout:
