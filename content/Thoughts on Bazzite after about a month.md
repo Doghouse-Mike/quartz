@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-08T01:22:31
-modified: 2026-07-16T08:26:52
+modified: 2026-07-22T18:02:25
 tags:
   - Bazzite
   - Linux
   - Vidjagames
 ---
+
+github\_pat\_11AVRBQPI0NwC1u5QGG2Af\_PQrL5Sk0M2VxZO3Dcu3qsxC0TQe3PxnYRFuAywVFxsQ6DIWVXVW38SiomRo
 
 # Thoughts on Bazzite after about a Month
 
@@ -29,6 +31,7 @@ I did enjoy the customisation options KDE gives ya, and spent about an hour whil
 12/10, would recommend _if_ there's no mission critical software (including games) that flat out don't work on Linux (yet, question?). But that could be what dual booting is for, I suppose.
 
 Or [via](https://old.reddit.com/r/Bazzite/comments/1uxf5li/switching_from_windows_10_to_bazzite_as_a)
+
 I’d double check what games you play, some of the competitive anti cheat bois don’t play nice, but apart from that, switching is easy, in my experience. Like an hour between “let’s give this bazzite a whirl then” to “I’m playing games” easy. I don’t daily driver it so much (Mac guy, for my sins), but apart from 99% of “computer” being in a browser nowadays anyway, I definitely could. Obsidian works, so does everything else I’ve tried; getting into emails for 2FA etc, syncing all my passwords over from windows/macos, tailscale fun, etc etc.
 
 Kinda out of scope, but I really like using bazzite. It just feels nice. Again with the macs, but windows was always a “I’ll boot it so I can play games” thing, where now I’m on the brink of working out how to replicate my Mac/iOS ecosystem lock in
