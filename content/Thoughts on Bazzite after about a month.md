@@ -1,14 +1,12 @@
 ---
 publish: true
 created: 2026-07-08T01:22:31
-modified: 2026-07-22T18:02:25
+modified: 2026-07-30T00:01:08
 tags:
   - Bazzite
   - Linux
   - Vidjagames
 ---
-
-github\_pat\_11AVRBQPI0NwC1u5QGG2Af\_PQrL5Sk0M2VxZO3Dcu3qsxC0TQe3PxnYRFuAywVFxsQ6DIWVXVW38SiomRo
 
 # Thoughts on Bazzite after about a Month
 
