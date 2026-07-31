@@ -11,6 +11,8 @@ configuration:
   baseUrl: https://28mm.coffee
   ignorePatterns:
     - private
+    - TaskNotes
+    - Templates
     - Daily notes
     - Drafts
     - Daily Notes
