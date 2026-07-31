@@ -2,7 +2,14 @@
 publish: true
 permalink: /Kheetsheet.md
 created: 2026-07-28T00:13:03
-modified: 2026-07-31T22:02:04
+modified: 2026-07-31T22:09:20
+tags:
+  - ai
+  - code
+  - Bazzite
+  - Linux
+  - Ideas
+  - programming
 ---
 
 # Kheetsheet

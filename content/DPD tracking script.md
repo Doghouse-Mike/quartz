@@ -1,10 +1,11 @@
 ---
 publish: true
+permalink: /DPD tracking script.md
 title: DPD Tracking Script
 created: 2026-07-11T21:55:13
 modified: 2026-07-29T21:31:09
 tags:
-  - Pyhon
+  - Python
   - dayjob
   - code
 ---
