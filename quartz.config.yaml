@@ -11,6 +11,8 @@ configuration:
   baseUrl: https://28mm.coffee
   ignorePatterns:
     - private
+    - Drafts
+    - Daily Notes
     - templates
     - .obsidian
   theme:
