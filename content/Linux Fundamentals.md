@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: /Linux Fundamentals.md
 title: Linux Fundamentals
-created: 2026-05-03 13:14:58
-modified: 2026-07-14 23:59:39
+created: 2026-06-29T17:51:16
+modified: 2026-08-05T17:57:07
 tags:
   - Linux
 ---
@@ -44,8 +45,7 @@ EG: `git --help`
 `apropos` is probably gonna be super useful. Kinda finds all the instances of the search term in available commands (if I can't recall the specific name of a command, but think it exists) EG: `apropos usb` will spit out:
 
 > `bhp-config_usb_printer (1) - HP device config us…`
-> `ipp-usb (8) - Daemon for IPP over USB …`
-> `lsusb (8) - list USB devices`
+> `lsusb (8) - lisdaemont USB devices`
 > `sane-canon630u (5) - SANE backend for the Can…`
 > `sane-canon_lide70 (5) - SANE backend for the Ca…`
 > `sane-cardscan (5) - SANE backend for Corex C…`
