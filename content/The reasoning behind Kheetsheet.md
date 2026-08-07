@@ -2,7 +2,7 @@
 publish: true
 permalink: /The reasoning behind Kheetsheet.md
 created: 2026-07-28T00:13:03
-modified: 2026-08-05T22:56:32
+modified: 2026-08-07T08:38:41
 tags:
   - ai
   - code
@@ -53,3 +53,5 @@ In an AI app, am I mad? One of the other workarounds I'd considered was maintain
 The idea of weaning myself off the Apple teat does keep buzzing around my brain, but even if I talk myself out of that most rabbity of holes, getting used to the quirks of Linux (or KDE more specifically) will be a bonus, and make whatever I'm doing in there (even if it's just playing games) a smoother experience.
 
 With a bit of luck, after spreading the word a bit, someone who actually knows what they're doing will have a bright idea, or I'll be immediately pointed at someone else's implementation that works better, but for now, I supervised the writing of some software based on an idea I stole from someone else, and if that's not creativity, I don't know what is.
+
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/The-reasoning-behind-Kheetsheet-Principles-1.png)

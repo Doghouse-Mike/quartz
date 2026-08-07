@@ -2,14 +2,14 @@
 publish: true
 permalink: /Kheetsheet.md
 created: 2026-08-05T22:23:00
-modified: 2026-08-07T01:08:39
+modified: 2026-08-07T08:39:39
 tags:
   - Linux
   - Bazzite
   - code
 ---
 
-![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260805T220001841Z.png)
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/Kheetsheet-4.png)
 
 # Kheetsheet
 
