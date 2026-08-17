@@ -3,7 +3,7 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Z-X3ED.md
 title: Z-X3ED
 created: 2026-06-26T00:46:13
-modified: 2026-08-18T00:10:52
+modified: 2026-08-18T00:13:53
 ---
 
 # Z-X3ED
@@ -381,11 +381,11 @@ Then the Pirate tree has another rank in Dedication eventually, to bolster up wh
 
 ### SO, the Actual Spend
 
-- 20 XP — Pirate
-- 5 XP — Coercion 1
-- 5 XP — Know the Ropes
+- 20 XP - Pirate
+- 5 XP - Coercion 1
+- 5 XP - Know the Ropes (entirely to get moving, hit that second row of 10XP talents and move across)
 
-> note to self, a second rank in quick draw _does not_ mean I can draw/holster two weapons as an incidental. For that, I may want [Gunslinger](https://star-wars-rpg-ffg.fandom.com/wiki/Gunslinger)
+> note to self, a second rank in quick draw _does not_ mean that one can draw/holster two weapons as an incidental each round. For that, I may want [Gunslinger](https://star-wars-rpg-ffg.fandom.com/wiki/Gunslinger) (which may also be my "Ed needs to get better at combat" path)
 > ![[attachment/Ed (Z-X3ED) MK3 RPG Sessions 1.pdf]]
 > Current setup as of August '26 (ignore the ridiculous pile of guns he's somehow carrying):
 
