@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260814.md
 created: 2026-08-14T18:45:14
-modified: 2026-08-17T23:02:51
+modified: 2026-08-17T23:05:49
 tags:
   - rpg
   - StarWars
@@ -104,7 +104,7 @@ and a special treat in the form of a Scarab brooch.
 > a mystery, but it hums faintly with the Force whenever
 > a Force-sensitive being touches it.
 
-"Shiny" Ed thinks, kleps it, and pins it on to his jacket.
+"Shiny" Ed thinks, kleps it, and surreptitiously pins it on to his jacket.
 
 The girls try and get some useful info out of the computers, pulling a data dump onto one of our pads.
 
