@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20230713.md
 title: SWRPG Session 1
 created: 2026-04-14T07:20:11
-modified: 2026-07-21T23:43:25
+modified: 2026-08-17T23:02:27
 tags:
   - rpg
   - StarWars
