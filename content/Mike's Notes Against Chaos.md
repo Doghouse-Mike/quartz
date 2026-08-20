@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Mike's Notes Against Chaos.md
 title: Mike's Notes Against Chaos
 created: 2026-04-27T07:53:20
 modified: 2026-07-21T23:33:57

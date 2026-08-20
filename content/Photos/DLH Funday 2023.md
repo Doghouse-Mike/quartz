@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Photos/DLH Funday 2023.md
 title: DLH Funday 2023
 created: 2026-03-10 21:36:16
 modified: 2026-07-12 00:49:36

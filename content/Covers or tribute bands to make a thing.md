@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Covers or tribute bands to make a thing.md
 title: Covers Or Tribute Bands to Make a Thing
 created: 2026-04-24T23:32:21
 modified: 2026-07-21T23:13:20

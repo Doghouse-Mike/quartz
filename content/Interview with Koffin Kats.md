@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Interview with Koffin Kats.md
 title: Interview With Koffin Kats
 created: 2026-04-11T10:17:31
 modified: 2026-07-21T23:34:44

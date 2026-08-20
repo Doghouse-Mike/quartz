@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Art that deals with -ideas- is more interesting than art that deals with technique.md
 title: Art that Deals With *ideas* is More Interesting Than Art that Deals With Technique
 created: 2026-04-11T10:17:31
 modified: 2026-07-21T23:37:51

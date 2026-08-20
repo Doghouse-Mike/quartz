@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/MCAM.md
 title: Memory Cores And Motivators
 created: 2026-01-16T16:08:59
 modified: 2026-07-21T23:46:30

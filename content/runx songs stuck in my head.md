@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /runx songs stuck in my head.md
 title: Runx Songs Stuck in My Head
 created: 2026-04-11T10:17:31
 modified: 2026-07-21T23:24:16

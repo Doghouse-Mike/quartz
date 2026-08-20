@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Quotes.md
 title: Quotes
 created: 2026-04-20T22:38:38
 modified: 2026-07-21T23:24:50

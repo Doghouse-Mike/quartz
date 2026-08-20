@@ -1,7 +1,8 @@
 ---
 publish: true
+permalink: /Quartz V5 Explorer Sorting.md
 created: 2026-07-21T19:55:47
-modified: 2026-07-21T21:21:00
+modified: 2026-07-21T23:55:38
 tags:
   - Quartz
   - Obsidian

@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260814.md
 created: 2026-08-14T18:45:14
-modified: 2026-08-17T23:05:49
+modified: 2026-08-20T08:36:03
 tags:
   - rpg
   - StarWars
@@ -110,13 +110,13 @@ The girls try and get some useful info out of the computers, pulling a data dump
 
 We then slag everything in the room, taking the extra backup with us.
 
-The doctors make a run for the door, Mouth shouts at them to wait, as a thermal detonator flies through the air. Mouth dives in like a foolish hero and takes the hit, with the rest of us get away with being knocked over.
+Heading out of the base, the doctors make a run for the door, Mouth shouts at them desperately to wait, but it's too late. The dastardly death troopers had rigged the exit to blow. Mouth dives in like a foolish hero, shielding the civilians with his body and taking the hit, the blast knocks the rest of the group from their feet.
 
 Mouth is _down_, his armour is smoking and cracked. Snowy runs to his side and starts administering first aid.
 
-Ed secures the door, thinking "I get his guns if he doesn't get up"
+Ed secures the door, checking for any more surprises, all the while thinking "I get his guns if he doesn't get up"
 
-Snowy determines that he's a bit crispy (critically injured) and will need long term treatment ASAP. Some stims and bandages will keep him stable for now though.
+Snowy determines that he's a bit crispy (critically injured) and will need long-term treatment ASAP. Some stims and bandages will keep him ticking for now though.
 
 Snowy removes his helmet, and Illara recognises him as a clone trooper from back in the day. They don't actually recognise _him_, just what he is. "How long have you been running around with a clone trooper?" she asks, and **fade to black**.
 

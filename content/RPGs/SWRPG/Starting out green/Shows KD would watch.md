@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Shows KD would watch.md
 title: Shows KD Would Watch
 created: 2026-02-06T21:45:46
 modified: 2026-07-21T23:45:03

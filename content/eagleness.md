@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /eagleness.md
 title: Eagleness
 created: 2025-07-03 23:21:52
 modified: 2026-07-12 00:49:36

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Unionising.md
 title: The Idiot's Guide to Unionising Your UK Workplace
 created: 2026-01-16T16:08:59
 modified: 2026-07-21T23:31:26

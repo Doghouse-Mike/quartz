@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Ship name ideas.md
 title: Ship Name Ideas
 created: 2026-04-11T10:18:06
 modified: 2026-07-21T23:19:04

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Shopping List.md
 title: Shoppings List
 created: 2026-02-10T21:13:42
 modified: 2026-07-21T23:45:07

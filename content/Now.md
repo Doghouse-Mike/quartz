@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Now.md
 title: Now
 created: 2026-06-06T13:12:14
 modified: 2026-07-22T00:02:45

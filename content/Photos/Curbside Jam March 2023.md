@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Photos/Curbside Jam March 2023.md
 title: Curbside Jam March 2023
 created: 2026-03-10 21:34:44
 modified: 2026-07-12 00:49:36

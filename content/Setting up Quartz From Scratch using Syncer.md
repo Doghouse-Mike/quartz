@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Setting up Quartz From Scratch using Syncer.md
 title: Setting Up Quartz From Scratch Using Syncer
 created: 2026-06-26T19:38:59
 modified: 2026-07-21T23:23:39

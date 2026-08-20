@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Post-defense of Whisper base shopping.md
 title: Post-defense of Whisper Base Shopping
 created: 2026-02-06T21:46:55
 modified: 2026-07-21T23:45:19

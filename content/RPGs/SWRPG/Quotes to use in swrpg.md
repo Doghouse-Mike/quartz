@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Quotes to use in swrpg.md
 title: Quotes to Use in Swrpg
 created: 2026-06-21T10:03:31
 modified: 2026-07-21T23:46:53

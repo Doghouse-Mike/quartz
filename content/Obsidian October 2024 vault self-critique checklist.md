@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Obsidian October 2024 vault self-critique checklist.md
 title: Obsidian October O_O 2024 Vault Self-critique Checklist
 created: 2026-04-11T10:17:31
 modified: 2026-07-21T23:29:39

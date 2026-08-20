@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Cold climate shopping.md
 title: Cold Climate Shopping
 created: 2026-06-26T00:54:54
 modified: 2026-07-21T23:46:24

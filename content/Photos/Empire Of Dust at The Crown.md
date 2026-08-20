@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Photos/Empire Of Dust at The Crown.md
 title: Empire Of Dust at The Crown
 created: 2026-03-10 21:36:54
 modified: 2026-07-12 00:49:36

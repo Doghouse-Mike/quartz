@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Crisis on Columex/Ed's plan for how the lab could go down.md
 title: Ed's Plan for How the Lab Could Go Down
 created: 2026-04-23T21:28:35
 modified: 2026-07-21T23:42:15

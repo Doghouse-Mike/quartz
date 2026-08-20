@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Photos/JD McPherson at The Bullingdon.md
 title: JD McPherson at The Bullingdon
 created: 2026-03-16 23:21:49
 modified: 2026-07-12 00:49:36

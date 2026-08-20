@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Untitled Heist idea.md
 title: Untitled Heist Idea
 created: 2026-02-10T21:37:32
 modified: 2026-07-21T23:43:36

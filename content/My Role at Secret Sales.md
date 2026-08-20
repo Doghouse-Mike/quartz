@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /My Role at Secret Sales.md
 title: My Role at Secret Sales
 created: 2026-03-12T17:25:10
 modified: 2026-07-21T23:31:07

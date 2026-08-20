@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Starting Out Green 20260206.md
 title: Starting Out Green 20260206
 created: 2026-06-26T00:52:54
 modified: 2026-07-21T23:43:55

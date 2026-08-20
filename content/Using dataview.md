@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Using dataview.md
 title: Using Dataview
 created: 2026-04-11T10:17:31
 modified: 2026-07-21T23:20:09

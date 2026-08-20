@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Presentation tips.md
 title: Presentation Tips
 created: 2026-03-12T17:25:10
 modified: 2026-07-21T23:29:11

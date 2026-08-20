@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Quartz vs images.md
 title: Quartz Vs Images
 created: 2026-06-25T23:10:57
 modified: 2026-07-29T21:29:18

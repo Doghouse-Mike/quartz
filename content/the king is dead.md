@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /the king is dead.md
 title: The King is Dead
 created: 2026-06-27T00:36:20
 modified: 2026-07-21T23:20:34

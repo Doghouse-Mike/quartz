@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Theme for 2026.md
 title: The Year of "Out"
 created: 2026-06-26T19:39:42
 modified: 2026-07-21T23:22:08

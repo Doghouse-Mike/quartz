@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Crisis on Columex/Stuff to get.md
 title: Stuff to Get
 created: 2026-06-26T19:37:27
 modified: 2026-07-21T23:41:00

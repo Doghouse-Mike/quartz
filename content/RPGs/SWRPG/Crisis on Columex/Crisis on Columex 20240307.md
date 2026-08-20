@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20240307.md
 title: SWRPG Session 8
 created: 2026-02-10T21:13:58
 modified: 2026-07-21T23:42:57

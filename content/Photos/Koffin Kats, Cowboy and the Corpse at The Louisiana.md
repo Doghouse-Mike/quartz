@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Photos/Koffin Kats, Cowboy and the Corpse at The Louisiana.md
 title: Koffin Kats, Cowboy And the Corpse at The Louisiana
 created: 2026-03-16 23:21:49
 modified: 2026-07-12 00:49:36

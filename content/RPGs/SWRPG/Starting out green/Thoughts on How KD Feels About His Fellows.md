@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Thoughts on How KD Feels About His Fellows.md
 title: Thoughts on How KD Feels About His Fellows
 created: 2026-02-06T21:46:59
 modified: 2026-07-21T23:43:44

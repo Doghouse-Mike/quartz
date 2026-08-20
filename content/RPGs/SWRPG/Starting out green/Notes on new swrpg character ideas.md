@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Starting out green/Notes on new swrpg character ideas.md
 title: Notes on New Swrpg Character Ideas
 created: 2026-02-06T21:46:46
 modified: 2026-07-21T23:45:27

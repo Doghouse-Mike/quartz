@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Song ideas.md
 title: Song Ideas
 created: 2026-06-26T19:39:00
 modified: 2026-07-21T23:22:30

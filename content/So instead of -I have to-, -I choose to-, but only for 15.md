@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /So instead of -I have to-, -I choose to-, but only for 15.md
 title: On Instead of "I Have tO", "I Choose tO"
 created: 2026-06-26T19:38:59
 modified: 2026-07-21T23:23:12

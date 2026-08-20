@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Questions.md
 title: Questions
 created: 2026-05-02 09:42:20
 modified: 2026-07-12 00:49:34

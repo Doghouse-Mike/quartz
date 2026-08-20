@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /without people you're nothing.md
 title: Without People You're Nothing
 created: 2026-02-10 21:45:44
 modified: 2026-07-12 00:49:36

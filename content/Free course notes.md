@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Free course notes.md
 title: Free Course Notes
 created: 2026-06-26T19:34:47
 modified: 2026-07-21T23:35:37

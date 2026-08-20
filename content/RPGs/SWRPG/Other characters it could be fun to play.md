@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /RPGs/SWRPG/Other characters it could be fun to play.md
 title: "Other Types of Characters I Think it Could Be Fun to Play:"
 created: 2026-02-06T21:46:36
 modified: 2026-07-21T23:46:51

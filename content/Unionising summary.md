@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Unionising summary.md
 title: "Unionising Our Workplace: Key Points"
 created: 2026-01-16T16:08:58
 modified: 2026-07-21T23:31:20

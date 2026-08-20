@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Obsidian Dataview Cheatsheet.md
 title: Obsidian Dataview Cheatsheet
 created: 2025-07-21T21:50:42
 modified: 2026-07-21T23:29:47

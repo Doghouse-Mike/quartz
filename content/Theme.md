@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Theme.md
 title: Theme
 created: 2026-06-26T19:39:38
 modified: 2026-07-21T23:22:15

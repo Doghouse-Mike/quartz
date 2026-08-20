@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /Pachelbel's Snapcase.md
 title: Pachelbel's Snapcase
 created: 2026-06-03T12:11:24
 modified: 2026-07-21T23:29:29
