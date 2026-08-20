@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260814.md
 created: 2026-08-14T18:45:14
-modified: 2026-08-20T08:36:03
+modified: 2026-08-20T08:38:40
 tags:
   - rpg
   - StarWars
@@ -19,6 +19,8 @@ Ilara wants to get rid of everything, destroy all the research.
 This is what we need to decide, do we keep samples of the virus, for Jax/profit or destroy everything? Ed's not particularly fussed either way, or at least not in the "preservation of life" part, but it is decided that we'll get rid of what we can for the benefit of society. Meatbags _are_ useful.
 
 All the bodies, computers, and evidence get dumped in the little corner room the zombies came out of. Snowy euthanizes the "source", and we nuke the whole room with a thermal detonator.
+
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/RPGs/SWRPG/Crisis%20on%20Columex/Crisis%20on%20Columex%2020260814/Crisis-on-Columex-20260814-Crisis-on-Columex-20260814-2.gif)
 
 Decide to check the office upstairs again for anything useful, and to make sure they don't have any backups of the data. Using the trooper's encrypted comms, we don't pick up any actual chatter, but there are a couple of clicks, which doesn't bode well. Code?
 
