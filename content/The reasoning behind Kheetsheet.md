@@ -34,6 +34,10 @@ Install the thing, copy a bit of text, assign a hotkey, et voila, you'll start a
 
 ![Konsole also plays nice](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/Kheetsheet/Kheetsheet-Caveats-2.png)
 
+## And Hyprland
+
+- I fell in another hole messing around with Omarchy, and although it's pretty keyboard-focused and there are shotcuts out the whazoo (technical term), nothing seemed to offer the same "what can this window I'm in now do?" question. [Et voila](https://github.com/Doghouse-Mike/kheetsheet-hypr/tree/main).
+
 ## Caveats
 
 Frustratingly, because there's not "one true" Linux to rule them all, not all software exposes its keyboard shortcuts in the same way, or at all.

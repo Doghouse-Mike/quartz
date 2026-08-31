@@ -13,7 +13,7 @@ tags:
 
 # Kheetsheet
 
-For installation instructions, and to peruse the code, see [the repo](https://github.com/Doghouse-Mike/kheetsheet).
+For installation instructions, and to peruse the code, see [the repo](https://github.com/Doghouse-Mike/kheetsheet). For you Arch/hyprland folken, I present [this](https://github.com/Doghouse-Mike/kheetsheet-hypr/)
 
 Kheetsheet is very much an homage to Cheatsheet. It was a neat little bit of software that did one thing well.
 
