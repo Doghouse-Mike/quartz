@@ -3,7 +3,7 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Z-X3ED.md
 title: Z-X3ED
 created: 2026-06-26T00:46:13
-modified: 2026-09-04T18:47:42
+modified: 2026-09-04T18:50:41
 ---
 
 # Z-X3ED
@@ -375,7 +375,7 @@ If "Face" continues to be important/fun
 
 Dedication → Presence 3
 
-(Or WIllpower, turns out Coercion keys of that. I'm gonna end up all 3's)
+> Or WIllpower, turns out Coercion keys of that. I'm gonna end up all 3's. BUT, Ed could upgrade his arms and legs for +1 to agility from each, 10k a pop
 
 Then the Pirate tree has another rank in Dedication eventually, to bolster up whatever needs it at that point.
 
