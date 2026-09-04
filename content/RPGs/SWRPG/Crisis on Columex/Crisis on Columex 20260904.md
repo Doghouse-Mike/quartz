@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260904.md
 created: 2026-09-04T13:54:19
-modified: 2026-09-04T23:33:20
+modified: 2026-09-04T23:36:55
 tags:
   - StarWars
   - rpg
@@ -92,7 +92,7 @@ Jackie's got plans to form, and a lot of other work to do, but needs our help in
 
 ## Preparation Options:
 
-Might split the party a bit to cover more ground. Plan to come together between sessions.
+Might split the party a bit to cover more ground. Form a plan between sessions, and we can hit the ground running (or standing?) next time.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/RPGs/SWRPG/Crisis%20on%20Columex/Crisis%20on%20Columex%2020260904/20260904T204320559Z-1.png)
 
