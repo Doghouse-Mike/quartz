@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260814.md
 created: 2026-08-14T18:45:14
-modified: 2026-08-20T08:38:40
+modified: 2026-09-04T23:30:40
 tags:
   - rpg
   - StarWars
@@ -123,3 +123,7 @@ Snowy determines that he's a bit crispy (critically injured) and will need long-
 Snowy removes his helmet, and Illara recognises him as a clone trooper from back in the day. They don't actually recognise _him_, just what he is. "How long have you been running around with a clone trooper?" she asks, and **fade to black**.
 
 15XP each
+
+### Semi-official Swag List:
+
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/RPGs/SWRPG/Crisis%20on%20Columex/Crisis%20on%20Columex%2020260814/20260904T223034011Z.png)

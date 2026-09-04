@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260904.md
 created: 2026-09-04T13:54:19
-modified: 2026-09-04T23:24:23
+modified: 2026-09-04T23:28:20
 tags:
   - StarWars
   - rpg
@@ -110,7 +110,7 @@ Could probably _just_ get around to doing all of the things, but it would be tig
 > Rally Troops - Leadership 2P 2SB
 > Traps - Mechanics / Skullduggery
 
-#### Other Ideas
+#### Some Other Ideas
 
 Knowledge underworld (maybe figure out how they're likely to come at us?)
 
@@ -134,6 +134,18 @@ Deebo for recon (he provided the aerial pics we have of the hospital)
 - or get him out broadcasting to attract the undead and lead a herd
 ```
 
+Deebo can fly!!
+
+> Do some cross wires to get across buildings
+> use deebo to see what's happening
+> drive a crane and drop stuff on people
+> make tear gas.. and lob it with a trebuchet
+> build a trebuchet
+> send deebo out to make noise to attract zombies...
+> put trip wires across roads
+> remote activated grenades?
+> send ed out to gather zombies..
+
 Have a think about what else could be around, don't get sucked into sticking to what's on the map.
 
 #### Rough Coverage of Skills Available:
@@ -153,3 +165,5 @@ Dr Jackie: Survival = 1Y2G: Medicine 4Y: Leadership = 1Y2G: Mechanics 4G: Skuldu
 Routh: Leadership = 3Y: Mechanics 3G: Skulduggery = 3Y1G
 
 10XP each, Ed gets a rank in [Toughened](https://star-wars-rpg-ffg.fandom.com/wiki/Toughened_talent).
+
+![[attachment/Forged in Battle - Fortifications.pdf]]
