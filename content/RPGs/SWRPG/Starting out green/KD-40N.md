@@ -10,9 +10,9 @@ modified: 2026-07-21T23:46:02
 
 [[RPGs/SWRPG/Starting out green/KD-40N|Character Sheet]] (Valid as of 2025-06-02)
 
-- pick/get decision on toolkit vs toolhand ✅ 2026-03-11
-- Write background ✅ 2026-03-11
-  - Add background to actual character sheet in Oggdude's ✅ 2026-03-11
+- [x] pick/get decision on toolkit vs toolhand ✅ 2026-03-11
+- [x] Write background ✅ 2026-03-11
+  - [x] Add background to actual character sheet in Oggdude's ✅ 2026-03-11
 
 ## Sketch
 

@@ -37,23 +37,23 @@ tags:
 
 ## Vault Maintenance Checklist
 
-- Delete unused attachments ✅ 2025-01-07
+- [x] Delete unused attachments ✅ 2025-01-07
 - [[TaskNotes/Delete or refactor notes that are not linked or tagged or in a folder (orphan notes)]]
-- Delete unused tags ✅ 2025-01-07
-- Delete empty folders ✅ 2025-01-07
-- Process items in inbox notes/folders/tags ✅ 2025-01-07
-- Make templates for frequently-used snippets or note types ✅ 2025-05-04
-- Remove unused plugins ✅ 2025-01-07
-- Remove unused themes ✅ 2025-01-07
-- Remove unused snippets ✅ 2025-01-07
+- [x] Delete unused tags ✅ 2025-01-07
+- [x] Delete empty folders ✅ 2025-01-07
+- [x] Process items in inbox notes/folders/tags ✅ 2025-01-07
+- [x] Make templates for frequently-used snippets or note types ✅ 2025-05-04
+- [x] Remove unused plugins ✅ 2025-01-07
+- [x] Remove unused themes ✅ 2025-01-07
+- [x] Remove unused snippets ✅ 2025-01-07
 - [[TaskNotes/Add properties missing from notes -iPad]]
 - [[TaskNotes/Convert tags to properties where appropriate]]
 - [[TaskNotes/Fix up broken links]]
-- Browse through the plugin gallery for new ideas ✅ 2025-05-02
+- [x] Browse through the plugin gallery for new ideas ✅ 2025-05-02
 
 ## Vault Rediscovery Ideas
 
 - [[TaskNotes/Open both Backlinks and Outgoing Links to see if there are any unlinked mentions that make sense]]
-- Sort the files in Files Explorer by "Modified time (old to new)", take a look at the top files and see how they can be made better. ✅ 2025-05-04
+- [x] Sort the files in Files Explorer by "Modified time (old to new)", take a look at the top files and see how they can be made better. ✅ 2025-05-04
 
 [^1]: Remember that "joy" is a valid measure!

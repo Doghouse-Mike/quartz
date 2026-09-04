@@ -47,7 +47,7 @@ An escape circuit is a cybernetic implant that can only be installed in droids. 
 
 2070 cr left at this point. Could blow it on attachments/mods, or sacrifice it to the merging of the utility arm/repulsor fist.
 
-- Add more stun to my Exo gloves? <https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Pulse> Stun+2, 250cr a pop ✅ 2025-08-15
+- [x] Add more stun to my Exo gloves? <https://star-wars-rpg-ffg.fandom.com/wiki/Stun_Pulse> Stun+2, 250cr a pop ✅ 2025-08-15
 
 1820
 

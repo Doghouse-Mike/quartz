@@ -246,7 +246,7 @@ There may be a cleaner way of doing it, but this works, good enough for me.
 
 In theory it should be possible to set a Mac to run a shortcut/script/etc based on the Focus Mode one is in, but I've not been able to get that to work consistently. This is a bit better, and simpler than using [rVNC](https://apps.apple.com/gb/app/realvnc-viewer-remote-desktop/id352019548) (other apps are available) to remote into the Mac to run a terminal command.
 
-- look into tailscale or something to get this working remotely ✅ 2025-05-04
+- [x] look into tailscale or something to get this working remotely ✅ 2025-05-04
 
 #### Mac Shortcut:
 

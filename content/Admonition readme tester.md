@@ -691,10 +691,10 @@ See [[Admonition readme tester#publish|Publish]] for more information.
 
 No additional features are planned at this time. If there is a feature missing that you would like to see, please open an issue.
 
-- Add the ability to collapse the admonition
-- Custom admonitions
-- Settings tab to customize icon and color of all admonitions
-- Ability to render markdown inside an admonition
+- [x] Add the ability to collapse the admonition
+- [x] Custom admonitions
+- [x] Settings tab to customize icon and color of all admonitions
+- [x] Ability to render markdown inside an admonition
 
 # Installation
 

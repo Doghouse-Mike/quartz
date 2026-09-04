@@ -12,6 +12,8 @@ tags:
   - programming
 ---
 
+https://github.com/Doghouse-Mike/kheetsheet-hypr
+
 # The Reasoning Behind [Kheetsheet](https://github.com/Doghouse-Mike/kheetsheet)
 
 I shouldn't be allowed to name things.
@@ -36,7 +38,7 @@ Install the thing, copy a bit of text, assign a hotkey, et voila, you'll start a
 
 ## And Hyprland
 
-- I fell in another hole messing around with Omarchy, and although it's pretty keyboard-focused and there are shotcuts out the whazoo (technical term), nothing seemed to offer the same "what can this window I'm in now do?" question. [Et voila](https://github.com/Doghouse-Mike/kheetsheet-hypr/tree/main).
+- [ ] I fell in another hole messing around with Omarchy, and although it's pretty keyboard-focused and there are shotcuts out the whazoo (technical term), nothing seemed to offer the same "what can this window I'm in now do?" question. [Et voila](https://github.com/Doghouse-Mike/kheetsheet-hypr/tree/main).
 
 ## Caveats
 
