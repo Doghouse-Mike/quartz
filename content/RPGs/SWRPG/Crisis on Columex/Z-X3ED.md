@@ -3,7 +3,7 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Z-X3ED.md
 title: Z-X3ED
 created: 2026-06-26T00:46:13
-modified: 2026-08-18T00:16:17
+modified: 2026-09-04T18:47:42
 ---
 
 # Z-X3ED
@@ -362,12 +362,10 @@ So I considered Dedication (25 XP) and three possible characteristics:
 ### [Pirate](https://star-wars-rpg-ffg.fandom.com/wiki/Pirate)
 
 - Intimidation/Presence side complements Scoundrel’s Cunning/deception side.
-- Pirate is Universal, so only costs 20XP
-- The only actually new career skill is Coercion, vs the more techy ones the other specs would provide.
+- Pirate is Universal, so only costs 20XP (vs 30 for out of career)
+- The only actually new career skill is Coercion, vs the more techy ones the other specs would provide, which is a bit annoying.
 
-The key strategic realisation
-
-Rather than spending 25 XP on Dedication immediately, become a pirate, see what the campaign ends up telling me Ed needs characteristic-wise.
+Rather than spending 25 XP on Dedication immediately, become a pirate, see what the campaign ends up telling me Ed needs characteristic-wise. By then I might have two different ranks of Dedication withing spitting distance.
 
 If Ed starts struggling in combat:
 
@@ -376,6 +374,8 @@ Dedication → Agility 4
 If "Face" continues to be important/fun
 
 Dedication → Presence 3
+
+(Or WIllpower, turns out Coercion keys of that. I'm gonna end up all 3's)
 
 Then the Pirate tree has another rank in Dedication eventually, to bolster up whatever needs it at that point.
 
