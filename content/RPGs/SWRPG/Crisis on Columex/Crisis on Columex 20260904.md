@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260904.md
 created: 2026-09-04T13:54:19
-modified: 2026-09-04T23:20:38
+modified: 2026-09-04T23:24:23
 tags:
   - StarWars
   - rpg
@@ -82,7 +82,7 @@ Working backwards, Snowy has skipped right over our encounter with Neero on the 
 
 Explain the encounter with him and his goons, and their plan to use us to infiltrate the hospital, disable their defences, and attack.
 
-Jackie is _pissed_ that the attack is coming tonight. Neero's been a patsy for the empire all along, and trying to limit the effectiveness of the hospital.
+Jackie is _pissed_ that the attack is coming tonight. Neero's been a patsy for the empire all along, and trying to limit the effectiveness of the hospital. Refers to him as a "Son of a Hutt", which puzzles Ed, as he'd classified Neero as a Rodian. Decides to run a thorough diagnostic at the next opportunity, or chalk it up to "you all look the same to me".
 
 There's a bit of a panic going on. The hospital has limited defenses, and (healthy) people to man them there's no way to move this many people in time, especially as night approaches.
 
