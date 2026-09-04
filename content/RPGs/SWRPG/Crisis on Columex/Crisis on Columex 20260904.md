@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260904.md
 created: 2026-09-04T13:54:19
-modified: 2026-09-04T23:28:20
+modified: 2026-09-04T23:33:20
 tags:
   - StarWars
   - rpg
@@ -130,9 +130,7 @@ Or make some noise, bring on the shamblers
 
 Deebo for recon (he provided the aerial pics we have of the hospital)
 
-```
 - or get him out broadcasting to attract the undead and lead a herd
-```
 
 Deebo can fly!!
 
