@@ -18,7 +18,7 @@ Nuked the lab, their backups (apart from a couple we're carrying), and any means
 
 There were some fights with turrets, and a sneaky deathtrooper.
 
-We haven't taken any samples of the virus, but do have the vaccine, and the method to produce more, if not the means (hello hospital peeps)
+We haven't taken any samples of the virus, but do have the vaccine, and the method to produce more, if not the means (hello hospital peeps).
 
 Mouth got blown up pretty good. He's walking wounded, but _walking_. Turns out he's a clone trooper too. The surviving staff from the lab (Dr Guy and whatsherface), and the big droid are coming with.
 
