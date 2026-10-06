@@ -1,6 +1,6 @@
 {
   "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "description": "\ud83c\udf31 publish your digital garden and notes as a website",
   "private": true,
   "version": "5.0.0",
   "type": "module",
@@ -73,7 +73,7 @@
   },
   "devDependencies": {
     "@quartz-community/types": "github:quartz-community/types",
-    "@quartz-community/utils": "github:quartz-community/utils",
+    "@quartz-community/utils": "^1.0.1",
     "@types/hast": "^3.0.5",
     "@types/node": "^26.6.3",
     "@types/pretty-time": "^1.1.5",
