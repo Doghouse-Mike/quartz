@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Starting out green/Rimer's Downtime. Part 1.md
 title: Rimer's Downtime. Part 1
-created: 2026-02-06T21:46:38
+created: 2026-01-23T00:00:00
 modified: 2026-07-21T23:45:14
 ---
 

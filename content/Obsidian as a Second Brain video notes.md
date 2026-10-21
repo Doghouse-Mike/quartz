@@ -2,7 +2,7 @@
 publish: true
 permalink: /Obsidian as a Second Brain video notes.md
 title: Obsidian as a Second Brain Video Notes
-created: 2026-02-10T21:13:42
+created: 2025-05-04T00:00:00
 modified: 2026-07-21T23:29:54
 tags:
   - Obsidian

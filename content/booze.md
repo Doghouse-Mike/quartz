@@ -2,7 +2,7 @@
 publish: true
 permalink: /booze.md
 title: Booze
-created: 2025-07-03T23:22:25
+created: 2015-03-15T00:30:47
 modified: 2026-07-21T23:37:44
 tags:
   - booze

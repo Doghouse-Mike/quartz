@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20231026.md
 title: SWRPG Session 5
-created: 2026-06-26T00:48:44
+created: 2023-10-26T00:00:00
 modified: 2026-07-21T23:43:09
 ---
 
@@ -10,11 +10,11 @@ modified: 2026-07-21T23:43:09
 
 In temp prison
 
-Mostly healed up
+We were mostly healed up
 
-Noopa is rodian in there with us has a plan to escape. His buddy "Mouth" is a human in there too
+Noopa was a Rodian in there with us, and had a plan to escape. His buddy "Mouth" was a human in there too
 
-We got a plan in place to escape. Impy bigwig is inbound, use them as a distraction/hostage on way out.
+We got a plan in place to escape. Impy bigwig was inbound, we'd use them as a distraction/hostage on the way out.
 
 Get gear, plant bomb near fuel place, get control centre, ???, profit
 

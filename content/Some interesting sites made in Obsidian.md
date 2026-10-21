@@ -2,7 +2,7 @@
 publish: true
 permalink: /Some interesting sites made in Obsidian.md
 title: Some Interesting Sites Made in Obsidian
-created: 2026-02-10T21:13:55
+created: 2022-04-22T00:00:00
 modified: 2026-07-21T23:22:48
 tags:
   - Obsidian

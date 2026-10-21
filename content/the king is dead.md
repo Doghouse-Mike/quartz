@@ -2,7 +2,7 @@
 publish: true
 permalink: /the king is dead.md
 title: The King is Dead
-created: 2026-06-27T00:36:20
+created: 2013-06-09T21:42:43
 modified: 2026-07-21T23:20:34
 tags:
   - music
@@ -11,7 +11,7 @@ tags:
 
 # The King is Dead
 
-It's strange how spending _years_ listening to someone's songs seems like you're getting to know them. Without ever having talked to Torr, I can still kinda tell that he was one of the good guys. I guess he talked to me, without ever knowing it. Sadly, it'd [appear he never will](http://www.verbicidemagazine.com/2013/06/09/torr-skoog-kings-of-nuthin-dead/). Torr Skoog has left the building.
+It's strange how spending _years_ listening to someone's songs seems like you're getting to know them. Without ever having talked to Torr, I can stilpubl kinda tell that he was one of the good guys. I guess he talked to me, without ever knowing it. Sadly, it'd [appear he never will](http://www.verbicidemagazine.com/2013/06/09/torr-skoog-kings-of-nuthin-dead/). Torr Skoog has left the building.
 
 <img src="https://images.squarespace-cdn.com/content/v1/503174c6e4b00d577d162012/1379709900628-BDBJM5FYI7KYI3LFDMES/16464834-23001740-thumbnail.jpg" alt="16464834-23001740-thumbnail.jpg" />
 

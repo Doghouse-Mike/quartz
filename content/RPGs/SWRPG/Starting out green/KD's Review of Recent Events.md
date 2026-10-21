@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Starting out green/KD's Review of Recent Events.md
 title: KD's Review of Recent Events
-created: 2026-04-11T10:18:06
+created: 2026-01-23T00:00:00
 modified: 2026-07-21T23:45:39
 ---
 

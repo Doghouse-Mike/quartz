@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Starting out green/Starting out Green 20251017.md
 title: Starting out Green 20251017
-created: 2026-02-06T21:46:41
+created: 2025-10-17T00:00:00
 modified: 2026-07-21T23:44:22
 ---
 

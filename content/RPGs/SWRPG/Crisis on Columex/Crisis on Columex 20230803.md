@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20230803.md
 title: SWRPG Session 3
-created: 2026-06-26T00:46:41
+created: 2023-08-03T00:00:00
 modified: 2026-07-21T23:43:17
 ---
 
@@ -20,7 +20,7 @@ Met Moxley the Quermian
 
 Gambled all his money off him and he legged it.
 
-Got interdicted and pulled out of hyperspace. Imps en route to board us. 3 transports, 30 troopers each.
+Got interdicted and pulled out of hyperspace. Imps were en route to board us. 3 transports, 30 troopers each.
 
 We got the control rod for the ships compliment of six astromechs. Liberation frequency
 

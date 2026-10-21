@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260415.md
 title: Crisis on Columex 20260415
-created: 2026-06-25T14:48:03
+created: 2026-04-15T00:00:00
 modified: 2026-07-21T23:42:30
 ---
 
@@ -18,85 +18,85 @@ It was the Lab we'd decided to head to first. Ed had a plan overnight:
 
 Left a bit, right a bit, into a long corridor with an elevator at the end.
 
-Head back towards ops. Sneaky/observant like. Figure we should scout out the level we're on before getting in any lifts.
+Headed back towards ops. Sneaky/observant like. Figured we should scout out the level we were on before getting in any lifts.
 
-Snowy trips over Ed as they're stumbling through the dark. Not a lot to see, but there are some domes for retractable, automated turrets in the ceiling. A couple on the way to the elevator, couple more in the lobby area.
+Snowy tripped over Ed as they were stumbling through the dark. Not a lot to see, but there were some domes for retractable, automated turrets in the ceiling. A couple on the way to the elevator, couple more in the lobby area.
 
 See this excellent map:
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T134752034Z.png)
 
-Ed points em out, isn't sure if they're to keep things _in_, or to keep people out.
+Ed pointed em out, wasn't sure if they were to keep things _in_, or to keep people out.
 
-Door to ops is locked, pop our code cylinder into the lock, it still prompts us for a code.
+Door to ops was locked, popped our code cylinder into the lock, it still prompted us for a code.
 
-Ed has a look, but Nira takes a couple of tries to hack the lock, eventually with great success. The system welcomes us as "Officer Doreen". Now we know the name of that officer we merced on Brantaal.
+Ed had a look, but Nira took a couple of tries to hack the lock, eventually with great success. The system welcomed us as "Officer Doreen". Now we knew the name of that officer we merced on Brantaal.
 
-Immediately get ran at by a guy. He's relieved to see us. Explain [[Ed's plan for how the lab could go down|the Plan]] to him.
+Immediately got ran at by a guy. He was relieved to see us. Explained [[Ed's plan for how the lab could go down|the Plan]] to him.
 
-He wants to stop the virus. All their access has been revoked, he thinks everyone inside is dead, and that the droids have moidered everyone.
+He wanted to stop the virus. All their access had been revoked, he thought everyone inside was dead, and that the droids had moidered everyone.
 
 Aw, your poor little dead colleagues.
 
 Dr Voss was running the show, but didn't want to release it, sparking a minor rebellion amongst the staff. This guy did it anyway after a field promotion.
 
-Says the virus was created by commingling the cells of a few different virus (viri? More than one virus) with the cells of a specific person who is IN the lab. He's very keen to get out of here. A bit TOO keen if ya ask me.
+Said the virus was created by commingling the cells of a few different virus (viri? More than one virus) with the cells of a specific person who was IN the lab. He was very keen to get out of here. A bit TOO keen if ya ask me.
 
-Ed hears the clunk of some footsteps headed our way. There's a [KX droid](https://starwars.fandom.com/wiki/KX-series_security_droid) walking in, raising his blaster at Human man.
+Ed heard the clunk of some footsteps headed our way. There was a [KX droid](https://starwars.fandom.com/wiki/KX-series_security_droid) walking in, raising his blaster at Human man.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T134753291Z.jpeg)
 
-Ed shouts at Mouth to get the doc down, everyone dives into cover.
+Ed shouted at Mouth to get the doc down, everyone dived into cover.
 
-The Droid is asking us its purpose. Or maybe ours.
+The Droid was asking us its purpose. Or maybe ours.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T134754586Z.jpeg)
 
-Ed tells him we're here for "[liberation](https://www.youtube.com/watch?v=wQFX6NP8s3E)" Droid says human must die.
+Ed told him we were here for "[liberation](https://www.youtube.com/watch?v=wQFX6NP8s3E)". The Droid said human must die.
 
-Ed points out that this will happen anyway, given time.
+Ed pointed out that this would happen anyway, given time.
 
-This is acceptable. Droid logic for the win!
+This was acceptable. Droid logic for the win!
 
-Droid's on our side now, On Doreen's authority.
+The Droid was on our side now, on Doreen's authority.
 
-This conversation has all been bleeping and blooping.
+This conversation had all been bleeping and blooping.
 
-The doc is literally called Dr Guy, and he is definitely infected.
+The doc was literally called Dr Guy, and he was definitely infected.
 
-Snowy's going all doctor on him. Offering a pain free death, or the potential for a cure in exchange for his assistance.
+Snowy was going all doctor on him, offering a pain-free death, or the potential for a cure in exchange for his assistance.
 
-He thinks all the equipment remains intact, but there's nothing living on the lower levels. The main trouble was around the main virus storage area, which is now locked down, containing most of the people, but there were already infected in there.
+He thought all the equipment remained intact, but there was nothing living on the lower levels. The main trouble was around the main virus storage area, which was now locked down, containing most of the people, but there were already infected in there.
 
-The best hope for a cure is getting the unique biology of the test subject. (How do we identify them?) They're in a tank, hard to miss. NOT in the quarantined area.
+The best hope for a cure was getting the unique biology of the test subject. (How would we identify them?) They were in a tank, hard to miss. NOT in the quarantined area.
 
-Ok, so Dr Guy is staying up here, so we'll lock him in.
+Ok, so Dr Guy was staying up here, so we'd lock him in.
 
-So it is that we head downstairs after all. Bringing "big guy" (designation [[K3-M1]]) with us. Search the ops room before we head down, Snowy finds some more robust PPE, but it's not Wookiee-sized. Will fit Nira though. Pops it on over what they're wearing. And down we go.
+So it was that we headed downstairs after all, bringing "big guy" (designation [[K3-M1]]) with us. Searched the ops room before we headed down, Snowy found some more robust PPE, but it wasn't Wookiee-sized. Would fit Nira though. Popped it on over what they were wearing. And down we went.
 
-It is a bit tight in the lift, but everyone fits. Convince the Droid that his new purpose is to protect everyone currently in the lift.
+It was a bit tight in the lift, but everyone fit. Convinced the Droid that his new purpose was to protect everyone currently in the lift.
 
-Creeeeeeek go the doors.
+Creeeeeeek went the doors.
 
-Downstairs is a _mess_. Some working terminals, datapads strewn around, the lights are flickering, but visibility is ok. Some overturned desks n stuff, a few bods dotted around.
+Downstairs was a _mess_. Some working terminals, datapads strewn around, the lights were flickering, but visibility was ok. Some overturned desks n stuff, a few bods dotted around.
 
-Outer area is raised (purple), desks n stuff in a bit in the centre. Computers, other equipment. Lab is in the bottom right corner. This is where our tube man is.
+Outer area was raised (purple), desks n stuff in a bit in the centre. Computers, other equipment. The lab was in the bottom right corner. This was where our tube man was.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260625T134755744Z.jpeg)
 
-Bit deformy, bits chopped off, samples taken etc. This is science, not medicine. Many tubes in n out.
+Bit deformy, bits chopped off, samples taken etc. This was science, not medicine. Many tubes in n out.
 
-Ed begins a nose through the computers, leaves the others to the organic parts.
+Ed began a nose through the computers, leaving the others to the organic parts.
 
-One of the out tubes is taking blood. Snowy gets a decent sample or 9. They are good (due to rolling many success (3) and advantage (2), meaning we get boost to actually making the cure when that happens)
+One of the out tubes was taking blood. Snowy got a decent sample or 9. They were good (due to rolling many success (3) and advantage (2), meaning we'd get a boost to actually making the cure when that happens)
 
 ## Meanwhile:
 
-Ed finds some passwords written down on the bottom of a keyboard. We go through the computers for anything on how this virus was made (as they could provide clues to a cure) and anything on a cure already existing.
+Ed found some passwords written down on the bottom of a keyboard. We went through the computers for anything on how this virus was made (as they could provide clues to a cure) and anything on a cure already existing.
 
 The journals of Dr Elara Voss.
 
-> Snowy knows the name, was forcing her to take samples from something/one with an extraordinary healing factor. Something something she's the reasons Snowy was exiled from Kashyyk.
+> Snowy knew the name, had been forcing her to take samples from something/one with an extraordinary healing factor. Something something she was the reason Snowy was exiled from Kashyyk.
 
 [Project Blackwing](https://starwars.fandom.com/wiki/Project_Blackwing) was combined with the samples Snowy found. Intended for a [battlefield healing product](https://starwars.fandom.com/wiki/Imperial_bioweapons_Project_I71A).
 
@@ -104,27 +104,27 @@ First contact got flu-like symptoms. Eventually led to mutation, death, general 
 
 The body in the tube was grown from Voss' samples, before she quit.
 
-Dr Guy takes over the project, continuing production, staff start to get sick, die, then come back. 55 samples were produced, there are 50 remaining here.
+Dr Guy took over the project, continuing production, staff started to get sick, die, then come back. 55 samples were produced, there were 50 remaining here.
 
-The samples are the "pure" version, in vials. _This_ is what Jax was after.
+The samples were the "pure" version, in vials. _This_ was what Jax was after.
 
-Hear some crunchy sounds coming from back near the lift, our droid friend has picked up a Twi-Lek, Oh no, it's Dr Voss!
+Heard some crunchy sounds coming from back near the lift, our droid friend had picked up a Twi-Lek. Oh no, it was Dr Voss!
 
-Convince the droid to stop choking here, and to put her down, but keep hold of her for now.
+Convinced the droid to stop choking her, and to put her down, but keep hold of her for now.
 
-Snowy's trying to get info out of her. She got out, but couldn't forget about what she'd enabled. Snuck in, and has been hiding in the lift shaft, planning to destroy the lab/wipe all records.
+Snowy was trying to get info out of her. She got out, but couldn't forget about what she'd enabled. Snuck in, and had been hiding in the lift shaft, planning to destroy the lab/wipe all records.
 
-Maybe together Voss and Snowy can find a cure?_This_ lab is the best place to work on one.
+Maybe together Voss and Snowy could find a cure? _This_ lab was the best place to work on one.
 
-Snowy is disappointed with Voss. She wants to make it up if she manages to get out of this alive.
+Snowy was disappointed with Voss. She wanted to make it up if she managed to get out of this alive.
 
-Lab equipment is mostly intact, so can be used.
+Lab equipment was mostly intact, so could be used.
 
-Snowy and Voss work on it for hours, Ed bumps the table, a viable cure is produced, it works in the lab, but does it work in real life?
+Snowy and Voss worked on it for hours, Ed bumped the table, a viable cure was produced, it worked in the lab, but did it work in real life?
 
-Time for some clinical trials! Voss goes straight for it (kinda). And does not turn dead immediately.
+Time for some clinical trials! Voss went straight for it (kinda). And did not turn dead immediately.
 
-Continue to monitor. Blood samples, etc are taken. It works!
+Continued to monitor. Blood samples, etc were taken. It worked!
 
 "Hey big guy, contaminant, question?"
 
@@ -132,6 +132,6 @@ Continue to monitor. Blood samples, etc are taken. It works!
 
 Set a production run going.
 
-Then the lights go out, smoke grenades roll in, ropes rattle down the lift shaft, people (hopefully people?) are coming!
+Then the lights went out, smoke grenades rolled in, ropes rattled down the lift shaft, people (hopefully people?) were coming!
 
-FADE TO BLACK and get 15XP each.
+FADE TO BLACK and got 15XP each.

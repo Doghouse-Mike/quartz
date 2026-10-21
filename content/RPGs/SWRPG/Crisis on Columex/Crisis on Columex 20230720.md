@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20230720.md
 title: SWRPG Session 2
-created: 2026-06-26T00:46:39
+created: 2023-07-20T00:00:00
 modified: 2026-07-21T23:43:21
 ---
 
@@ -16,4 +16,4 @@ Nera got a lightsaber
 
 Ed got ten blaster rifles (to sell) and an ISB code cylinder
 
-Pink Droid owe us for saving them. We got their contact deets and a copy of their latest album.
+Pink Droid owed us for saving them. We got their contact deets and a copy of their latest album.

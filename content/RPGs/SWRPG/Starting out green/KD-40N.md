@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Starting out green/KD-40N.md
 title: KD-40N
-created: 2026-06-26T00:54:02
+created: 2025-06-02T00:00:00
 modified: 2026-07-21T23:46:02
 ---
 

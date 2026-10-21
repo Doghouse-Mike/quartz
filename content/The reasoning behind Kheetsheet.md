@@ -38,7 +38,7 @@ Install the thing, copy a bit of text, assign a hotkey, et voila, you'll start a
 
 ## And Hyprland
 
-- [ ] I fell in another hole messing around with Omarchy, and although it's pretty keyboard-focused and there are shotcuts out the whazoo (technical term), nothing seemed to offer the same "what can this window I'm in now do?" question. [Et voila](https://github.com/Doghouse-Mike/kheetsheet-hypr/tree/main).
+- [x] I fell in another hole messing around with Omarchy, and although it's pretty keyboard-focused and there are shotcuts out the whazoo (technical term), nothing seemed to offer the same "what can this window I'm in now do?" question. [Et voila](https://github.com/Doghouse-Mike/kheetsheet-hypr/tree/main). ✅ 2026-09-06
 
 ## Caveats
 

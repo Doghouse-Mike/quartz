@@ -2,8 +2,8 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Z-X3ED.md
 title: Z-X3ED
-created: 2026-06-26T00:46:13
-modified: 2026-09-04T18:50:41
+created: 2023-07-13T00:00:00
+modified: 2026-09-04T18:50:57
 ---
 
 # Z-X3ED
@@ -389,7 +389,7 @@ Then the Pirate tree has another rank in Dedication eventually, to bolster up wh
 
 Current setup as of August '26 (ignore the ridiculous pile of guns he's somehow carrying):
 
-![[attachment/Ed (Z-X3ED) MK3 RPG Sessions 1.pdf]]
+![[Attachments/attachment 1/Ed (Z-X3ED) MK3 RPG Sessions 1.pdf]]
 
 ### Related Notes
 

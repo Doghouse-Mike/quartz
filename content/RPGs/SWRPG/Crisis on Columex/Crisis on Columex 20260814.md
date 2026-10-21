@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260814.md
 created: 2026-08-14T18:45:14
-modified: 2026-09-04T23:30:40
+modified: 2026-10-21T11:56:52
 tags:
   - rpg
   - StarWars
@@ -10,89 +10,89 @@ tags:
 
 # Crisis on Columex 20260814
 
-We pillage the dead for their leavings as our ears stop ringing and the smoke clears. They don't need it any more.
+We pillaged the dead for their leavings as our ears stopped ringing and the smoke cleared. They didn't need it any more.
 
 Many guns, a cobbled together set of armour from the pieces without holes in.
 
-Ilara wants to get rid of everything, destroy all the research.
+Illara wanted to get rid of everything, destroy all the research.
 
-This is what we need to decide, do we keep samples of the virus, for Jax/profit or destroy everything? Ed's not particularly fussed either way, or at least not in the "preservation of life" part, but it is decided that we'll get rid of what we can for the benefit of society. Meatbags _are_ useful.
+This was what we needed to decide: did we keep samples of the virus, for Jax/profit, or destroy everything? Ed wasn't particularly fussed either way, or at least not in the "preservation of life" part, but it was decided that we'd get rid of what we could for the benefit of society. Meatbags _are_ useful.
 
-All the bodies, computers, and evidence get dumped in the little corner room the zombies came out of. Snowy euthanizes the "source", and we nuke the whole room with a thermal detonator.
+All the bodies, computers, and evidence got dumped in the little corner room the zombies came out of. Snowy euthanized the "source", and we nuked the whole room with a thermal detonator.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/RPGs/SWRPG/Crisis%20on%20Columex/Crisis%20on%20Columex%2020260814/Crisis-on-Columex-20260814-Crisis-on-Columex-20260814-2.gif)
 
-Decide to check the office upstairs again for anything useful, and to make sure they don't have any backups of the data. Using the trooper's encrypted comms, we don't pick up any actual chatter, but there are a couple of clicks, which doesn't bode well. Code?
+Decided to check the office upstairs again for anything useful, and to make sure they didn't have any backups of the data. Using the trooper's encrypted comms, we didn't pick up any actual chatter, but there were a couple of clicks, which didn't bode well. Code?
 
-Queue cinematic stroll towards the lift with the explosion in the background. We've got samples of the antidote, but we aren't taking any virus with us. Up the elevator next?
+Queue cinematic stroll towards the lift with the explosion in the background. We had samples of the antidote, but we weren't taking any virus with us. Up the elevator next?
 
-Stumble out of the lift as it chimes our arrival, and discover that the turrets have deployed. Ruh and roh. Emergency lighting has been switched on, the main lights are all down. Dark.
+Stumbled out of the lift as it chimed our arrival, and discovered that the turrets had deployed. Ruh and roh. Emergency lighting had been switched on, the main lights were all down. Dark.
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/RPGs/SWRPG/Crisis%20on%20Columex/Crisis%20on%20Columex%2020260814/Crisis-on-Columex-20260814-Crisis-on-Columex-20260814-1.png)
 
-The turret lights are on, blinking, and the turn to target us.
+The turret lights were on, blinking, and they turned to target us.
 
 ENTER INITIATIVE
 
-Snowy opens up with a blaster rifle, and takes out the nearest turret.
+Snowy opened up with a blaster rifle, and took out the nearest turret.
 
-Ed blind fires around the corner of the lift door but hits nothing but wall.
+Ed blind fired around the corner of the lift door but hit nothing but wall.
 
-Kemmie says "blaster ineffective". Observant as always.
+Kemmie said "blaster ineffective". Observant as always.
 
-The remaining turret's threat matrix decides Ed is the biggest threat, misses the shot, but the sparks/debris are annoying.
+The remaining turret's threat matrix decided Ed was the biggest threat, missed the shot, but the sparks/debris were annoying.
 
-Nira leans out, actually looks at what she's shooting at and kills the second turret with the newly requisitioned blaster pistol.
+Nira leaned out, actually looked at what she was shooting at and killed the second turret with the newly requisitioned blaster pistol.
 
-We move up the corridor, and Mouth takes out the third turret once it's in range.
+We moved up the corridor, and Mouth took out the third turret once it was in range.
 
-Big guy blasts the last one we can see, but leaves it twitching. In returning fire, it overloads itself and blows itself up.
+Big guy blasted the last one we could see, but left it twitching. In returning fire, it overloaded and blew itself up.
 
-"At least I didn't get shot!" Ed calls. Droid rivalry?
+"At least I didn't get shot!" Ed called. Droid rivalry?
 
-Peeking around the corner, the team clocks that the other two turrets are out, but there's another death trooper skulking in the corner too!
+Peeking around the corner, the team clocked that the other two turrets had deployed, but there was another death trooper skulking in the corner too!
 
-He steps out and points at Snowy, perceiving them as the biggest threat. He peppers the corridor with fire, there's smoke and debris clogging the air, further reducing visibility.
+He stepped out and pointed his blaster at Snowy, perceiving them as the biggest threat. He peppered the corridor with fire, there was smoke and debris clogging the air, further reducing visibility.
 
-Snowy is not standing for that, and takes careful aim at the trooper. Pops him square in the chest, yelling "Don't shoot at a Wookiee" as the trooper retreats around the corner.
+Snowy was not standing for that, and took careful aim at the trooper. Popped him square in the chest, yelling "Don't shoot at a Wookiee" as the trooper retreated around the corner.
 
-Ed charges the corridor, firing wildly, he scores a direct hit on one of the turrets, diving into cover at the entrance doorway.
+Ed charged the corridor, firing wildly, he scored a direct hit on one of the turrets, diving into cover at the entrance doorway.
 
-The remaining turret whiffs its firing arc, inadvertently flushing the deathtrooper out of cover.
+The remaining turret whiffed its firing arc, inadvertently flushing the deathtrooper out of cover.
 
-Nira take the advantage, quickly pockets the blaster pistol and brings out the big gun. Pops him right in the chest again, that armour's not looking so healthy now. Neither is the trooper inside of it!
+Nira took the advantage, quickly pocketed the blaster pistol and brought out the big gun. Popped him right in the chest again, that armour wasn't looking so healthy now. Neither was the trooper inside of it!
 
-Mouth follows Nira's lead, pulling out his rifle, and drawing down on the trooper. He shoots the rifle out of the enemies' hand, but doesn't do them any actual damage.
+Mouth followed Nira's lead, pulling out his rifle, and drawing down on the trooper. He shot the rifle out of the enemy's hand, but didn't do them any actual damage.
 
-Kemmie steps up to the plate, making some grinding noises as he does so. Ed beckons him into cover. Kemmie goes for the double whammy, targeting both enemies with a spray of autofire. Eyes were bigger than his belly though, and he hits nothing.
+Kemmie stepped up to the plate, making some grinding noises as he did so. Ed beckoned him into cover. Kemmie went for the double whammy, targeting both enemies with a spray of autofire. Eyes were bigger than his belly though, and he hit nothing useful.
 
-Deathtrooper abandons his rifle, pulling a grenade from his pouch and launching it at Ed and Kemmie. That utter bastard. Grenade nukes poor Kemmie, leaving him with a [head ringer](https://www.unholycow.com/swrpg/crits.html#:~:text=Head%20Ringer:%20Target,of%20the%20encounter.). Ed gets caught in the blast, left singed, and beating out the flames on his coat.
+Deathtrooper abandoned his rifle, pulling a grenade from his pouch and launching it at Ed and Kemmie. That utter bastard. Grenade nuked poor Kemmie, leaving him with a [head ringer](https://www.unholycow.com/swrpg/crits.html#:~:text=Head%20Ringer:%20Target,of%20the%20encounter.). Ed got caught in the blast, left singed, and beating out the flames on his coat.
 
-Snowy is again not standing for that, and shoots at the trooper again. Doesn't hit, but forces him out of cover again, standing like a doofus waiting to get shot.
+Snowy was again not standing for that, and shot at the trooper again. Didn't hit, but forced him out of cover again, standing like a doofus waiting to get shot.
 
-Ed catches him with a blast to the armpit, sweet revenge for the grenade. The trooper is stumbling, but still on his feet.
+Ed caught him with a blast to the armpit, sweet revenge for the grenade. The trooper was stumbling, but still on his feet.
 
-The turret whirrs back into position, pointed at Ed. Getting a bit creaky now though and managed, once again, to get its fire to land closer to the trooper than to anyone we care about.
+The turret whirred back into position, pointed at Ed. Getting a bit creaky now though, and managed, once again, to get its fire to land closer to the trooper than to anyone we cared about.
 
-Nira takes a close look at her rifle again, and points it carefully at the trooper. Her shot takes him full in the chest, knocking him back against the wall in a cloud of sparks, where he slumps slowly down, leaking some disgusting fluids.
+Nira took a close look at her rifle again, and pointed it carefully at the trooper. Her shot took him full in the chest, knocking him back against the wall in a cloud of sparks, where he slumped slowly down, leaking some disgusting fluids.
 
-Mouth moves up to the doorway to get a clearer bead on the remaining turret. Pops a nice clean hole through it with his rifle, leaving some smoking wreckage hanging from the ceiling.
+Mouth moved up to the doorway to get a clearer bead on the remaining turret. Popped a nice clean hole through it with his rifle, leaving some smoking wreckage hanging from the ceiling.
 
-We loot the trooper, adding further to our arsenal. Snowy also finds the datapad for activating the turrets, and uses it to turn off the remaining turrets that are around the corner.
+We looted the trooper, adding further to our arsenal. Snowy also found the datapad for activating the turrets, and used it to turn off the remaining turrets that were around the corner.
 
-Ed breaks out the emergency repair patches, one for him, one for Kemmie. Suggests he tries not to get shot.
+Ed broke out the emergency repair patches, one for him, one for Kemmie. Suggested he try not to get shot.
 
-Snowy uses the breather to take a look at Kemmie to see if she can patch him up a bit to keep him ticking. Wounds-wise he's back to base, and his head has stopped ringing now.
+Snowy used the breather to take a look at Kemmie to see if she could patch him up a bit to keep him ticking. Wounds-wise he was back to base, and his head had stopped ringing now.
 
-"Doors and corners" Ed mutters as they head towards the office to give that the once-over.
+"Doors and corners" Ed muttered as they headed towards the office to give that the once-over.
 
-There's no sign of anyone at first, but Dr Guy fails his stealth check and knocks a box over. Comes out concerned that we're ok and that the "guys in black" were all "dealt with".
+There was no sign of anyone at first, but Dr Guy failed his stealth check and knocked a box over. Came out concerned that we were ok and that the "guys in black" were all "dealt with".
 
-It's decided that we'll take him as far as the hospital at least. Kemmie's been instructed to keep a close eye on him.
+It was decided that we'd take him as far as the hospital at least. Kemmie had been instructed to keep a close eye on him.
 
-The room's got a safe and the computers in it.
+The room had a safe and the computers in it.
 
-Ed cracks the safe, breaking it real good in the process, but it's open, and that's what counts. It contains the daily backup cartridge from the last "good day" in the lab
+Ed cracked the safe, breaking it real good in the process, but it was open, and that was what counted. It contained the daily backup cartridge from the last "good day" in the lab
 
 > we're melting that, right?
 
@@ -106,21 +106,21 @@ and a special treat in the form of a Scarab brooch.
 > a mystery, but it hums faintly with the Force whenever
 > a Force-sensitive being touches it.
 
-"Shiny" Ed thinks, kleps it, and surreptitiously pins it on to his jacket.
+"Shiny" Ed thought, klepped it, and surreptitiously pinned it on to his jacket.
 
-The girls try and get some useful info out of the computers, pulling a data dump onto one of our pads.
+The girls tried and got some useful info out of the computers, pulling a data dump onto one of our pads.
 
-We then slag everything in the room, taking the extra backup with us.
+We then slagged everything in the room, taking the extra backup with us.
 
-Heading out of the base, the doctors make a run for the door, Mouth shouts at them desperately to wait, but it's too late. The dastardly death troopers had rigged the exit to blow. Mouth dives in like a foolish hero, shielding the civilians with his body and taking the hit, the blast knocks the rest of the group from their feet.
+Heading out of the base, the doctors made a run for the door, Mouth shouted at them desperately to wait, but it was too late. The dastardly death troopers had rigged the exit to blow. Mouth dived in like a foolish hero, shielding the civilians with his body and taking the hit, the blast knocked the rest of the group off their feet, but left them otherwise unharmed.
 
-Mouth is _down_, his armour is smoking and cracked. Snowy runs to his side and starts administering first aid.
+Mouth was _down_, his armour was smoking and cracked. Snowy ran to his side and started administering first aid.
 
-Ed secures the door, checking for any more surprises, all the while thinking "I get his guns if he doesn't get up"
+Ed secured the door, checking for any more surprises, all the while thinking "I get his guns if he doesn't get up."
 
-Snowy determines that he's a bit crispy (critically injured) and will need long-term treatment ASAP. Some stims and bandages will keep him ticking for now though.
+Snowy determined that he was a bit crispy (critically injured) and would need long-term treatment ASAP. Some stims and bandages would keep him ticking for now though.
 
-Snowy removes his helmet, and Illara recognises him as a clone trooper from back in the day. They don't actually recognise _him_, just what he is. "How long have you been running around with a clone trooper?" she asks, and **fade to black**.
+Snowy removed his helmet, and Illara recognised him as a clone trooper from back in the day. They didn't actually recognise _him_, just what he was. "How long have you been running around with a clone trooper?" she asked, and **fade to black**.
 
 15XP each
 

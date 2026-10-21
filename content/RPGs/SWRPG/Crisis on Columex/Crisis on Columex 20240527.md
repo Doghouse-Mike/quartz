@@ -2,7 +2,7 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20240527.md
 title: SWRPG Session 11
-created: 2026-06-26T00:48:30
+created: 2024-05-27T00:00:00
 modified: 2026-07-21T23:42:42
 ---
 
@@ -10,37 +10,37 @@ modified: 2026-07-21T23:42:42
 
 2024-06-13
 
-On Columex. Landed in sector 1. Sector 4 is off limits for some reason.
+On Columex. Landed in sector 1. Sector 4 was off limits for some reason.
 
 Major trade route, cleared customs etc no biggie on way in, may get scanned on way out once we've presumably got stuff.
 
-Mouth is coming with on this one but playing incognito
+Mouth was coming with on this one but playing incognito
 
-Deebo's got a map of where he thinks we need to go.
+Deebo had a map of where he thought we needed to go.
 
-Spaceport has news about cordon around sector 4. Surprising no one, Deebo's red dot is in sector 4
+The spaceport had news about a cordon around sector 4. Surprising no one, Deebo's red dot was in sector 4
 
-News screens on in the spaceport, cordon around sector 4, supplies going in, but still restricted. News didn't say _why_ it was cordoned off though
+News screens were on in the spaceport, a cordon around sector 4, supplies going in, but still restricted. The news didn't say _why_ it was cordoned off though
 
-meatbags ruined me charming the barman. Did spot another Miralan though, getting a bit of traffic/selling/buying in the bar. An individual in demand. Is being eyeballed by some stormies though.
+meatbags ruined me charming the barman. Did spot another Miralan though, getting a bit of traffic/selling/buying in the bar. An individual in demand. He was being eyeballed by some stormies though.
 
-They start to lead him away (not in cuffs. Nira legs it, Ed shouts "stop, thief" to try and get their attention/distract em
+They started to lead him away (not in cuffs). Nira legged it, Ed shouted "stop, thief" to try and get their attention/distract them
 
 Holy shit that worked.
 
-So matey boi comes with us as we head to the back door, which conveniently has cover.
+So matey boi came with us as we headed to the back door, which conveniently had cover.
 
-Jax Korr is our new pal, gone back to his place. Got his comm deets
+Jax Korr was our new pal, gone back to his place. Got his comm deets
 
-Can get us through the cordon via the shit pipe. Voss is an imp that's open to negotiation. There are droids manning it too.
+Could get us through the cordon via the shit pipe. Voss was an imp that was open to negotiation. There were droids manning it too.
 
-Cordon's up because the imps have released a virus or something similar to cover up cracking down on the rebels that are in sector 4.
+The cordon was up because the imps had released a virus or something similar to cover up cracking down on the rebels that were in sector 4.
 
-Into Jax' speeder! There's some cargo to run too, food/rations to bring in. Squishies have some PPE on to keep em safe. Some meds to go in too. "General supplies". Backpack each worth.
+Into Jax' speeder! There was some cargo to run too, food/rations to bring in. The squishies had some PPE on to keep em safe. Some meds to go in too. "General supplies". Backpack each worth.
 
 Into the tunnels, not a lot of light
 
-Scene swipe to us in the sewer. Mouth's nice n sealed in. His constant whistling is annoying. Sewer's stink. Backacks on. There are some stairs that'll pop us out within the cordon.
+Scene swipe to us in the sewer. Mouth was nice n sealed in. His constant whistling was annoying. The sewer stank. Backacks on. There were some stairs that'd pop us out within the cordon.
 
 Once we're out either dodge patrols and/or speak to droids to get in the tradesmen's entrance.
 
@@ -50,7 +50,7 @@ At the *inner* cordon now
 
 Snowy convinced the droids watching the cordon that we were here to perform a QA on the medical containment.
 
-We now have a map.
+We now had a map.
 
 Snowy stepped in shit though. Actual human? Shit
 
@@ -67,19 +67,19 @@ Jobs:
 
 ## Official Writeup:
 
-Boaty McBoatface and her crew reached the Outer Rim planet of Columex and were directed to land in Sector 1. Sector 4 is off limits for some reason.
+Boaty McBoatface and her crew reached the Outer Rim planet of Columex and were directed to land in Sector 1. Sector 4 was off limits for some reason.
 
 Columex is a major trade world, currently in Imperial control. Whilst customs were not an issue getting in, the spotlight might be brighter on your way out.
 
-Deebo was able to indicate where he needed to reach, and this is right in Sector 4. Mouth decides to leave the ship and provide assistance, but is keen to remain incognito.
+Deebo was able to indicate where he needed to reach, and this was right in Sector 4. Mouth decided to leave the ship and provide assistance, but was keen to remain incognito.
 
-You travelled to a bar to find some information and you rescued a Mirialan from Imperial capture by the name of Jax Korr. Jax takes you back to his place, is open about his sympathy for the Rebellion, and offers to get you into Sector 4 if you will deliver some supplies to the hospital there. He even offers you part of his cut, 4,000 credits, if you can get in and out.
+You travelled to a bar to find some information and you rescued a Mirialan from Imperial capture by the name of Jax Korr. Jax took you back to his place, was open about his sympathy for the Rebellion, and offered to get you into Sector 4 if you would deliver some supplies to the hospital there. He even offered you part of his cut, 4,000 credits, if you could get in and out.
 
-Korr informs you that there is an Imperial patrolling the cordon by the name of Voss that is open to negotiation. Some droids are also manning the town gate and you will have to get through them to get in.
+Korr informed you that there was an Imperial patrolling the cordon by the name of Voss that was open to negotiation. Some droids were also manning the town gate and you would have to get through them to get in.
 
-Jax has another job for you while you are there, and asks if you can retrieve a live sample of the virus for him. The reward he offers is 5,000 credits per stable sample.
+Jax had another job for you while you were there, and asked if you could retrieve a live sample of the virus for him. The reward he offered was 5,000 credits per stable sample.
 
-Jax takes you into Sector 4 and travel through the sewer system to reach the Inner cordon of the QZ. PPE has also been provided to protect you against the viral threat. Snowy was able to convince the maintenance droids that your presence is required to perform a QA on the medical containment despite having a foot in faeces.
+Jax took you into Sector 4 and you travelled through the sewer system to reach the Inner cordon of the QZ. PPE had also been provided to protect you against the viral threat. Snowy was able to convince the maintenance droids that your presence was required to perform a QA on the medical containment despite having a foot in faeces.
 
 The droids were also able to provide you with a map to the main hospital.
 

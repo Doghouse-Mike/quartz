@@ -2,7 +2,7 @@
 publish: true
 permalink: /Mostly How I Built This Site.md
 title: Mostly How I Built This Site
-created: 2026-06-26T14:55:10
+created: 2025-05-04T00:00:00
 modified: 2026-07-21T23:33:44
 tags:
   - Obsidian
