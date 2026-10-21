@@ -1,15 +1,15 @@
 ---
 publish: true
 permalink: /So instead of -I have to-, -I choose to-, but only for 15.md
-title: On Instead of "I Have tO", "I Choose tO"
+title: On Instead of "I Have to", "I Choose to"
 created: 2026-06-26T19:38:59
-modified: 2026-08-31T21:37:04
+modified: 2026-10-21T12:22:50
 tags:
   - Ideas
   - thoughttech
 ---
 
-# On Instead of "I Have tO", "I Choose tO"
+# On Instead of "I Have To", "I Choose To"
 
 So instead of "I have to", "I choose to", but only for 15 minutes, and reasons/bigger picture
 
