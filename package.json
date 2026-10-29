@@ -88,7 +88,7 @@
     "@quartz-community/unlisted-pages": "^1.0.0",
     "ansi-truncate": "^1.4.0",
     "async-mutex": "^0.5.0",
-    "chokidar": "^5.0.0",
+    "chokidar": "^6.0.0",
     "esbuild-sass-plugin": "^3.6.0",
     "github-slugger": "^2.0.0",
     "globby": "^16.1.0",
