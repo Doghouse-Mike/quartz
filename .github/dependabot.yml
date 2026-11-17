@@ -4,6 +4,12 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    # Pinned: Preact 11.1+ renders vnodes from another Preact copy as empty, and
+    # the lock-pinned plugins bundle their own. Remove after upgrading to
+    # Quartz 5.1 plugins, which share the host's Preact (jackyzha0/quartz#2613).
+    ignore:
+      - dependency-name: "preact"
+      - dependency-name: "preact-render-to-string"
     groups:
       # Separated so a risky third-party major cannot block ecosystem updates.
       quartz-ecosystem:
