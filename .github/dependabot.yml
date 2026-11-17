@@ -4,12 +4,16 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    # Pinned: Preact 11.1+ renders vnodes from another Preact copy as empty, and
-    # the lock-pinned plugins bundle their own. Remove after upgrading to
-    # Quartz 5.1 plugins, which share the host's Preact (jackyzha0/quartz#2613).
+    # Plugins declare these as peer dependencies (preact by 42 plugins, vfile by 15), so a
+    # major bump here passes `npm ci` but breaks plugins at runtime (#2586). Upgrade them
+    # deliberately, together with the plugins.
     ignore:
       - dependency-name: "preact"
-      - dependency-name: "preact-render-to-string"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "vfile"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "unified"
+        update-types: ["version-update:semver-major"]
     groups:
       # Separated so a risky third-party major cannot block ecosystem updates.
       quartz-ecosystem:
