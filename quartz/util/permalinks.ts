@@ -19,7 +19,11 @@ export function normalizePermalink(raw: unknown): FullSlug | undefined {
     .replace(/\\/g, "/")
     .replace(/^\/+|\/+$/g, "")
   if (value === "" || value === ".") return undefined
-  return slugifyFilePath(`${value}.md` as FilePath)
+  // Fork: this vault's notes carry `permalink: /Note name.md` (a file name, not an address).
+  // Treat a trailing `.md` as the extension, so the page keeps its pre-5.1 URL (`note-name`)
+  // instead of moving to `note-name.md`.
+  const withExt = /\.md$/i.test(value) ? value : `${value}.md`
+  return slugifyFilePath(withExt as FilePath)
 }
 
 export interface CollectPermalinksOptions {

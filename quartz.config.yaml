@@ -46,6 +46,8 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
+  links:
+    markdownLinkResolution: shortest
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -82,18 +84,13 @@ plugins:
     order: 30
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
-    order: 40
+    order: 30
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
     layout:
       position: right
       priority: 30
-  - source: github:quartz-community/crawl-links
-    enabled: true
-    options:
-      markdownLinkResolution: shortest
-    order: 60
   - source: github:quartz-community/description
     enabled: true
     order: 70
@@ -106,7 +103,7 @@ plugins:
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
-    enabled: true
+    enabled: false
     order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
@@ -118,8 +115,6 @@ plugins:
     enabled: true
     options:
       useThemeFonts: false
-  - source: github:quartz-community/remove-draft
-    enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: true
   - source: github:quartz-community/unlisted-pages
@@ -274,8 +269,6 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: false
-      delimiters: ---
-      language: yaml
     order: 5
     layout:
       position: beforeBody
@@ -285,7 +278,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: elysian
   - source: github:quartz-community/obsidian-plugin-excalidraw

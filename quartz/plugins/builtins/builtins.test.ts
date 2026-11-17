@@ -454,6 +454,7 @@ describe("content index built-in", () => {
     const json = JSON.parse(serializeContentIndex(idx))
     assert.deepStrictEqual(Object.keys(json.a).sort(), [
       "content",
+      "date", // fork: kept for the Explorer's newest-first sort (see serializeContentIndex)
       "filePath",
       "links",
       "slug",

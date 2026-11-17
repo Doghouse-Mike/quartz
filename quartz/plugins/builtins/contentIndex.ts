@@ -240,13 +240,11 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?:
   </rss>`
 }
 
-/** Entries as written to contentIndex.json (date and description are RSS/sitemap-only). */
+/** Entries as written to contentIndex.json (description is RSS/sitemap-only).
+ * Fork: `date` is kept — quartz.ts's Explorer sortFn orders notes newest-first by it. */
 export function serializeContentIndex(idx: ContentIndexMap): string {
   const simplified = Object.fromEntries(
-    Array.from(idx).map(([slug, { date: _date, description: _description, ...rest }]) => [
-      slug,
-      rest,
-    ]),
+    Array.from(idx).map(([slug, { description: _description, ...rest }]) => [slug, rest]),
   )
   return JSON.stringify(simplified)
 }
