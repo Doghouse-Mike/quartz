@@ -1,3 +1,14 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Amber Cathode (an Obsidian theme) ignores typography.body: it sets body text from
+// Obsidian's --font-text (and redefines Quartz's --bodyFont from it), and styles every
+// <p> with its interface font. Keep the font name in step with typography.body in
+// quartz.config.yaml, which is what loads it from Google Fonts.
+:root:root {
+  --font-text-override: "Geist Mono", var(--font-monospace-theme);
+}
+html body article p {
+  font-family: var(--font-text);
+}
