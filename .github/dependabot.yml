@@ -8,11 +8,10 @@ updates:
     # major bump here passes `npm ci` but breaks plugins at runtime (#2586). Upgrade them
     # deliberately, together with the plugins.
     ignore:
-      - dependency-name: "preact"
-        update-types: ["version-update:semver-major"]
-      - dependency-name: "vfile"
-        update-types: ["version-update:semver-major"]
-      - dependency-name: "unified"
+      # Fork: no npm majors at all. They arrive with upstream Quartz upgrades
+      # (`npx quartz upgrade`), tested against the plugins; a Dependabot major
+      # (preact 11) blanked the site on 2026-11-17.
+      - dependency-name: "*"
         update-types: ["version-update:semver-major"]
     groups:
       # Separated so a risky third-party major cannot block ecosystem updates.

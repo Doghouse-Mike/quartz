@@ -55,6 +55,12 @@
       "commit": "6db40c2891b722ba62f6cfb85f483d82d0096610",
       "installedAt": "2026-11-17T13:43:05.300Z"
     },
+    "content-index": {
+      "source": "github:doghouse-mike/content-index",
+      "resolved": "https://github.com/doghouse-mike/content-index.git",
+      "commit": "7ad4e9eeacee34cafbe845731b35717110a60388",
+      "installedAt": "2026-11-17T17:42:37.230Z"
+    },
     "content-meta": {
       "source": "github:quartz-community/content-meta",
       "resolved": "https://github.com/quartz-community/content-meta.git",
@@ -186,17 +192,6 @@
       "resolved": "https://github.com/quartz-community/page-title.git",
       "commit": "922aa3bfc40d0699b643c628423f3b86c7e36197",
       "installedAt": "2026-11-17T13:43:06.529Z"
-    },
-    "quartz-themes": {
-      "source": {
-        "name": "quartz-themes",
-        "repo": "github:saberzero1/quartz-themes",
-        "subdir": "plugin"
-      },
-      "resolved": "https://github.com/saberzero1/quartz-themes.git",
-      "commit": "44dd81094c0dd982b67f93d91ef8c80da3f583e6",
-      "subdir": "plugin",
-      "installedAt": "2026-10-06T23:21:19.033Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",

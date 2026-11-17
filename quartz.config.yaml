@@ -274,11 +274,8 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: false
+  - source: "@quartz-themes/core"
+    enabled: true
     options:
       theme: elysian
   - source: github:quartz-community/obsidian-plugin-excalidraw
