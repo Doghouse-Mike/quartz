@@ -11,6 +11,8 @@ tags:
 
 ## [[Crisis on Columex 20260814|Previously, on....]]
 
+This line can be ignored it is just Mike testing something.
+
 Looted some corpses, we had _a lot_ to carry. And some new toys.
 
 Nuked the lab, their backups (apart from a couple we were carrying), and any means of producing more of the virus.
