@@ -3,7 +3,6 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20230713.md
 title: SWRPG Session 1
 created: 2023-07-13T00:00:00
-modified: 2026-08-17T23:02:27
 tags:
   - rpg
   - StarWars

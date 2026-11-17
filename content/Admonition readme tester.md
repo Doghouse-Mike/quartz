@@ -3,7 +3,6 @@ publish: true
 permalink: /Admonition readme tester.md
 title: Admonition Readme Tester
 created: 2026-04-11T22:11:33
-modified: 2026-07-21T23:38:01
 tags:
   - Obsidian
 ---

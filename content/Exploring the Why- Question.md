@@ -3,7 +3,6 @@ publish: true
 permalink: /Exploring the Why- Question.md
 title: Exploring the Why? Question
 created: 2026-02-10T21:45:44
-modified: 2026-07-21T23:35:46
 tags:
   - thoughttech
 ---

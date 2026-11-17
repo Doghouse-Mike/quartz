@@ -3,7 +3,6 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20240201.md
 title: SWRPG Session 7
 created: 2024-02-01T00:00:00
-modified: 2026-07-21T23:43:01
 ---
 
 # SWRPG Session 7

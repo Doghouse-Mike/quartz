@@ -3,7 +3,6 @@ publish: true
 permalink: /Linux Fundamentals.md
 title: Linux Fundamentals
 created: 2026-06-29T17:51:16
-modified: 2026-08-05T17:57:07
 tags:
   - Linux
 ---

@@ -3,7 +3,6 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Z-X3ED.md
 title: Z-X3ED
 created: 2023-07-13T00:00:00
-modified: 2026-09-04T18:50:57
 ---
 
 # Z-X3ED

@@ -2,7 +2,6 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260904.md
 created: 2026-09-04T13:54:19
-modified: 2026-10-21T11:49:50
 tags:
   - StarWars
   - rpg

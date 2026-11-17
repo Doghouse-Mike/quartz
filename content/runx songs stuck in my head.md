@@ -3,7 +3,6 @@ publish: true
 permalink: /runx songs stuck in my head.md
 title: Runx Songs Stuck in My Head
 created: 2021-03-02T09:04:00
-modified: 2026-07-21T23:24:16
 tags:
   - music
 ---

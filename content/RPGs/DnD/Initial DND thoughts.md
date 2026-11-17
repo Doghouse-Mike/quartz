@@ -3,7 +3,6 @@ publish: true
 permalink: /RPGs/DnD/Initial DND thoughts.md
 title: Initial DND Thoughts
 created: 2026-03-27 21:48:03
-modified: 2026-07-12 00:49:34
 ---
 
 # Initial DND Thoughts

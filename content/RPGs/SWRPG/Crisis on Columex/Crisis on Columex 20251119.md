@@ -3,7 +3,6 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20251119.md
 title: SWRPG Session 12
 created: 2025-11-19T00:00:00
-modified: 2026-09-04T14:01:03
 ---
 
 # SWRPG Session 12

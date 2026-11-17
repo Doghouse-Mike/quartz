@@ -3,7 +3,6 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260508.md
 title: Crisis on Columex 20260508
 created: 2026-05-08T00:00:00
-modified: 2026-10-21T11:58:19
 ---
 
 # Crisis on Columex 20260508

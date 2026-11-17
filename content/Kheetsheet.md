@@ -2,7 +2,6 @@
 publish: true
 permalink: /Kheetsheet.md
 created: 2026-08-05T22:23:00
-modified: 2026-08-07T08:39:39
 tags:
   - Linux
   - Bazzite
