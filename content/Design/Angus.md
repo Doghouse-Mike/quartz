@@ -1,5 +1,6 @@
 ---
 publish: true
+filmstrip: true
 permalink: /Design/Angus.md
 title: Angus
 created: 2025-07-03 23:23:04

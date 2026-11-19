@@ -1,5 +1,6 @@
 ---
 publish: true
+filmstrip: true
 permalink: /Design/Misc.md
 title: Misc
 created: 2025-04-01 17:12:14

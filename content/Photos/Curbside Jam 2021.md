@@ -1,5 +1,6 @@
 ---
 publish: true
+filmstrip: true
 permalink: /Photos/Curbside Jam 2021.md
 title: Curbside Jam 2021
 created: 2026-03-10 21:34:26
