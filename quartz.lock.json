@@ -196,7 +196,7 @@
     "quartz-photo-view": {
       "source": "github:Doghouse-Mike/quartz-photo-view",
       "resolved": "https://github.com/Doghouse-Mike/quartz-photo-view.git",
-      "commit": "3ae96cd479e5059c78087f2eed10cceeedae46d3",
+      "commit": "eadf4790cfc28d0fe9e6b8f94806e4c22c0eef9c",
       "installedAt": "2026-11-19T22:55:18.494Z"
     },
     "reader-mode": {

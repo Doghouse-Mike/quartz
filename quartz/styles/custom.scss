@@ -13,3 +13,17 @@ html:root:root {
   --font-text: "Geist Mono", var(--font-monospace-theme);
   --font-interface: "Geist Mono", var(--font-monospace-theme);
 }
+
+// Embeds pasted from YouTube etc. carry a fixed width="560", which made pages wider
+// than a phone screen — mobile browsers then zoomed the whole page out (and the
+// photo lightbox with it). Keep them inside the column, at their own aspect ratio.
+article iframe {
+  max-width: 100%;
+}
+article iframe[src*="youtube.com/embed"],
+article iframe[src*="youtube-nocookie.com/embed"],
+article iframe[src*="player.vimeo.com"] {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
