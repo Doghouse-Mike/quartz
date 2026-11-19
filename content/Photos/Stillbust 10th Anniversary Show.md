@@ -1,5 +1,6 @@
 ---
 publish: true
+filmstrip: true
 permalink: /Photos/Stillbust 10th Anniversary Show.md
 title: Stillbust 10th Anniversary Show
 created: 2026-03-10 21:47:17

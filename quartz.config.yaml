@@ -286,6 +286,10 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  # Fork: own plugin — lightbox for all images + opt-in filmstrip (frontmatter `filmstrip: true`)
+  - source: github:Doghouse-Mike/quartz-photo-view
+    enabled: true
+    order: 60
 layout:
   groups:
     toolbar:
