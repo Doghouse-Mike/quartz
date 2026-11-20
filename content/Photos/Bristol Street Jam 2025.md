@@ -1,6 +1,5 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Photos/Bristol Street Jam 2025.md
 title: Bristol Street Jam 2025
 created: 2026-06-26T01:25:39

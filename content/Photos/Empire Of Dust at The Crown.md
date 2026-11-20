@@ -1,6 +1,5 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Photos/Empire Of Dust at The Crown.md
 title: Empire Of Dust at The Crown
 created: 2026-03-10 21:36:54

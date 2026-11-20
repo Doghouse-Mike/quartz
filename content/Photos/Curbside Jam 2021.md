@@ -1,15 +1,16 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Photos/Curbside Jam 2021.md
 title: Curbside Jam 2021
-created: 2026-03-10 21:34:26
+created: 2026-08-27T18:43:33
 tags:
   - BMX
   - photos
 ---
 
 # Curbside Jam 2021
+
+![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T120614614Z.jpg)
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T120503723Z.jpg)
 
@@ -90,8 +91,6 @@ tags:
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T120611125Z.jpg)
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T120612824Z.jpg)
-
-![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T120614614Z.jpg)
 
 ![](https://raw.githubusercontent.com/Doghouse-Mike/quartzpics/main/assets/20260626T120616546Z.jpg)
 
