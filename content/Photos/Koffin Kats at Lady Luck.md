@@ -1,5 +1,6 @@
 ---
 publish: true
+filmstrip: true
 permalink: /Photos/Koffin Kats at Lady Luck.md
 title: Koffin Kats at Lady Luck
 created: 2026-03-10 21:38:24

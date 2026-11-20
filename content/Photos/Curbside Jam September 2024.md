@@ -1,5 +1,6 @@
 ---
 publish: true
+filmstrip: true
 permalink: /Photos/Curbside Jam September 2024.md
 title: Curbside Jam September 2024
 created: 2026-03-16 23:21:49
