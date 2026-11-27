@@ -3,8 +3,11 @@ publish: true
 permalink: /End Transmissions.md
 title: End Transmissions
 created: 2026-06-06T12:09:01
+modified: 2026-07-21T23:36:04
+published: 2026-07-21T22:36:06.258Z
 tags:
   - music
+categories:
 ---
 
 # End Transmissions

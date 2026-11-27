@@ -3,6 +3,8 @@ publish: true
 permalink: /Setting themes in Ubuntu.md
 title: Setting Themes in Ubuntu
 created: 2026-06-26T14:56:30
+modified: 2026-07-21T23:23:51
+published: 2026-07-21T22:23:51.198Z
 tags:
   - Linux
 ---

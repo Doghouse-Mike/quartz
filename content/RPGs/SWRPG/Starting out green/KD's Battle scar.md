@@ -3,6 +3,13 @@ publish: true
 permalink: /RPGs/SWRPG/Starting out green/KD's Battle scar.md
 title: KD's Battle Scar
 created: 2026-02-10T21:19:26
+modified: 2026-07-21T23:45:53
+published: 2026-07-21T22:45:53.086Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
+  - characters
 ---
 
 # KD's Battle Scar

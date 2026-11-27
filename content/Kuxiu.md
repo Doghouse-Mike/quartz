@@ -3,6 +3,8 @@ publish: true
 permalink: /Kuxiu.md
 title: Kuxiu M30 Ipad Charger
 created: 2025-08-14T10:17:44
+modified: 2026-07-21T23:34:14
+published: 2026-07-21T22:34:16.039Z
 tags:
   - ipad
 ---

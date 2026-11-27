@@ -3,8 +3,14 @@ publish: true
 permalink: /RPGs/SWRPG/Character Creation Ideas (for Future reference).md
 title: Character Creation Ideas (For Future rEference)
 created: 2026-02-06T21:46:44
+modified: 2026-07-21T23:46:38
+published: 2026-07-21T22:46:38.968Z
 tags:
   - rpg
+Tags:
+  - rpg
+  - StarWars
+  - characters
 ---
 
 # Character Creation Ideas (For Future rEference)

@@ -3,6 +3,8 @@ publish: true
 permalink: /iPad for work thoughts May '23.md
 title: iPad for Work Thoughts May '23
 created: 2026-04-11T10:17:31
+modified: 2026-07-21T23:34:29
+published: 2026-07-21T22:34:31.795Z
 tags:
   - ipad
 ---

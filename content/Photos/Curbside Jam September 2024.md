@@ -1,12 +1,14 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Photos/Curbside Jam September 2024.md
 title: Curbside Jam September 2024
 created: 2026-03-16 23:21:49
+modified: 2026-07-12 00:49:36
+published: 2026-11-19T22:54:30.835Z
 tags:
   - BMX
   - photos
+filmstrip: true
 ---
 
 # Curbside Jam September 2024

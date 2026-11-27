@@ -3,6 +3,8 @@ publish: true
 permalink: /Pachelbel's Snapcase.md
 title: Pachelbel's Snapcase
 created: 2026-06-03T12:11:24
+modified: 2026-07-21T23:29:29
+published: 2026-07-21T22:29:31.659Z
 tags:
   - music
   - musictheory

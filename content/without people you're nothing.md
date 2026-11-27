@@ -3,6 +3,8 @@ publish: true
 permalink: /without people you're nothing.md
 title: Without People You're Nothing
 created: 2013-12-24 01:20:43
+modified: 2026-07-12 00:49:36
+published: 2026-07-11T23:49:38.780Z
 tags:
   - music
   - kids

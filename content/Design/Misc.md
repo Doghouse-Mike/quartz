@@ -1,11 +1,13 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Design/Misc.md
 title: Misc
 created: 2025-04-01 17:12:14
+modified: 2026-07-12 00:53:11
+published: 2026-11-19T22:54:30.837Z
 tags:
   - design
+filmstrip: true
 ---
 
 # Misc

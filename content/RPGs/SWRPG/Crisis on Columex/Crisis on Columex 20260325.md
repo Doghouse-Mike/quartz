@@ -3,6 +3,12 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260325.md
 title: Crisis on Columex 20260325
 created: 2026-03-25T00:00:00
+modified: 2026-07-21T23:42:34
+published: 2026-09-13T00:40:50.220Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
 ---
 
 # Crisis on Columex 20260325

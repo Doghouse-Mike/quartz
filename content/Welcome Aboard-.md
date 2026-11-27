@@ -3,6 +3,9 @@ publish: true
 permalink: /Welcome Aboard-.md
 title: Welcome Aboard!
 created: 2026-02-10 21:45:44
+modified: 2026-07-12 00:49:36
+published: 2026-07-11T23:49:37.791Z
+tags: []
 ---
 
 - for historical context of when I was trying to pimp myself out a bit more

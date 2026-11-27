@@ -3,6 +3,12 @@ publish: true
 permalink: /RPGs/SWRPG/Starting out green/Starting out Green 20251017.md
 title: Starting out Green 20251017
 created: 2025-10-17T00:00:00
+modified: 2026-07-21T23:44:22
+published: 2026-07-21T22:44:23.577Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
 ---
 
 # Starting out Green 20251017

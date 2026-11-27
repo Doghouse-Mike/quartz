@@ -3,6 +3,8 @@ publish: true
 permalink: /Mostly How I Built This Site.md
 title: Mostly How I Built This Site
 created: 2025-05-04T00:00:00
+modified: 2026-07-21T23:33:44
+published: 2026-07-21T22:33:45.654Z
 tags:
   - Obsidian
   - Quartz

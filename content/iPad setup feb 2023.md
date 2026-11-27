@@ -3,6 +3,8 @@ publish: true
 permalink: /iPad setup feb 2023.md
 title: iPad Setup Feb 2023
 created: 2026-04-11T10:17:31
+modified: 2026-07-21T23:34:20
+published: 2026-07-21T22:34:22.459Z
 tags:
   - ipad
 ---

@@ -3,6 +3,12 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex overview.md
 title: Crisis on Columex Overview
 created: 2026-04-14T07:20:15
+modified: 2026-07-21T23:42:21
+published: 2026-07-21T22:42:21.350Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
 ---
 
 # Crisis on Columex Overview

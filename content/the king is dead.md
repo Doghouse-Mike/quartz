@@ -3,6 +3,8 @@ publish: true
 permalink: /the king is dead.md
 title: The King is Dead
 created: 2013-06-09T21:42:43
+modified: 2026-10-21T11:27:14
+published: 2026-10-21T10:27:16.854Z
 tags:
   - music
   - death

@@ -3,6 +3,8 @@ publish: true
 permalink: /Seemingly urgent vs truly important.md
 title: Seemingly Urgent Vs Truly Important
 created: 2026-04-11T10:17:31
+modified: 2026-07-21T23:24:04
+published: 2026-07-21T22:24:04.338Z
 tags:
   - thoughttech
 ---

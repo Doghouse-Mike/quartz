@@ -2,6 +2,8 @@
 publish: true
 permalink: /The reasoning behind Kheetsheet.md
 created: 2026-07-28T00:13:03
+modified: 2026-08-07T08:38:41
+published: 2026-09-06T22:44:27.074Z
 tags:
   - ai
   - code

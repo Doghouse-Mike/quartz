@@ -3,6 +3,12 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/ED's version of events.md
 title: ED's Version of Events
 created: 2026-06-26T00:46:45
+modified: 2026-07-21T23:41:47
+published: 2026-07-21T22:41:47.195Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
 ---
 
 # ED's Version of Events

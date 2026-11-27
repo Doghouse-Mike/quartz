@@ -3,6 +3,12 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/SWRPG Starter Ship Decision.md
 title: SWRPG Starter Ship Decision
 created: 2026-06-26T00:45:43
+modified: 2026-07-21T23:40:47
+published: 2026-07-21T22:40:47.885Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
 ---
 
 # SWRPG Starter Ship Decision

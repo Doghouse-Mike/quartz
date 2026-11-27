@@ -3,6 +3,8 @@ publish: true
 permalink: /DPD tracking script.md
 title: DPD Tracking Script
 created: 2026-07-11T21:55:13
+modified: 2026-07-29T21:31:09
+published: 2026-07-31T21:10:43.271Z
 tags:
   - Python
   - dayjob

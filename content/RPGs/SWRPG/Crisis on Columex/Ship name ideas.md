@@ -3,6 +3,13 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Ship name ideas.md
 title: Ship Name Ideas
 created: 2026-06-26T00:49:11
+modified: 2026-07-21T23:41:10
+published: 2026-07-21T22:41:10.484Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
+  - Ideas
 ---
 
 # Ship Name Ideas

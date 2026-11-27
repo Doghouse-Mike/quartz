@@ -3,6 +3,8 @@ publish: true
 permalink: /Quartz syncer error.md
 title: Quartz Syncer Error
 created: 2026-06-26T14:54:47
+modified: 2026-07-21T23:28:49
+published: 2026-07-21T22:28:51.724Z
 tags:
   - Obsidian
   - Quartz

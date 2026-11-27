@@ -3,6 +3,9 @@ publish: true
 permalink: /Elegy vs Eulogy.md
 title: Elegy Vs Eulogy
 created: 2025-07-17 21:43:10
+modified: 2026-07-12 00:49:34
+published: 2026-07-11T23:49:37.609Z
+tags: []
 ---
 
 # Elegy Vs Eulogy

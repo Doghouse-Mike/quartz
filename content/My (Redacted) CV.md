@@ -3,6 +3,8 @@ publish: true
 permalink: /My (Redacted) CV.md
 title: My (Redacted) CV
 created: 2026-03-12T17:25:10
+modified: 2026-07-21T23:31:43
+published: 2026-07-21T22:31:43.056Z
 tags:
   - dayjob
 ---

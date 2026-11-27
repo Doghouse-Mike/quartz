@@ -3,6 +3,13 @@ publish: true
 permalink: /RPGs/SWRPG/Starting out green/KD Progression Options.md
 title: KD Progression Options
 created: 2026-02-06T21:46:37
+modified: 2026-07-21T23:46:19
+published: 2026-07-21T22:46:19.121Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
+  - characters
 ---
 
 # KD Progression Options

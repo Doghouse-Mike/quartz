@@ -3,6 +3,8 @@ publish: true
 permalink: /Notes on The Minimalists.md
 title: Notes on The Minimalists
 created: 2026-06-26T14:54:17
+modified: 2026-07-21T23:30:43
+published: 2026-07-21T22:30:43.594Z
 tags:
   - tv
   - minimalism

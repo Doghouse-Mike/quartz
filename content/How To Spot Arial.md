@@ -3,6 +3,8 @@ publish: true
 permalink: /How To Spot Arial.md
 title: How To Spot Arial
 created: 2026-06-26T14:54:02
+modified: 2026-07-21T23:34:53
+published: 2026-07-21T22:34:55.143Z
 tags:
   - design
   - fonts

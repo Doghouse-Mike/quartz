@@ -3,9 +3,14 @@ publish: true
 permalink: /RPGs/SWRPG/Starting out green/Cold climate shopping.md
 title: Cold Climate Shopping
 created: 2026-02-20T00:00:00
+modified: 2026-07-21T23:46:24
+published: 2026-07-21T22:46:25.178Z
 tags:
   - StarWars
   - rpg
+Tags:
+  - rpg
+  - StarWars
 ---
 
 # Cold Climate Shopping

@@ -3,6 +3,12 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20240307.md
 title: SWRPG Session 8
 created: 2024-03-07T00:00:00
+modified: 2026-07-21T23:42:57
+published: 2026-09-13T00:39:39.573Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
 ---
 
 # SWRPG Session 8

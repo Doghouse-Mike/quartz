@@ -1,12 +1,14 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Photos/JD McPherson at The Bullingdon.md
 title: JD McPherson at The Bullingdon
 created: 2026-03-16 23:21:49
+modified: 2026-07-12 00:49:36
+published: 2026-11-19T22:54:30.836Z
 tags:
   - gigs
   - photos
+filmstrip: true
 ---
 
 # JD McPherson at The Bullingdon

@@ -3,6 +3,13 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Z-X3ED.md
 title: Z-X3ED
 created: 2023-07-13T00:00:00
+modified: 2026-09-04T18:50:57
+published: 2026-09-04T17:51:00.981Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
+  - characters
 ---
 
 # Z-X3ED

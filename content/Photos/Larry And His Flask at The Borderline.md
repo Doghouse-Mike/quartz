@@ -1,12 +1,14 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Photos/Larry And His Flask at The Borderline.md
 title: Larry And His Flask at The Borderline
 created: 2026-03-10 21:44:22
+modified: 2026-07-12 00:49:36
+published: 2026-11-19T22:54:30.836Z
 tags:
   - gigs
   - photos
+filmstrip: true
 ---
 
 # Larry And His Flask at The Borderline

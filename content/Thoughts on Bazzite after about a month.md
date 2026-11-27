@@ -2,6 +2,8 @@
 publish: true
 permalink: /Thoughts on Bazzite after about a month.md
 created: 2026-07-08T01:22:31
+modified: 2026-07-30T00:01:08
+published: 2026-07-29T23:01:10.199Z
 tags:
   - Bazzite
   - Linux

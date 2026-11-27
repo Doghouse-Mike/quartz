@@ -3,6 +3,13 @@ publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Nira Keth.md
 title: Nira Keth
 created: 2026-06-26T00:47:37
+modified: 2026-07-21T23:41:36
+published: 2026-07-21T22:41:36.728Z
+tags: []
+Tags:
+  - rpg
+  - StarWars
+  - characters
 ---
 
 # Nira Keth

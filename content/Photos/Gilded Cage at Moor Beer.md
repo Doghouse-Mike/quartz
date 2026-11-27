@@ -1,12 +1,14 @@
 ---
 publish: true
-filmstrip: true
 permalink: /Photos/Gilded Cage at Moor Beer.md
 title: Gilded Cage at Moor Beer
 created: 2026-03-10 21:37:13
+modified: 2026-07-12 00:49:36
+published: 2026-11-19T22:54:30.836Z
 tags:
   - gigs
   - photos
+filmstrip: true
 ---
 
 # Gilded Cage at Moor Beer
