@@ -2,8 +2,8 @@
 publish: true
 permalink: /RPGs/SWRPG/Crisis on Columex/Crisis on Columex 20260904.md
 created: 2026-09-04T13:54:19
-modified: 2026-11-17T17:41:22
-published: 2026-11-17T17:41:24.841Z
+modified: 2026-11-27T19:39:25
+published: 2026-11-27T19:39:27.696Z
 tags:
   - StarWars
   - rpg
@@ -166,3 +166,48 @@ Routh: Leadership = 3Y: Mechanics 3G: Skulduggery = 3Y1G
 10XP each, Ed got a rank in [Toughened](https://star-wars-rpg-ffg.fandom.com/wiki/Toughened_talent).
 
 ![[Attachments/attachment 1/Forged in Battle - Fortifications.pdf]]
+
+#### Claude Thinks
+
+If you only get some of these done, do them in this order: War Planning first, Heal the troops second, Leadership third. Blinds come next, and traps last. I read the session note in your Quartz repo, the prep-options table image and the Forged in Battle fortifications PDF.
+
+The most important point is about order. Each job is rolled by a different person, so the party can work in parallel. What matters is which jobs have to happen early and which ones you can't afford to lose.
+
+1. War Planning: Knowledge (Warfare), 3 purple. Do it first.
+
+- It's the hardest check on the list, but it tells you where Neero's crew will come from. That decides where the blinds, traps and killbox go. Without it, everything else is placed on guesswork.
+- Who rolls: Illara (5 green) or Snowie (1 yellow, 3 green). On average Illara is slightly better.
+- Make it easier: send Deebo out to scout first. The aerial pictures could reasonably earn a boost die. A Knowledge (Underworld) read on Neero's crew is also worth asking the GM about. It's effectively the same question, answered from the gang's side.
+
+2. Heal the troops: Medicine, 2, 3 or 4 purple. Biggest payoff, best odds.
+
+- The thing the hospital is short of is healthy people to fight. Healing is the only option that fixes that directly, and it gives up to three minion groups.
+- Who rolls: Dr Jackie has 4 yellow in Medicine, the strongest dice pool in the whole table. Four yellow against four purple averages roughly 3.3 successes against 2 failures, so going for the 3-group version is a reasonable risk. If the GM allows a second healing check, Illara (3 yellow, 2 green) is a strong backup.
+- Free extra: hand the looted guns to the healed troops. It costs no roll, and more fighters with better weapons is a real gain.
+
+3. Leadership: 2 purple, adds a boost die. Cheap, likely and pairs with healing.
+
+- One boost die matters more the more troops you have, so it works best alongside healing.
+- Who rolls: Routh (3 yellow). He's already on the hololink upstairs, so he can do this from there.
+
+4. Blinds: Average Survival check, 4 hours each.
+
+- These are easy to pass. Each blind hides two people and gives them 3 boost dice to Stealth, with 3 setback dice to enemy Perception. That fits the plan to make everything look quiet, so put snipers on the roof and at the edges of the killbox.
+- Weakness: each blind only holds two people, and they take time. The rules let you cut 2 hours for each success beyond the first, so the best dice pool should roll them.
+- Who rolls: KX (4 green) on paper, but see the arm issue below. Ed (3 green) is the safe choice.
+
+5. Traps: Mechanics or Skulduggery. Lowest priority as written.
+
+- The trap does fall-type damage: 10 wounds minus the target's successes on a 2-purple Athletics or Coordination check, plus strain the same way. That's modest, and the entrance already has traps.
+- Your "other ideas" are better versions of this: rig the speeders to blow, remote-detonated grenades, tripwires across the approach roads. Get the GM to treat those as traps instead. Nira (Mechanics 2 yellow, 1 green) or Routh (Skulduggery 3 yellow, 1 green) could build them.
+
+Do these early, outside the table
+
+- Kemmie's arm. KX has the best Survival and Skulduggery, but a missing arm probably means setback dice on anything physical. Reattaching it first is a quick Mechanics job (Snowie 4 green, Illara 5 green) and makes KX more useful for everything else.
+- The guns: free. Hand them out.
+- Vaccinating the defenders: not on the list, but you're carrying racks of the vaccine. That's at least worth asking the GM about.
+
+Things to check with the GM
+
+- Illara and Dr Jackie: the table's columns only show Snowie, Nira, Ed, KX and Routh. If Illara and Jackie can't roll, Snowie takes War Planning and Medicine falls back to Snowie (2 yellow, 2 green), and you should drop to the 2-group heal.
+- Ed and Medicine: Ed has none, so Ed is best used on blinds or sent out with Deebo.
